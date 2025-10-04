@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@plugin "@iconify/tailwind4";
+@import "./styles/buttons";
+@import "./styles/category";
+@import "./styles/icons";
+@import "./styles/filter-menu";
+
+@plugin "@iconify/tailwind4" {
+  prefix: "iconify";
+  scale: 1.2;
+}
+
+#finlandMap {
+  height: 100vh;
+
+  margin: 0 auto;
+}
+
+body {
+  height: 100%;
+  overflow: clip;
+}

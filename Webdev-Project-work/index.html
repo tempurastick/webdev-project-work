@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+        <link rel="stylesheet" href="/src/style.css" />
+        <script
+            src="https://kit.fontawesome.com/d0e70cbdc1.js"
+            crossorigin="anonymous"
+        ></script>
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+            integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+            crossorigin=""
+        />
+        <script
+            src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""
+        ></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>webdev-project-work</title>
+    </head>
+    <body>
+        <h1 class="text-3xl text-indigo-500 font-bold absolute z-900 right-2">
+            Wildlife in Finland
+        </h1>
+        <button class="btn-filter" id="btn-filter">
+            <span class="icon-[mage--filter] bga-indigo-500 icon-lg"></span>
+        </button>
+        <div class="wrapper">
+            <div class="filter-menu flex flex-col p-4">
+                <!--
+          should be turned into a checkbox later 
+                -->
+                <h3 class="category-title text-indigo-500 font-bold text-xl">
+                    Category
+                </h3>
+                <div class="category-grid">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <i
+                                class="fa-solid fa-crow fa-2xl text-indigo-500"
+                            ></i>
+                        </div>
+
+                        <span class="category-name">Birds</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-img">
+                            <i
+                                class="fa-solid fa-frog fa-2xl text-indigo-500"
+                            ></i>
+                        </div>
+
+                        <span class="category-name">Amphibians</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-img">
+                            <span
+                                class="icon-[mdi--reptile] icon-lg bg-indigo-500"
+                            ></span>
+                        </div>
+
+                        <span class="category-name">Reptiles</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-img">
+                            <i
+                                class="fa-solid fa-dog fa-2xl text-indigo-500"
+                            ></i>
+                        </div>
+                        <span class="category-name">Mammals</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-img">
+                            <i
+                                class="fa-solid fa-fish-fins fa-2xl text-indigo-500"
+                            ></i>
+                        </div>
+
+                        <span class="category-name">Fish</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-img">
+                            <span
+                                class="icon-[mdi--snail] bg-indigo-500 icon-lg"
+                            ></span>
+                        </div>
+                        <span class="category-name">Mollusks</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-img">
+                            <i
+                                class="fa-solid fa-spider fa-2xl text-indigo-500"
+                            ></i>
+                        </div>
+
+                        <span class="category-name">Arachnids</span>
+                    </div>
+                    <div class="category-item">
+                        <div class="category-img">
+                            <i
+                                class="fa-solid fa-bugs fa-2xl text-indigo-500"
+                            ></i>
+                        </div>
+
+                        <span class="category-name">Insects</span>
+                    </div>
+                </div>
+
+                <h3 class="category-title text-indigo-500 font-bold text-xl">
+                    Species
+                </h3>
+                <div class="species-grid">
+                    <div class="species-search">
+                        <!--
+                  TODO: should be injected by api data, pre-filtered by categories 
+                  -->
+                        <select
+                            name="cars"
+                            class="w-full appearance-none"
+                            id="species-list"
+                            multiple
+                        >
+                            <option
+                                value="raven"
+                                class="px-2 py-1 hover:bg-indigo-100 text-indigo-500"
+                            >
+                                Raven
+                            </option>
+                            <option value="bluebird">Bluebird</option>
+                        </select>
+                    </div>
+                </div>
+
+                <h3 class="category-title text-indigo-500 font-bold text-xl">
+                    Season
+                </h3>
+
+                <div class="season-grid flex">
+                    <!--
+              not sure if this should be a season picker or more of a
+                slider
+                -->
+                    <div class="items-center me-4">
+                        <input
+                            type="radio"
+                            value=""
+                            id="season-spring"
+                            name="inline-radio-group"
+                            class="w-4 h-4 focus:ring-indigo-500 focus:ring-2"
+                        />
+                        <label
+                            for="season-spring"
+                            class="ms-2 font-bold text-indigo-500"
+                            >Spring</label
+                        >
+                    </div>
+                    <div class="items-center me-4">
+                        <input
+                            type="radio"
+                            value=""
+                            id="season-summer"
+                            name="inline-radio-group"
+                            class="w-4 h-4"
+                        />
+                        <label
+                            for="season-summer"
+                            class="ms-2 font-bold text-indigo-500"
+                            >Summer</label
+                        >
+                    </div>
+                </div>
+                <div class="button-group">
+                    <button class="btn btn-reset" id="btn-filter-reset">
+                        Reset
+                    </button>
+                </div>
+            </div>
+            <div id="finlandMap"></div>
+        </div>
+        <script type="module" src="/src/main.js"></script>
+    </body>
+</html>
