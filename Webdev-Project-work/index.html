@@ -110,28 +110,40 @@
                     </div>
                 </div>
 
+                <div class="options-wrapper">
+                    <h3
+                        class="category-title text-indigo-500 font-bold text-xl"
+                    >
+                        Options
+                    </h3>
+
+                    <label class="option-toggle-label">
+                        <input
+                            type="checkbox"
+                            value=""
+                            class="sr-only peer"
+                            id="scientific-name-toggle"
+                        />
+                        <div class="option-toggle"></div>
+                        <span class="option-toggle-text"
+                            >Display Scientific Names</span
+                        >
+                    </label>
+                </div>
+
                 <h3 class="category-title text-indigo-500 font-bold text-xl">
                     Species
                 </h3>
-                <div class="species-grid">
+                <h4>Selected:</h4>
+                <!--
+                style this 
+                -->
+                <ul class="species-selected-list --common"></ul>
+                <div class="species-grid" id="speciesGrid">
                     <div class="species-search">
                         <!--
                   TODO: should be injected by api data, pre-filtered by categories 
                   -->
-                        <select
-                            name="cars"
-                            class="w-full appearance-none"
-                            id="species-list"
-                            multiple
-                        >
-                            <option
-                                value="raven"
-                                class="px-2 py-1 hover:bg-indigo-100 text-indigo-500"
-                            >
-                                Raven
-                            </option>
-                            <option value="bluebird">Bluebird</option>
-                        </select>
                     </div>
                 </div>
 
@@ -181,6 +193,26 @@
             </div>
             <div id="finlandMap"></div>
         </div>
-        <script type="module" src="/src/main.js"></script>
+        <template id="speciesDropdownList">
+            <h4 class="species-category"></h4>
+            <div class="species-grid">
+                <ul class="species-dropdown">
+                    <li class="species-dropdown-item">
+                        <label for="" class="species-dropdown-item__label">
+                            <span
+                                class="species-dropdown-item--scientific"
+                            ></span>
+                            <span class="species-dropdown-item--common"></span>
+                            <input
+                                name=""
+                                class="species-dropdown-item__checkbox"
+                                type="checkbox"
+                            />
+                        </label>
+                    </li>
+                </ul>
+            </div>
+        </template>
+        <script type="module" src="/src/main.js" defer></script>
     </body>
 </html>

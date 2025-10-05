@@ -1,0 +1,3946 @@
+﻿[
+  {
+    "Vernacular name": "Mute Swan",
+    "Scientific name": "Cygnus olor",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Tundra Swan",
+    "Scientific name": "Cygnus columbianus",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Whooper Swan",
+    "Scientific name": "Cygnus cygnus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Taiga Bean Goose",
+    "Scientific name": "Anser fabalis",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; Migratory birds of the EU Birds Directive; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": "Anser fabalis fabalis (Latham, 1787)"
+  },
+  {
+    "Vernacular name": "Tundra Bean Goose",
+    "Scientific name": "Anser serrirostris",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; Migratory birds of the EU Birds Directive; Game bird (Hunting law 1993/615)",
+    "Synonyms": "Anser fabalis rossicus Buturlin, 1933; Anser serrirostris rossicus; Anser fabalis rossicus"
+  },
+  {
+    "Vernacular name": "Pink-footed Goose",
+    "Scientific name": "Anser brachyrhynchus",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Greater White-fronted Goose",
+    "Scientific name": "Anser albifrons",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex III/B",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lesser White-fronted Goose",
+    "Scientific name": "Anser erythropus",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Greylag Goose",
+    "Scientific name": "Anser anser",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Bar-headed Goose",
+    "Scientific name": "Anser indicus",
+    "Status in Finland": "Anthropogenic; BirdLife Category C; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ross's Goose",
+    "Scientific name": "Anser rossii",
+    "Status in Finland": "BirdLife Category E; Anthropogenic; BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Anser rossi"
+  },
+  {
+    "Vernacular name": "Canada Goose",
+    "Scientific name": "Branta canadensis",
+    "Status in Finland": "Regular breeder; Stable population; Anthropogenic; BirdLife Category C",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; Game bird (Hunting law 1993/615); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Cackling Goose",
+    "Scientific name": "Branta hutchinsii",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Barnacle Goose",
+    "Scientific name": "Branta leucopsis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brant",
+    "Scientific name": "Branta bernicla",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-breasted Goose",
+    "Scientific name": "Branta ruficollis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ruddy Shelduck",
+    "Scientific name": "Tadorna ferruginea",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Shelduck",
+    "Scientific name": "Tadorna tadorna",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Mandarin Duck",
+    "Scientific name": "Aix galericulata",
+    "Status in Finland": "BirdLife Category C; Anthropogenic; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Wigeon",
+    "Scientific name": "Anas penelope",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": "Mareca penelope (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "American Wigeon",
+    "Scientific name": "Anas americana",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Mareca americana (J.F. Gmelin, 1789)"
+  },
+  {
+    "Vernacular name": "Gadwall",
+    "Scientific name": "Anas strepera",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; Migratory birds of the EU Birds Directive",
+    "Synonyms": "Mareca strepera (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Baikal Teal",
+    "Scientific name": "Anas formosa",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Sibirionetta formosa (Georgi, 1775)"
+  },
+  {
+    "Vernacular name": "Eurasian Teal",
+    "Scientific name": "Anas crecca",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Mallard",
+    "Scientific name": "Anas platyrhynchos",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/A; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "American Black Duck",
+    "Scientific name": "Anas rubripes",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Northern Pintail",
+    "Scientific name": "Anas acuta",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Garganey",
+    "Scientific name": "Anas querquedula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; Migratory birds of the EU Birds Directive; EU regulation regarding CITES, Appendix A; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": "Spatula querquedula (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Blue-winged Teal",
+    "Scientific name": "Anas discors",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Spatula discors (Linnaeus, 1766)"
+  },
+  {
+    "Vernacular name": "Northern Shoveler",
+    "Scientific name": "Anas clypeata",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Game bird (Hunting law 1993/615); Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": "Spatula clypeata (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Red-crested Pochard",
+    "Scientific name": "Netta rufina",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Pochard",
+    "Scientific name": "Aythya ferina",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ring-necked Duck",
+    "Scientific name": "Aythya collaris",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ferruginous Duck",
+    "Scientific name": "Aythya nyroca",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Tufted Duck",
+    "Scientific name": "Aythya fuligula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Greater Scaup",
+    "Scientific name": "Aythya marila",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lesser Scaup",
+    "Scientific name": "Aythya affinis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Eider",
+    "Scientific name": "Somateria mollissima",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "King Eider",
+    "Scientific name": "Somateria spectabilis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Steller's Eider",
+    "Scientific name": "Polysticta stelleri",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Harlequin Duck",
+    "Scientific name": "Histrionicus histrionicus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Long-tailed Duck",
+    "Scientific name": "Clangula hyemalis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Game bird (Hunting law 1993/615); Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Scoter",
+    "Scientific name": "Melanitta nigra",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black Scoter",
+    "Scientific name": "Melanitta americana",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Surf Scoter",
+    "Scientific name": "Melanitta perspicillata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Velvet Scoter",
+    "Scientific name": "Melanitta fusca",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex II/B; Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-winged Scoter",
+    "Scientific name": "Melanitta deglandi",
+    "Status in Finland": "",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Melanitta deglandi deglandi (Bonaparte, 1850)"
+  },
+  {
+    "Vernacular name": "Stejneger's Scoter",
+    "Scientific name": "Melanitta stejnegei",
+    "Status in Finland": "Very rare",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Melanitta deglandi stejnegeri (Ridgway, 1887)"
+  },
+  {
+    "Vernacular name": "Common Goldeneye",
+    "Scientific name": "Bucephala clangula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Smew",
+    "Scientific name": "Mergellus albellus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": "Mergus albellus"
+  },
+  {
+    "Vernacular name": "Red-breasted Merganser",
+    "Scientific name": "Mergus serrator",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Merganser",
+    "Scientific name": "Mergus merganser",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ruddy Duck",
+    "Scientific name": "Oxyura jamaicensis",
+    "Status in Finland": "Anthropogenic; BirdLife Category C; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Quail",
+    "Scientific name": "Coturnix coturnix",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Hazel Grouse",
+    "Scientific name": "Tetrastes bonasia",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; EU Directive on Conservation of Wild Birds Annex II/B; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": "Bonasa bonasia"
+  },
+  {
+    "Vernacular name": "Willow Ptarmigan",
+    "Scientific name": "Lagopus lagopus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rock Ptarmigan",
+    "Scientific name": "Lagopus muta",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615); Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": "Lagopus mutus"
+  },
+  {
+    "Vernacular name": "Black Grouse",
+    "Scientific name": "Tetrao tetrix",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; EU Directive on Conservation of Wild Birds Annex II/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": "Lyrurus tetrix (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Western Capercaillie",
+    "Scientific name": "Tetrao urogallus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; EU Directive on Conservation of Wild Birds Annex II/B; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Grey Partridge",
+    "Scientific name": "Perdix perdix",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/A; Game bird (Hunting law 1993/615); Regionally Threatened 2020 - 2b Southern boreal, Lake district",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Pheasant",
+    "Scientific name": "Phasianus colchicus",
+    "Status in Finland": "Regular breeder; BirdLife Category C; Stable population; Anthropogenic",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/A; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-throated Loon",
+    "Scientific name": "Gavia stellata",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 1a Hemiboreal, Åland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-throated Loon",
+    "Scientific name": "Gavia arctica",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pacific Loon",
+    "Scientific name": "Gavia pacifica",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Loon",
+    "Scientific name": "Gavia immer",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Yellow-billed Loon",
+    "Scientific name": "Gavia adamsii",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Grebe",
+    "Scientific name": "Tachybaptus ruficollis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Crested Grebe",
+    "Scientific name": "Podiceps cristatus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-necked Grebe",
+    "Scientific name": "Podiceps grisegena",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Horned Grebe",
+    "Scientific name": "Podiceps auritus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-necked Grebe",
+    "Scientific name": "Podiceps nigricollis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Northern Fulmar",
+    "Scientific name": "Fulmarus glacialis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Shearwater",
+    "Scientific name": "Ardenna gravis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Puffinus gravis"
+  },
+  {
+    "Vernacular name": "Sooty Shearwater",
+    "Scientific name": "Puffinus griseus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Ardenna grisea (J.F. Gmelin, 1789)"
+  },
+  {
+    "Vernacular name": "Manx Shearwater",
+    "Scientific name": "Puffinus puffinus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Storm Petrel",
+    "Scientific name": "Hydrobates pelagicus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Leach's Storm Petrel",
+    "Scientific name": "Hydrobates leucorhoa",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Hydrobates leucorhous (Vieillot, 1818); Oceanodroma leucorhoa (Vieillot, 1818)"
+  },
+  {
+    "Vernacular name": "Northern Gannet",
+    "Scientific name": "Morus bassanus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Cormorant",
+    "Scientific name": "Phalacrocorax carbo",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Shag",
+    "Scientific name": "Phalacrocorax aristotelis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pygmy Cormorant",
+    "Scientific name": "Phalacrocorax pygmaeus",
+    "Status in Finland": "Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Microcarbo pygmaeus (Pallas, 1773)"
+  },
+  {
+    "Vernacular name": "Great White Pelican",
+    "Scientific name": "Pelecanus onocrotalus",
+    "Status in Finland": "BirdLife Category B; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Bittern",
+    "Scientific name": "Botaurus stellaris",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Bittern",
+    "Scientific name": "Ixobrychus minutus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-crowned Night Heron",
+    "Scientific name": "Nycticorax nycticorax",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Squacco Heron",
+    "Scientific name": "Ardeola ralloides",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Egret",
+    "Scientific name": "Egretta garzetta",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Egret",
+    "Scientific name": "Egretta alba",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": "Ardea alba Linnaeus, 1758"
+  },
+  {
+    "Vernacular name": "Grey Heron",
+    "Scientific name": "Ardea cinerea",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Purple Heron",
+    "Scientific name": "Ardea purpurea",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Western Cattle Egret",
+    "Scientific name": "Ardea ibis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Bubulcus ibis (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Black Stork",
+    "Scientific name": "Ciconia nigra",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White Stork",
+    "Scientific name": "Ciconia ciconia",
+    "Status in Finland": "Regular vagrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Glossy Ibis",
+    "Scientific name": "Plegadis falcinellus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Spoonbill",
+    "Scientific name": "Platalea leucorodia",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Honey Buzzard",
+    "Scientific name": "Pernis apivorus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Oriental Honey Buzzard",
+    "Scientific name": "Pernis ptilorhynchus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black Kite",
+    "Scientific name": "Milvus migrans",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red Kite",
+    "Scientific name": "Milvus milvus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pallas's Fish Eagle",
+    "Scientific name": "Haliaeetus leucoryphus",
+    "Status in Finland": "BirdLife Category B; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-tailed Sea Eagle",
+    "Scientific name": "Haliaeetus albicilla",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Large birds of prey (NCD 2023/9, 73 §); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix I; EU regulation regarding CITES, Appendix A; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Egyptian Vulture",
+    "Scientific name": "Neophron percnopterus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Griffon Vulture",
+    "Scientific name": "Gyps fulvus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Cinereous Vulture",
+    "Scientific name": "Aegypius monachus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Short-toed Snake Eagle",
+    "Scientific name": "Circaetus gallicus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Western Marsh Harrier",
+    "Scientific name": "Circus aeruginosus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Hen Harrier",
+    "Scientific name": "Circus cyaneus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pallid Harrier",
+    "Scientific name": "Circus macrourus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Montagu's Harrier",
+    "Scientific name": "Circus pygargus",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Northern Goshawk",
+    "Scientific name": "Accipiter gentilis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 1a Hemiboreal, Åland; Regionally Threatened 2020 - 4d Northern boreal, Fjeld Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Sparrowhawk",
+    "Scientific name": "Accipiter nisus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Buzzard",
+    "Scientific name": "Buteo buteo",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Long-legged Buzzard",
+    "Scientific name": "Buteo rufinus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rough-legged Buzzard",
+    "Scientific name": "Buteo lagopus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Greater Spotted Eagle",
+    "Scientific name": "Aquila clanga",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Large birds of prey (NCD 2023/9, 73 §); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Clanga clanga (Pallas, 1811)"
+  },
+  {
+    "Vernacular name": "Lesser Spotted Eagle",
+    "Scientific name": "Aquila pomarina",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Large birds of prey (NCD 2023/9, 73 §)",
+    "Synonyms": "Clanga pomarina (C.L. Brehm, 1831)"
+  },
+  {
+    "Vernacular name": "Booted Eagle",
+    "Scientific name": "Aquila pennata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Hieraeetus pennatus; Aquila pennata; Hieraaetus pennatus (J.F. Gmelin, 1788)"
+  },
+  {
+    "Vernacular name": "Golden Eagle",
+    "Scientific name": "Aquila chrysaetos",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Large birds of prey (NCD 2023/9, 73 §); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Steppe Eagle",
+    "Scientific name": "Aquila nipalensis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eastern Imperial Eagle",
+    "Scientific name": "Aquila heliaca",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Osprey",
+    "Scientific name": "Pandion haliaetus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Large birds of prey (NCD 2023/9, 73 §); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lesser Kestrel",
+    "Scientific name": "Falco naumanni",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Kestrel",
+    "Scientific name": "Falco tinnunculus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Regionally Threatened 2020 - 1a Hemiboreal, Åland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-footed Falcon",
+    "Scientific name": "Falco vespertinus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Merlin",
+    "Scientific name": "Falco columbarius",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Regionally Threatened 2020 - 1a Hemiboreal, Åland; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone; Regionally Threatened 2020 - 2a Southern boreal, Southwestern Finland and Southern Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Hobby",
+    "Scientific name": "Falco subbuteo",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eleonora's Falcon",
+    "Scientific name": "Falco eleonorae",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Saker Falcon",
+    "Scientific name": "Falco cherrug",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Gyrfalcon",
+    "Scientific name": "Falco rusticolus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix I; EU regulation regarding CITES, Appendix A; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Peregrine Falcon",
+    "Scientific name": "Falco peregrinus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix I; EU regulation regarding CITES, Appendix A; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Water Rail",
+    "Scientific name": "Rallus aquaticus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Spotted Crake",
+    "Scientific name": "Porzana porzana",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 1a Hemiboreal, Åland; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Crake",
+    "Scientific name": "Porzana parva",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Zapornia parva (Scopoli, 1769)"
+  },
+  {
+    "Vernacular name": "Baillon's Crake",
+    "Scientific name": "Porzana pusilla",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Zapornia pusilla (Pallas, 1776)"
+  },
+  {
+    "Vernacular name": "Corn Crake",
+    "Scientific name": "Crex crex",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 1a Hemiboreal, Åland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Moorhen",
+    "Scientific name": "Gallinula chloropus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Allen's Gallinule",
+    "Scientific name": "Porphyrio alleni",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Gallinula alleni"
+  },
+  {
+    "Vernacular name": "Eurasian Coot",
+    "Scientific name": "Fulica atra",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Crane",
+    "Scientific name": "Grus grus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sandhill Crane",
+    "Scientific name": "Grus canadensis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Antigone canadensis (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Demoiselle Crane",
+    "Scientific name": "Grus virgo",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Anthropoides virgo"
+  },
+  {
+    "Vernacular name": "Little Bustard",
+    "Scientific name": "Tetrax tetrax",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Macqueen's Bustard",
+    "Scientific name": "Chlamydotis macqueenii",
+    "Status in Finland": "BirdLife Category B; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Chlamydotis undulata macqueenii"
+  },
+  {
+    "Vernacular name": "Great Bustard",
+    "Scientific name": "Otis tarda",
+    "Status in Finland": "BirdLife Category B; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Stone-curlew",
+    "Scientific name": "Burhinus oedicnemus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-winged Stilt",
+    "Scientific name": "Himantopus himantopus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pied Avocet",
+    "Scientific name": "Recurvirostra avosetta",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Oystercatcher",
+    "Scientific name": "Haematopus ostralegus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pacific Golden Plover",
+    "Scientific name": "Pluvialis fulva",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "American Golden Plover",
+    "Scientific name": "Pluvialis dominica",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Golden Plover",
+    "Scientific name": "Pluvialis apricaria",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; EU Directive on Conservation of Wild Birds Annex III/B; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Grey Plover",
+    "Scientific name": "Pluvialis squatarola",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sociable Lapwing",
+    "Scientific name": "Vanellus gregarius",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-tailed Lapwing",
+    "Scientific name": "Vanellus leucurus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Northern Lapwing",
+    "Scientific name": "Vanellus vanellus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Ringed Plover",
+    "Scientific name": "Charadrius dubius",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 1a Hemiboreal, Åland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Ringed Plover",
+    "Scientific name": "Charadrius hiaticula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Kentish Plover",
+    "Scientific name": "Charadrius alexandrinus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lesser Sand Plover",
+    "Scientific name": "Charadrius mongolus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Greater Sand Plover",
+    "Scientific name": "Charadrius leschenaultii",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Caspian Plover",
+    "Scientific name": "Charadrius asiaticus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Oriental Plover",
+    "Scientific name": "Charadrius veredus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Dotterel",
+    "Scientific name": "Charadrius morinellus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": "Eudromias morinellus (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Upland Sandpiper",
+    "Scientific name": "Bartramia longicauda",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Curlew",
+    "Scientific name": "Numenius minutus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Whimbrel",
+    "Scientific name": "Numenius phaeopus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Curlew",
+    "Scientific name": "Numenius arquata",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-tailed Godwit",
+    "Scientific name": "Limosa limosa",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Bar-tailed Godwit",
+    "Scientific name": "Limosa lapponica",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ruddy Turnstone",
+    "Scientific name": "Arenaria interpres",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red Knot",
+    "Scientific name": "Calidris canutus",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ruff",
+    "Scientific name": "Calidris pugnax",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Philomachus pugnax; Tringa pugnax"
+  },
+  {
+    "Vernacular name": "Sharp-tailed Sandpiper",
+    "Scientific name": "Calidris acuminata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Broad-billed Sandpiper",
+    "Scientific name": "Calidris falcinellus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district",
+    "Synonyms": "Limicola falcinellus"
+  },
+  {
+    "Vernacular name": "Curlew Sandpiper",
+    "Scientific name": "Calidris ferruginea",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Stilt Sandpiper",
+    "Scientific name": "Calidris himantopus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Micropalama himantopus"
+  },
+  {
+    "Vernacular name": "Red-necked Stint",
+    "Scientific name": "Calidris ruficollis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Long-toed Stint",
+    "Scientific name": "Calidris subminuta",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Temminck's Stint",
+    "Scientific name": "Calidris temminckii",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sanderling",
+    "Scientific name": "Calidris alba",
+    "Status in Finland": "Passage migrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Dunlin",
+    "Scientific name": "Calidris alpina",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Purple Sandpiper",
+    "Scientific name": "Calidris maritima",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Baird's Sandpiper",
+    "Scientific name": "Calidris bairdii",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Stint",
+    "Scientific name": "Calidris minuta",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-rumped Sandpiper",
+    "Scientific name": "Calidris fuscicollis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Least Sandpiper",
+    "Scientific name": "Calidris minutilla",
+    "Status in Finland": "BirdLife Category B; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Buff-breasted Sandpiper",
+    "Scientific name": "Calidris subruficollis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Tryngites subruficollis"
+  },
+  {
+    "Vernacular name": "Pectoral Sandpiper",
+    "Scientific name": "Calidris melanotos",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Wilson's Phalarope",
+    "Scientific name": "Phalaropus tricolor",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Steganopus tricolor Vieillot, 1819"
+  },
+  {
+    "Vernacular name": "Red-necked Phalarope",
+    "Scientific name": "Phalaropus lobatus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red Phalarope",
+    "Scientific name": "Phalaropus fulicarius",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Terek Sandpiper",
+    "Scientific name": "Xenus cinereus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Sandpiper",
+    "Scientific name": "Actitis hypoleucos",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Spotted Sandpiper",
+    "Scientific name": "Actitis macularius",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Actitis macularia"
+  },
+  {
+    "Vernacular name": "Green Sandpiper",
+    "Scientific name": "Tringa ochropus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Spotted Redshank",
+    "Scientific name": "Tringa erythropus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Greenshank",
+    "Scientific name": "Tringa nebularia",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 2a Southern boreal, Southwestern Finland and Southern Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lesser Yellowlegs",
+    "Scientific name": "Tringa flavipes",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Willet",
+    "Scientific name": "Tringa semipalmata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Catoptrophorus semipalmatus"
+  },
+  {
+    "Vernacular name": "Marsh Sandpiper",
+    "Scientific name": "Tringa stagnatilis",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Wood Sandpiper",
+    "Scientific name": "Tringa glareola",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Redshank",
+    "Scientific name": "Tringa totanus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Regionally Threatened 2020 - 2b Southern boreal, Lake district; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Jack Snipe",
+    "Scientific name": "Lymnocryptes minimus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Migratory birds of the EU Birds Directive; Regionally Threatened 2020 - 2a Southern boreal, Southwestern Finland and Southern Ostrobothnia; Regionally Threatened 2020 - 2b Southern boreal, Lake district; Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district",
+    "Synonyms": "Lymnocryptes minima"
+  },
+  {
+    "Vernacular name": "Long-billed Dowitcher",
+    "Scientific name": "Limnodromus scolopaceus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Woodcock",
+    "Scientific name": "Scolopax rusticola",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Snipe",
+    "Scientific name": "Gallinago gallinago",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/B",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Wilson's Snipe",
+    "Scientific name": "Gallinago delicata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Snipe",
+    "Scientific name": "Gallinago media",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Swinhoe's Snipe",
+    "Scientific name": "Gallinago megala",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Collared Pratincole",
+    "Scientific name": "Glareola pratincola",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Oriental Pratincole",
+    "Scientific name": "Glareola maldivarum",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-winged Pratincole",
+    "Scientific name": "Glareola nordmanni",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Cream-coloured Courser",
+    "Scientific name": "Cursorius cursor",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pomarine Jaeger",
+    "Scientific name": "Stercorarius pomarinus",
+    "Status in Finland": "Regular vagrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Parasitic Jaeger",
+    "Scientific name": "Stercorarius parasiticus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Long-tailed Jaeger",
+    "Scientific name": "Stercorarius longicaudus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Skua",
+    "Scientific name": "Stercorarius skua",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Catharacta skua"
+  },
+  {
+    "Vernacular name": "Atlantic Puffin",
+    "Scientific name": "Fratercula arctica",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black Guillemot",
+    "Scientific name": "Cepphus grylle",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ancient Murrelet",
+    "Scientific name": "Synthliboramphus antiquus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Razorbill",
+    "Scientific name": "Alca torda",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Auk",
+    "Scientific name": "Alle alle",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Murre",
+    "Scientific name": "Uria aalge",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Thick-billed Murre",
+    "Scientific name": "Uria lomvia",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Tern",
+    "Scientific name": "Sternula albifrons",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Sterna albifrons"
+  },
+  {
+    "Vernacular name": "Gull-billed Tern",
+    "Scientific name": "Gelochelidon nilotica",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Caspian Tern",
+    "Scientific name": "Hydroprogne caspia",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": "Sterna caspia; Hydroprogne tschegrava; Helopus caspius"
+  },
+  {
+    "Vernacular name": "Whiskered Tern",
+    "Scientific name": "Chlidonias hybrida",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Chlidonias hybridus"
+  },
+  {
+    "Vernacular name": "Black Tern",
+    "Scientific name": "Chlidonias niger",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Chlidonias nigra"
+  },
+  {
+    "Vernacular name": "White-winged Tern",
+    "Scientific name": "Chlidonias leucopterus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Chlidonias leucoptera"
+  },
+  {
+    "Vernacular name": "Sandwich Tern",
+    "Scientific name": "Sterna sandvicensis",
+    "Status in Finland": "Regular vagrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Thalasseus sandvicensis (Latham, 1787)"
+  },
+  {
+    "Vernacular name": "Common Tern",
+    "Scientific name": "Sterna hirundo",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Arctic Tern",
+    "Scientific name": "Sterna paradisaea",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland; Regionally Threatened 2020 - 4d Northern boreal, Fjeld Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Gull",
+    "Scientific name": "Hydrocoloeus minutus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone",
+    "Synonyms": "Larus minutus"
+  },
+  {
+    "Vernacular name": "Ross's Gull",
+    "Scientific name": "Rhodostethia rosea",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ivory Gull",
+    "Scientific name": "Pagophila eburnea",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sabine's Gull",
+    "Scientific name": "Xema sabini",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-legged Kittiwake",
+    "Scientific name": "Rissa tridactyla",
+    "Status in Finland": "Regular vagrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Slender-billed Gull",
+    "Scientific name": "Larus genei",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Larus genei; Chroicocephalus genei (Breme, 1839)"
+  },
+  {
+    "Vernacular name": "Black-headed Gull",
+    "Scientific name": "Larus ridibundus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive",
+    "Synonyms": "Larus ridibundus; Chroicocephalus ridibundus (Linnaeus, 1766)"
+  },
+  {
+    "Vernacular name": "Laughing Gull",
+    "Scientific name": "Larus atricilla",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Leucophaeus atricilla (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Franklin's Gull",
+    "Scientific name": "Larus pipixcan",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Leucophaeus pipixcan (Wagler, 1831)"
+  },
+  {
+    "Vernacular name": "Audouin's Gull",
+    "Scientific name": "Larus audouinii",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Ichthyaetus audouinii (Payraudeau, 1826)"
+  },
+  {
+    "Vernacular name": "Mediterranean Gull",
+    "Scientific name": "Larus melanocephalus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Ichthyaetus melanocephalus (Temminck, 1820)"
+  },
+  {
+    "Vernacular name": "Mew Gull",
+    "Scientific name": "Larus canus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lesser Black-backed Gull",
+    "Scientific name": "Larus fuscus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Herring Gull",
+    "Scientific name": "Larus argentatus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Unprotected animal (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Caspian Gull",
+    "Scientific name": "Larus cachinnans",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Yellow-legged Gull",
+    "Scientific name": "Larus michahellis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Slaty-backed Gull",
+    "Scientific name": "Larus schistisagus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Iceland Gull",
+    "Scientific name": "Larus glaucoides",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Glaucous Gull",
+    "Scientific name": "Larus hyperboreus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Black-backed Gull",
+    "Scientific name": "Larus marinus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Unprotected animal (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pallas's Sandgrouse",
+    "Scientific name": "Syrrhaptes paradoxus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rock Dove",
+    "Scientific name": "Columba livia",
+    "Status in Finland": "Regular breeder; Stable population; Anthropogenic; BirdLife Category C",
+    "Red List category in Finland": "",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Stock Dove",
+    "Scientific name": "Columba oenas",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Wood Pigeon",
+    "Scientific name": "Columba palumbus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/A; EU Directive on Conservation of Wild Birds Annex III/A; Game bird (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Collared Dove",
+    "Scientific name": "Streptopelia decaocto",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Turtle Dove",
+    "Scientific name": "Streptopelia turtur",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Oriental Turtle Dove",
+    "Scientific name": "Streptopelia orientalis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Spotted Cuckoo",
+    "Scientific name": "Clamator glandarius",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Cuckoo",
+    "Scientific name": "Cuculus canorus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Oriental Cuckoo",
+    "Scientific name": "Cuculus optatus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Western Barn Owl",
+    "Scientific name": "Tyto alba",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Scops Owl",
+    "Scientific name": "Otus scops",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Eagle-owl",
+    "Scientific name": "Bubo bubo",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Snowy Owl",
+    "Scientific name": "Bubo scandiacus",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Nyctea scandiaca"
+  },
+  {
+    "Vernacular name": "Northern Hawk-Owl",
+    "Scientific name": "Surnia ulula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Pygmy Owl",
+    "Scientific name": "Glaucidium passerinum",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Little Owl",
+    "Scientific name": "Athene noctua",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Tawny Owl",
+    "Scientific name": "Strix aluco",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ural Owl",
+    "Scientific name": "Strix uralensis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Grey Owl",
+    "Scientific name": "Strix nebulosa",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Long-eared Owl",
+    "Scientific name": "Asio otus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Short-eared Owl",
+    "Scientific name": "Asio flammeus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Boreal Owl",
+    "Scientific name": "Aegolius funereus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 1a Hemiboreal, Åland; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Nightjar",
+    "Scientific name": "Caprimulgus europaeus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-throated Needletail",
+    "Scientific name": "Hirundapus caudacutus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Hirundapus caudacuta"
+  },
+  {
+    "Vernacular name": "Common Swift",
+    "Scientific name": "Apus apus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pallid Swift",
+    "Scientific name": "Apus pallidus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Alpine Swift",
+    "Scientific name": "Apus melba",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Tachymarptis melba (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "White-rumped Swift",
+    "Scientific name": "Apus caffer",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Kingfisher",
+    "Scientific name": "Alcedo atthis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Bee-eater",
+    "Scientific name": "Merops apiaster",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Blue-cheeked Bee-eater",
+    "Scientific name": "Merops persicus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Merops superciliosus"
+  },
+  {
+    "Vernacular name": "European Roller",
+    "Scientific name": "Coracias garrulus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Hoopoe",
+    "Scientific name": "Upupa epops",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Wryneck",
+    "Scientific name": "Jynx torquilla",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland; Regionally Threatened 2020 - 4d Northern boreal, Fjeld Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Grey-headed Woodpecker",
+    "Scientific name": "Picus canus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Green Woodpecker",
+    "Scientific name": "Picus viridis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black Woodpecker",
+    "Scientific name": "Dryocopus martius",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Spotted Woodpecker",
+    "Scientific name": "Dendrocopos major",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Picoides major"
+  },
+  {
+    "Vernacular name": "Middle Spotted Woodpecker",
+    "Scientific name": "Dendrocopos medius",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Picoides medius; Dendrocoptes medius"
+  },
+  {
+    "Vernacular name": "White-backed Woodpecker",
+    "Scientific name": "Dendrocopos leucotos",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Picoides leucotos"
+  },
+  {
+    "Vernacular name": "Lesser Spotted Woodpecker",
+    "Scientific name": "Dendrocopos minor",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland; Regionally Threatened 2020 - 4d Northern boreal, Fjeld Lapland",
+    "Synonyms": "Dryobates minor (Linnaeus, 1758); Picoides minor"
+  },
+  {
+    "Vernacular name": "Eurasian Three-toed Woodpecker",
+    "Scientific name": "Picoides tridactylus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 1a Hemiboreal, Åland; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Dark-eyed Junco",
+    "Scientific name": "Junco hyemalis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Calandra Lark",
+    "Scientific name": "Melanocorypha calandra",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Bimaculated Lark",
+    "Scientific name": "Melanocorypha bimaculata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-winged Lark",
+    "Scientific name": "Melanocorypha leucoptera",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Alauda leucoptera Pallas, 1811"
+  },
+  {
+    "Vernacular name": "Black Lark",
+    "Scientific name": "Melanocorypha yeltoniensis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Greater Short-toed Lark",
+    "Scientific name": "Calandrella brachydactyla",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Crested Lark",
+    "Scientific name": "Galerida cristata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Woodlark",
+    "Scientific name": "Lullula arborea",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Skylark",
+    "Scientific name": "Alauda arvensis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Horned Lark",
+    "Scientific name": "Eremophila alpestris",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sand Martin",
+    "Scientific name": "Riparia riparia",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Crag Martin",
+    "Scientific name": "Ptyonoprogne rupestris",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Hirundo rupestris"
+  },
+  {
+    "Vernacular name": "Barn Swallow",
+    "Scientific name": "Hirundo rustica",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common House Martin",
+    "Scientific name": "Delichon urbicum",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species to be protected urgently (Finnish Environment Institute 2020)",
+    "Synonyms": "Delichon urbica"
+  },
+  {
+    "Vernacular name": "Eastern Red-rumped Swallow",
+    "Scientific name": "Cecropis daurica",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Hirundo daurica"
+  },
+  {
+    "Vernacular name": "European Red-rumped Swallow",
+    "Scientific name": "Cecropis rufula",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Cecropis daurica rufula"
+  },
+  {
+    "Vernacular name": "Richard's Pipit",
+    "Scientific name": "Anthus richardi",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Anthus novaeseelandiae"
+  },
+  {
+    "Vernacular name": "Blyth's Pipit",
+    "Scientific name": "Anthus godlewskii",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Tawny Pipit",
+    "Scientific name": "Anthus campestris",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Olive-backed Pipit",
+    "Scientific name": "Anthus hodgsoni",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Tree Pipit",
+    "Scientific name": "Anthus trivialis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pechora Pipit",
+    "Scientific name": "Anthus gustavi",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Meadow Pipit",
+    "Scientific name": "Anthus pratensis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 1a Hemiboreal, Åland; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone; Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-throated Pipit",
+    "Scientific name": "Anthus cervinus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Rock Pipit",
+    "Scientific name": "Anthus petrosus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Western Yellow Wagtail",
+    "Scientific name": "Motacilla flava",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone; Regionally Threatened 2020 - 2a Southern boreal, Southwestern Finland and Southern Ostrobothnia; Regionally Threatened 2020 - 2b Southern boreal, Lake district; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Citrine Wagtail",
+    "Scientific name": "Motacilla citreola",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eastern Yellow Wagtail",
+    "Scientific name": "Motacilla tschutschensis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Motacilla flava tschutschensis J.F. Gmelin, 1789"
+  },
+  {
+    "Vernacular name": "Grey Wagtail",
+    "Scientific name": "Motacilla cinerea",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White Wagtail",
+    "Scientific name": "Motacilla alba",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Bohemian Waxwing",
+    "Scientific name": "Bombycilla garrulus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-throated Dipper",
+    "Scientific name": "Cinclus cinclus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Wren",
+    "Scientific name": "Troglodytes troglodytes",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Dunnock",
+    "Scientific name": "Prunella modularis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Siberian Accentor",
+    "Scientific name": "Prunella montanella",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-throated Accentor",
+    "Scientific name": "Prunella atrogularis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Alpine Accentor",
+    "Scientific name": "Prunella collaris",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rufous-tailed Scrub Robin",
+    "Scientific name": "Cercotrichas galactotes",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Robin",
+    "Scientific name": "Erithacus rubecula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Thrush Nightingale",
+    "Scientific name": "Luscinia luscinia",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Nightingale",
+    "Scientific name": "Luscinia megarhynchos",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Bluethroat",
+    "Scientific name": "Luscinia svecica",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district",
+    "Synonyms": "Luscinia svecicus; Cyanecula svecica (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Siberian Rubythroat",
+    "Scientific name": "Calliope calliope",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Erithacus calliope; Luscinia calliope"
+  },
+  {
+    "Vernacular name": "Red-flanked Bluetail",
+    "Scientific name": "Tarsiger cyanurus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-throated Irania",
+    "Scientific name": "Irania gutturalis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black Redstart",
+    "Scientific name": "Phoenicurus ochruros",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Redstart",
+    "Scientific name": "Phoenicurus phoenicurus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Whinchat",
+    "Scientific name": "Saxicola rubetra",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pied Bush Chat",
+    "Scientific name": "Saxicola caprata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Siberian Stonechat",
+    "Scientific name": "Saxicola maurus",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Stonechat",
+    "Scientific name": "Saxicola rubicola",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Isabelline Wheatear",
+    "Scientific name": "Oenanthe isabellina",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Northern Wheatear",
+    "Scientific name": "Oenanthe oenanthe",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; Regionally Threatened 2020 - 2a Southern boreal, Southwestern Finland and Southern Ostrobothnia; Regionally Threatened 2020 - 2b Southern boreal, Lake district; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pied Wheatear",
+    "Scientific name": "Oenanthe pleschanka",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eastern Black-eared Wheatear",
+    "Scientific name": "Oenanthe melanoleuca",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Oenanthe hispanica melanoleuca"
+  },
+  {
+    "Vernacular name": "Desert Wheatear",
+    "Scientific name": "Oenanthe deserti",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Rock Thrush",
+    "Scientific name": "Monticola saxatilis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Blue Rock Thrush",
+    "Scientific name": "Monticola solitarius",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White's Thrush",
+    "Scientific name": "Zoothera aurea",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Swainson's Thrush",
+    "Scientific name": "Catharus ustulatus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ring Ouzel",
+    "Scientific name": "Turdus torquatus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Blackbird",
+    "Scientific name": "Turdus merula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eyebrowed Thrush",
+    "Scientific name": "Turdus obscurus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Naumann's Thrush",
+    "Scientific name": "Turdus naumanni",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Dusky Thrush",
+    "Scientific name": "Turdus eunomus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-throated Thrush",
+    "Scientific name": "Turdus atrogularis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Fieldfare",
+    "Scientific name": "Turdus pilaris",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Unprotected animal (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Song Thrush",
+    "Scientific name": "Turdus philomelos",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Redwing",
+    "Scientific name": "Turdus iliacus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Mistle Thrush",
+    "Scientific name": "Turdus viscivorus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pallas's Grasshopper Warbler",
+    "Scientific name": "Locustella certhiola",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lanceolated Warbler",
+    "Scientific name": "Locustella lanceolata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Grasshopper Warbler",
+    "Scientific name": "Locustella naevia",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 1a Hemiboreal, Åland; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "River Warbler",
+    "Scientific name": "Locustella fluviatilis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 1a Hemiboreal, Åland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Savi's Warbler",
+    "Scientific name": "Locustella luscinioides",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Thick-billed Warbler",
+    "Scientific name": "Iduna aedon",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Acrocephalus aedon; Arundinax aedon (Pallas, 1776)"
+  },
+  {
+    "Vernacular name": "Booted Warbler",
+    "Scientific name": "Iduna caligata",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Hippolais caligata"
+  },
+  {
+    "Vernacular name": "Sykes's Warbler",
+    "Scientific name": "Iduna rama",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eastern Olivaceous Warbler",
+    "Scientific name": "Iduna pallida",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Hippolais pallida"
+  },
+  {
+    "Vernacular name": "Icterine Warbler",
+    "Scientific name": "Hippolais icterina",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Aquatic Warbler",
+    "Scientific name": "Acrocephalus paludicola",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sedge Warbler",
+    "Scientific name": "Acrocephalus schoenobaenus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland; Regionally Threatened 2020 - 4d Northern boreal, Fjeld Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Paddyfield Warbler",
+    "Scientific name": "Acrocephalus agricola",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Blyth's Reed Warbler",
+    "Scientific name": "Acrocephalus dumetorum",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Marsh Warbler",
+    "Scientific name": "Acrocephalus palustris",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Reed Warbler",
+    "Scientific name": "Acrocephalus scirpaceus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Reed Warbler",
+    "Scientific name": "Acrocephalus arundinaceus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Dartford Warbler",
+    "Scientific name": "Sylvia undata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Curruca undata (Boddaert, 1783)"
+  },
+  {
+    "Vernacular name": "Subalpine Warbler",
+    "Scientific name": "Sylvia cantillans",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Curruca cantillans (Pallas, 1764)"
+  },
+  {
+    "Vernacular name": "Sardinian Warbler",
+    "Scientific name": "Sylvia melanocephala",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Curruca melanocephala (J.F. Gmelin, 1789)"
+  },
+  {
+    "Vernacular name": "Rüppell's Warbler",
+    "Scientific name": "Sylvia ruppeli",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Sylvia rueppelli; Curruca ruppeli (Temminck, 1823)"
+  },
+  {
+    "Vernacular name": "Asian Desert Warbler",
+    "Scientific name": "Sylvia nana",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Curruca nana Hemprich & Ehrenberg, 1833"
+  },
+  {
+    "Vernacular name": "Barred Warbler",
+    "Scientific name": "Sylvia nisoria",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Curruca nisoria (Bechstein, 1792)"
+  },
+  {
+    "Vernacular name": "Lesser Whitethroat",
+    "Scientific name": "Sylvia curruca",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": "Curruca curruca (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Common Whitethroat",
+    "Scientific name": "Sylvia communis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": "Curruca communis (Latham, 1787)"
+  },
+  {
+    "Vernacular name": "Garden Warbler",
+    "Scientific name": "Sylvia borin",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland; Regionally Threatened 2020 - 4d Northern boreal, Fjeld Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Blackcap",
+    "Scientific name": "Sylvia atricapilla",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eastern Crowned Warbler",
+    "Scientific name": "Phylloscopus coronatus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Seicercus coronatus (Temminck & Schlegel, 1847)"
+  },
+  {
+    "Vernacular name": "Green Warbler",
+    "Scientific name": "Phylloscopus nitidus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Seicercus nitidus (Blyth, 1843)"
+  },
+  {
+    "Vernacular name": "Two-barred Warbler",
+    "Scientific name": "Phylloscopus plumbeitarsus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Seicercus plumbeitarsus (Swinhoe, 1861)"
+  },
+  {
+    "Vernacular name": "Greenish Warbler",
+    "Scientific name": "Phylloscopus trochiloides",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive",
+    "Synonyms": "Seicercus trochiloides (Sundevall, 1837)"
+  },
+  {
+    "Vernacular name": "Arctic Warbler",
+    "Scientific name": "Phylloscopus borealis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": "Seicercus borealis (J.H. Blasius, 1858)"
+  },
+  {
+    "Vernacular name": "Pallas's Leaf Warbler",
+    "Scientific name": "Phylloscopus proregulus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Abrornis proregulus (Pallas, 1811)"
+  },
+  {
+    "Vernacular name": "Yellow-browed Warbler",
+    "Scientific name": "Phylloscopus inornatus",
+    "Status in Finland": "Regular vagrant; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Abrornis inornatus (Blyth, 1842)"
+  },
+  {
+    "Vernacular name": "Hume's Leaf Warbler",
+    "Scientific name": "Phylloscopus humei",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Abrornis humei (W.E. Brooks, 1878)"
+  },
+  {
+    "Vernacular name": "Radde's Warbler",
+    "Scientific name": "Phylloscopus schwarzi",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Dusky Warbler",
+    "Scientific name": "Phylloscopus fuscatus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Western Bonelli's Warbler",
+    "Scientific name": "Phylloscopus bonelli",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Rhadina bonelli (Vieillot, 1819)"
+  },
+  {
+    "Vernacular name": "Eastern Bonelli's Warbler",
+    "Scientific name": "Phylloscopus orientalis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Phylloscopus orientalis; Rhadina orientalis (C.L. Brehm, 1855)"
+  },
+  {
+    "Vernacular name": "Wood Warbler",
+    "Scientific name": "Phylloscopus sibilatrix",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": "Rhadina sibilatrix (Bechstein, 1793)"
+  },
+  {
+    "Vernacular name": "Common Chiffchaff",
+    "Scientific name": "Phylloscopus collybita",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Phylloscopus collybitus"
+  },
+  {
+    "Vernacular name": "Iberian Chiffchaff",
+    "Scientific name": "Phylloscopus ibericus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Willow Warbler",
+    "Scientific name": "Phylloscopus trochilus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Kamchatka Leaf Warbler",
+    "Scientific name": "Phylloscopus examinandus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Goldcrest",
+    "Scientific name": "Regulus regulus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Firecrest",
+    "Scientific name": "Regulus ignicapilla",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Regulus ignicapillus"
+  },
+  {
+    "Vernacular name": "Spotted Flycatcher",
+    "Scientific name": "Muscicapa striata",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-breasted Flycatcher",
+    "Scientific name": "Ficedula parva",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Taiga Flycatcher",
+    "Scientific name": "Ficedula albicilla",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Collared Flycatcher",
+    "Scientific name": "Ficedula albicollis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Pied Flycatcher",
+    "Scientific name": "Ficedula hypoleuca",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Bearded Reedling",
+    "Scientific name": "Panurus biarmicus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Long-tailed Tit",
+    "Scientific name": "Aegithalos caudatus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Azure Tit",
+    "Scientific name": "Cyanistes cyanus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Parus cyanus"
+  },
+  {
+    "Vernacular name": "Eurasian Blue Tit",
+    "Scientific name": "Cyanistes caeruleus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Parus caeruleus"
+  },
+  {
+    "Vernacular name": "Great Tit",
+    "Scientific name": "Parus major",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Coal Tit",
+    "Scientific name": "Periparus ater",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Parus ater"
+  },
+  {
+    "Vernacular name": "European Crested Tit",
+    "Scientific name": "Lophophanes cristatus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": "Parus cristatus"
+  },
+  {
+    "Vernacular name": "Marsh Tit",
+    "Scientific name": "Poecile palustris",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Parus palustris"
+  },
+  {
+    "Vernacular name": "Willow Tit",
+    "Scientific name": "Poecile montanus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": "Parus montanus"
+  },
+  {
+    "Vernacular name": "Siberian Tit",
+    "Scientific name": "Poecile cinctus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland",
+    "Synonyms": "Parus cinctus"
+  },
+  {
+    "Vernacular name": "Eurasian Nuthatch",
+    "Scientific name": "Sitta europaea",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Treecreeper",
+    "Scientific name": "Certhia familiaris",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Penduline Tit",
+    "Scientific name": "Remiz pendulinus",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Golden Oriole",
+    "Scientific name": "Oriolus oriolus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brown Shrike",
+    "Scientific name": "Lanius cristatus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Isabelline Shrike",
+    "Scientific name": "Lanius isabellinus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-backed Shrike",
+    "Scientific name": "Lanius collurio",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex I; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 3c Middle boreal, Southwestern Lapland; Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lesser Grey Shrike",
+    "Scientific name": "Lanius minor",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great Grey Shrike",
+    "Scientific name": "Lanius excubitor",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Woodchat Shrike",
+    "Scientific name": "Lanius senator",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Masked Shrike",
+    "Scientific name": "Lanius nubicus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red-tailed Shrike",
+    "Scientific name": "Lanius phoenicuroides",
+    "Status in Finland": "",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Northern Shrike",
+    "Scientific name": "Lanius borealis",
+    "Status in Finland": "BirdLife Category A",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Jay",
+    "Scientific name": "Garrulus glandarius",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Siberian Jay",
+    "Scientific name": "Perisoreus infaustus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 2a Southern boreal, Southwestern Finland and Southern Ostrobothnia; Regionally Threatened 2020 - 2b Southern boreal, Lake district; Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Magpie",
+    "Scientific name": "Pica pica",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Unprotected animal (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Spotted Nutcracker",
+    "Scientific name": "Nucifraga caryocatactes",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Western Jackdaw",
+    "Scientific name": "Corvus monedula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B; Unprotected animal (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Daurian Jackdaw",
+    "Scientific name": "Corvus dauuricus",
+    "Status in Finland": "BirdLife Category B; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rook",
+    "Scientific name": "Corvus frugilegus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Carrion Crow",
+    "Scientific name": "Corvus corone",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Directive on Conservation of Wild Birds Annex II/B",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Northern Raven",
+    "Scientific name": "Corvus corax",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Starling",
+    "Scientific name": "Sturnus vulgaris",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rosy Starling",
+    "Scientific name": "Pastor roseus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Sturnus roseus"
+  },
+  {
+    "Vernacular name": "House Sparrow",
+    "Scientific name": "Passer domesticus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Spanish Sparrow",
+    "Scientific name": "Passer hispaniolensis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Tree Sparrow",
+    "Scientific name": "Passer montanus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Chaffinch",
+    "Scientific name": "Fringilla coelebs",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brambling",
+    "Scientific name": "Fringilla montifringilla",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European Serin",
+    "Scientific name": "Serinus serinus",
+    "Status in Finland": "Irregular breeder; BirdLife Category A",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Citril Finch",
+    "Scientific name": "Serinus citrinella",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Carduelis citrinella (Pallas, 1764)"
+  },
+  {
+    "Vernacular name": "European Greenfinch",
+    "Scientific name": "Carduelis chloris",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": "Chloris chloris (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "European Goldfinch",
+    "Scientific name": "Carduelis carduelis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Siskin",
+    "Scientific name": "Carduelis spinus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Spinus spinus (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Common Linnet",
+    "Scientific name": "Carduelis cannabina",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Linaria cannabina (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Twite",
+    "Scientific name": "Carduelis flavirostris",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Migratory birds of the EU Birds Directive; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Linaria flavirostris (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Two-barred Crossbill",
+    "Scientific name": "Loxia leucoptera",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Red Crossbill",
+    "Scientific name": "Loxia curvirostra",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Parrot Crossbill",
+    "Scientific name": "Loxia pytyopsittacus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common Redpoll",
+    "Scientific name": "Acanthis flammea",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Carduelis flammea (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Common Rosefinch",
+    "Scientific name": "Carpodacus erythrinus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4a Northern boreal, Kuusamo district; Regionally Threatened 2020 - 4b Northern boreal, North Ostrobothnia",
+    "Synonyms": "Erythrina erythrina (Pallas, 1770)"
+  },
+  {
+    "Vernacular name": "Trumpeter Finch",
+    "Scientific name": "Bucanetes githagineus",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Rhodopechys githaginea"
+  },
+  {
+    "Vernacular name": "Pine Grosbeak",
+    "Scientific name": "Pinicola enucleator",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3b Middle boreal, Northern Carelia–Kainuu",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian Bullfinch",
+    "Scientific name": "Pyrrhula pyrrhula",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Hawfinch",
+    "Scientific name": "Coccothraustes coccothraustes",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Blackpoll Warbler",
+    "Scientific name": "Setophaga striata",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Dendroica striata"
+  },
+  {
+    "Vernacular name": "Fox Sparrow",
+    "Scientific name": "Passerella iliaca",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-throated Sparrow",
+    "Scientific name": "Zonotrichia albicollis",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lapland Longspur",
+    "Scientific name": "Calcarius lapponicus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 4c Northern boreal, Forest Lapland",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Snow Bunting",
+    "Scientific name": "Plectrophenax nivalis",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black-faced Bunting",
+    "Scientific name": "Emberiza spodocephala",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Schoeniclus spodocephala (Pallas, 1776)"
+  },
+  {
+    "Vernacular name": "Pine Bunting",
+    "Scientific name": "Emberiza leucocephalos",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Emberiza leucocephala"
+  },
+  {
+    "Vernacular name": "Yellowhammer",
+    "Scientific name": "Emberiza citrinella",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ortolan Bunting",
+    "Scientific name": "Emberiza hortulana",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); EU Directive on Conservation of Wild Birds Annex I; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Grey-necked Bunting",
+    "Scientific name": "Emberiza buchanani",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Cretzschmar's Bunting",
+    "Scientific name": "Emberiza caesia",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rustic Bunting",
+    "Scientific name": "Emberiza rustica",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Regionally Threatened 2020 - 1b Hemiboreal, Oak zone; Regionally Threatened 2020 - 2a Southern boreal, Southwestern Finland and Southern Ostrobothnia; Regionally Threatened 2020 - 2b Southern boreal, Lake district; Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Schoeniclus rusticus (Pallas, 1776)"
+  },
+  {
+    "Vernacular name": "Little Bunting",
+    "Scientific name": "Emberiza pusilla",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "Regionally Threatened 2020 - 3a Middle boreal, Ostrobothnia; Regionally Threatened 2020 - 4d Northern boreal, Fjeld Lapland",
+    "Synonyms": "Schoeniclus pusillus (Pallas, 1776)"
+  },
+  {
+    "Vernacular name": "Chestnut Bunting",
+    "Scientific name": "Emberiza rutila",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Schoeniclus rutilus (Pallas, 1776)"
+  },
+  {
+    "Vernacular name": "Yellow-breasted Bunting",
+    "Scientific name": "Emberiza aureola",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "RE (2019)",
+    "Regulatory Status": "Migratory birds of the EU Birds Directive; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": "Schoeniclus aureolus (Pallas, 1773)"
+  },
+  {
+    "Vernacular name": "Common Reed Bunting",
+    "Scientific name": "Emberiza schoeniclus",
+    "Status in Finland": "Stable population; BirdLife Category A; Regular breeder",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+    "Synonyms": "Schoeniclus schoeniclus (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Pallas's Reed Bunting",
+    "Scientific name": "Emberiza pallasi",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Schoeniclus pallasi (Cabanis, 1851)"
+  },
+  {
+    "Vernacular name": "Red-headed Bunting",
+    "Scientific name": "Emberiza bruniceps",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Granativora bruniceps (von Brandt, 1841)"
+  },
+  {
+    "Vernacular name": "Black-headed Bunting",
+    "Scientific name": "Emberiza melanocephala",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Granativora melanocephala (Scopoli, 1769)"
+  },
+  {
+    "Vernacular name": "Corn Bunting",
+    "Scientific name": "Emberiza calandra",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Miliaria calandra"
+  },
+  {
+    "Vernacular name": "Yellow-browed Bunting",
+    "Scientific name": "Emberiza chrysophrys",
+    "Status in Finland": "BirdLife Category A; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Schoeniclus chrysophrys (Pallas, 1776)"
+  }
+]

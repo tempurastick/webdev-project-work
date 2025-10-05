@@ -1,0 +1,834 @@
+﻿[
+  {
+    "Vernacular name": "Sea lamprey",
+    "Scientific name": "Petromyzon marinus",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "River lamprey",
+    "Scientific name": "Lampetra fluviatilis",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex V; EU Habitats Directive Annex II, exception granted for Finnish populations; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brook lamprey",
+    "Scientific name": "Lampetra planeri",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex II, exception granted for Finnish populations; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Picked dogfish",
+    "Scientific name": "Squalus acanthias",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Atlantic sturgeon",
+    "Scientific name": "Acipenser oxyrinchus",
+    "Status in Finland": "Anthropogenic; Extinct; Regular vagrant",
+    "Red List category in Finland": "RE (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Siberian sturgeon",
+    "Scientific name": "Acipenser baerii",
+    "Status in Finland": "Anthropogenic; Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Danube sturgeon, Russian sturgeon",
+    "Scientific name": "Acipenser gueldenstaedtii",
+    "Status in Finland": "Anthropogenic; Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sterlet",
+    "Scientific name": "Acipenser ruthenus",
+    "Status in Finland": "Regular vagrant; Not established; Import",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Starry sturgeon",
+    "Scientific name": "Acipenser stellatus",
+    "Status in Finland": "Anthropogenic; Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European eel",
+    "Scientific name": "Anguilla anguilla",
+    "Status in Finland": "",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix B",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European conger",
+    "Scientific name": "Conger conger",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European anchovy",
+    "Scientific name": "Engraulis encrasicolus",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sprat",
+    "Scientific name": "Sprattus sprattus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Allis shad",
+    "Scientific name": "Alosa alosa",
+    "Status in Finland": "Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Twaite shad",
+    "Scientific name": "Alosa fallax",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Spined loach",
+    "Scientific name": "Cobitis taenia",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex II, exception granted for Finnish populations; OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Stone loach",
+    "Scientific name": "Barbatula barbatula",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": "Nemacheilus barbatulus (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Prussian carp",
+    "Scientific name": "Carassius gibelio",
+    "Status in Finland": "Stable population; Anthropogenic",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Crucian carp",
+    "Scientific name": "Carassius carassius",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Goldfish",
+    "Scientific name": "Carassius auratus",
+    "Status in Finland": "Anthropogenic",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common carp",
+    "Scientific name": "Cyprinus carpio",
+    "Status in Finland": "Not established; Import",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Grass carp",
+    "Scientific name": "Ctenopharyngodon idella",
+    "Status in Finland": "Not established; Import",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Tench",
+    "Scientific name": "Tinca tinca",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European bitterling",
+    "Scientific name": "Rhodeus amarus",
+    "Status in Finland": "Anthropogenic",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Gudgeon",
+    "Scientific name": "Gobio gobio",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "White-finned gudgeon",
+    "Scientific name": "Romanogobio albipinnatus",
+    "Status in Finland": "Stable population; Anthropogenic",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Other invasive species; Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eurasian minnow",
+    "Scientific name": "Phoxinus phoxinus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common bream",
+    "Scientific name": "Abramis brama",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Bleak",
+    "Scientific name": "Alburnus alburnus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Zope",
+    "Scientific name": "Ballerus ballerus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": "Abramis ballerus (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Silver bream",
+    "Scientific name": "Blicca bjoerkna",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common nase",
+    "Scientific name": "Chondrostoma nasus",
+    "Status in Finland": "Anthropogenic",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Belica",
+    "Scientific name": "Leucaspius delineatus",
+    "Status in Finland": "Anthropogenic; Stable population",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Dace",
+    "Scientific name": "Leuciscus leuciscus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ide",
+    "Scientific name": "Leuciscus idus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Asp",
+    "Scientific name": "Leuciscus aspius",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex V; EU Habitats Directive Annex II, exception granted for Finnish populations",
+    "Synonyms": "Aspius aspius (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Sichel",
+    "Scientific name": "Pelecus cultratus",
+    "Status in Finland": "Stable population; Regular vagrant",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex V; OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Roach",
+    "Scientific name": "Rutilus rutilus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common rudd",
+    "Scientific name": "Scardinius erythrophthalmus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Chub",
+    "Scientific name": "Squalius cephalus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": "Leuciscus cephalus (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Vimba bream",
+    "Scientific name": "Vimba vimba",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Longnose sucker",
+    "Scientific name": "Catostomus catostomus",
+    "Status in Finland": "Anthropogenic; Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Wels catfish",
+    "Scientific name": "Silurus glanis",
+    "Status in Finland": "Extinct",
+    "Red List category in Finland": "RE (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brown bullhead",
+    "Scientific name": "Ameiurus nebulosus",
+    "Status in Finland": "Stable population; Import",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Other invasive species; Other invasive alien species of concern (not included on the national or EU list); OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": "Ictalurus nebulosus (Lesueur, 1819)"
+  },
+  {
+    "Vernacular name": "Peled",
+    "Scientific name": "Coregonus peled",
+    "Status in Finland": "Import",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Vendace",
+    "Scientific name": "Coregonus albula",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "EU Habitats Directive Annex V",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Broad whitefish",
+    "Scientific name": "Coregonus nasus",
+    "Status in Finland": "Anthropogenic; Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Atlantic salmon",
+    "Scientific name": "Salmo salar",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "EN (2000)",
+    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex V; EU Habitats Directive Annex II, exception granted for Finnish populations; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brown trout",
+    "Scientific name": "Salmo trutta",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "EN (2019)",
+    "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Rainbow trout",
+    "Scientific name": "Oncorhynchus mykiss",
+    "Status in Finland": "Not established; Import",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": "Salmo gairdneri (Richardson, 1836)"
+  },
+  {
+    "Vernacular name": "Pink salmon",
+    "Scientific name": "Oncorhynchus gorbuscha",
+    "Status in Finland": "Anthropogenic; Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sockeye salmon",
+    "Scientific name": "Oncorhynchus nerka",
+    "Status in Finland": "Not established; Import",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Chinook salmon",
+    "Scientific name": "Oncorhynchus tshawytscha",
+    "Status in Finland": "Regular vagrant; Import; Anthropogenic; Not established",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Chum salmon",
+    "Scientific name": "Oncorhynchus keta",
+    "Status in Finland": "Anthropogenic; Stable population",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brook trout",
+    "Scientific name": "Salvelinus fontinalis",
+    "Status in Finland": "Stable population; Anthropogenic; Import",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lake trout",
+    "Scientific name": "Salvelinus namaycush",
+    "Status in Finland": "Anthropogenic; Import",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Arctic char",
+    "Scientific name": "Salvelinus alpinus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Grayling",
+    "Scientific name": "Thymallus thymallus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "CR (2019)",
+    "Regulatory Status": "EU Habitats Directive Annex V; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pike",
+    "Scientific name": "Esox lucius",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Smelt",
+    "Scientific name": "Osmerus eperlanus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Burbot",
+    "Scientific name": "Lota lota",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Fourbeard rockling",
+    "Scientific name": "Enchelyopus cimbrius",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Cod",
+    "Scientific name": "Gadus morhua",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Gadus callarias L."
+  },
+  {
+    "Vernacular name": "Atlantic mackerel",
+    "Scientific name": "Scomber scombrus",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Straightnose pipefish",
+    "Scientific name": "Nerophis ophidion",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Broadnosed pipefish",
+    "Scientific name": "Syngnathus typhle",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Chinese sleeper",
+    "Scientific name": "Perccottus glenii",
+    "Status in Finland": "Anthropogenic",
+    "Red List category in Finland": "",
+    "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Black goby",
+    "Scientific name": "Gobius niger",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Round goby",
+    "Scientific name": "Neogobius melanostomus",
+    "Status in Finland": "Stable population; Anthropogenic",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sand goby",
+    "Scientific name": "Pomatoschistus minutus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Two-spotted goby",
+    "Scientific name": "Pomatoschistus flavescens",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": "Gobiusculus flavescens (Fabricius, 1779)"
+  },
+  {
+    "Vernacular name": "Common goby",
+    "Scientific name": "Pomatoschistus microps",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Turbot",
+    "Scientific name": "Scophthalmus maximus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Psetta maxima (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Brill",
+    "Scientific name": "Scophthalmus rhombus",
+    "Status in Finland": "Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Baltic flounder",
+    "Scientific name": "Platichthys solemdali",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European flounder",
+    "Scientific name": "Platichthys flesus",
+    "Status in Finland": "",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Plaice",
+    "Scientific name": "Pleuronectes platessa",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common dab",
+    "Scientific name": "Limanda limanda",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Garfish",
+    "Scientific name": "Belone belone",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Thicklip grey mullet",
+    "Scientific name": "Chelon labrosus",
+    "Status in Finland": "Irregular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Thinlip grey mullet",
+    "Scientific name": "Chelon ramada",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": "Liza ramada (Risso, 1827)"
+  },
+  {
+    "Vernacular name": "Ruffe",
+    "Scientific name": "Gymnocephalus cernua",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Acerina cernua (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Perch",
+    "Scientific name": "Perca fluviatilis",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pike-perch",
+    "Scientific name": "Sander lucioperca",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Stizostedion lucioperca (L.)"
+  },
+  {
+    "Vernacular name": "järvikivisimppu",
+    "Scientific name": "Cottus koshewnikowi",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Alpine bullhead",
+    "Scientific name": "Cottus poecilopus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Shorthorn sculpin",
+    "Scientific name": "Myoxocephalus scorpius",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "DD (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Fourhorn sculpin",
+    "Scientific name": "Myoxocephalus quadricornis",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Triglopsis quadricornis (Linnaeus, 1758)"
+  },
+  {
+    "Vernacular name": "Longspined bullhead",
+    "Scientific name": "Taurulus bubalis",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "DD (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Hooknose",
+    "Scientific name": "Agonus cataphractus",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Lumpsucker",
+    "Scientific name": "Cyclopterus lumpus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common seasnail",
+    "Scientific name": "Liparis liparis",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "DD (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Threespine stickleback",
+    "Scientific name": "Gasterosteus aculeatus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Ninespine stickleback",
+    "Scientific name": "Pungitius pungitius",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Fifteenspined stickleback",
+    "Scientific name": "Spinachia spinachia",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "NT (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Brook stickleback",
+    "Scientific name": "Culaea inconstans",
+    "Status in Finland": "Stable population; Import",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Eelpout",
+    "Scientific name": "Zoarces viviparus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Snake blenny",
+    "Scientific name": "Lumpenus lampretaeformis",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "DD (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Great sandeel",
+    "Scientific name": "Hyperoplus lanceolatus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Small sandeel",
+    "Scientific name": "Ammodytes tobianus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "OUTDATED Fish species subject to the Nature Conservation Act (NCD 1997/160, Appendix 1)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Smallmouth bass",
+    "Scientific name": "Micropterus dolomieu",
+    "Status in Finland": "Not established; Import",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Largemouth bass",
+    "Scientific name": "Micropterus salmoides",
+    "Status in Finland": "Not established; Import",
+    "Red List category in Finland": "",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Pumpkinseed",
+    "Scientific name": "Lepomis gibbosus",
+    "Status in Finland": "Stable population; Anthropogenic",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "European seabass",
+    "Scientific name": "Dicentrarchus labrax",
+    "Status in Finland": "Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  }
+]

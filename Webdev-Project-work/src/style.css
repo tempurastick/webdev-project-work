@@ -4,6 +4,7 @@
 @import "./styles/category";
 @import "./styles/icons";
 @import "./styles/filter-menu";
+@import "./styles/species-dropdown";
 
 @plugin "@iconify/tailwind4" {
   prefix: "iconify";

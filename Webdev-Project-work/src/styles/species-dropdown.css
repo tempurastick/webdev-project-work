@@ -1,0 +1,45 @@
+.species-dropdown {
+    @apply w-full overflow-y-scroll max-h-36;
+}
+
+.species-dropdown-item {
+    
+}
+
+.species-category {
+    @apply px-1 pb-1 font-bold text-indigo-500;
+}
+
+.option-toggle-label {
+    @apply inline-flex items-center cursor-pointer;
+}
+
+.option-toggle {
+    @apply relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-indigo-300 dark:peer-focus:ring-indigo-800 rounded-full  dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-500 peer-checked:bg-indigo-500 dark:peer-checked:bg-indigo-500;
+}
+
+.option-toggle-text {
+    @apply ms-3 text-sm font-bold text-indigo-500;
+}
+
+.species-dropdown-item__label {
+    @apply px-2 py-1 inline-block w-full hover:bg-indigo-100 text-indigo-500 has-checked:bg-indigo-50;
+}
+
+.species-dropdown-item__checkbox {
+    display: none;
+}
+/* 
+conditional styling for what name to display 
+*/
+.--common {
+    .species-dropdown-item--scientific {
+        display: none;
+    }
+}
+
+.--scientific {
+    .species-dropdown-item--common {
+        display: none;
+    }
+}
