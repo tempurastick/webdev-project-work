@@ -5,11 +5,16 @@
 @import "./styles/icons";
 @import "./styles/filter-menu";
 @import "./styles/species-dropdown";
+@import "./styles/current-species";
 
 @plugin "@iconify/tailwind4" {
   prefix: "iconify";
   scale: 1.2;
 }
+
+/* 
+plan is to make the menu expandable on command 
+*/
 
 #finlandMap {
   height: 100vh;
@@ -21,3 +26,4 @@ body {
   height: 100%;
   overflow: clip;
 }
+

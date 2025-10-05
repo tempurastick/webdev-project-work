@@ -30,6 +30,7 @@ https://gis.stackexchange.com/questions/179630/setting-bounds-and-making-map-bou
 https://www.inaturalist.org/observations?place_id=7020&quality_grade=research&subview=map&iconic_taxa=Aves,Amphibia,Reptilia,Mammalia,Actinopterygii,Mollusca,Arachnida,Insecta
 
 https://daily-dev-tips.com/posts/vanilla-javascript-replace-all-whitespaces/
+https://a11ymatters.com/pattern/checkbox/
 
 ## tools
 https://onlinetsvtools.com/convert-tsv-to-json

@@ -191,8 +191,42 @@
                     </button>
                 </div>
             </div>
+            <div class="current-species-menu p-4">
+                <h2 class="text-2xl text-indigo-500 font-bold">
+                    Current Species
+                </h2>
+                <div id="current-species-container"></div>
+            </div>
             <div id="finlandMap"></div>
         </div>
+        <template id="currentSpeciesCard">
+            <div class="current-species-item">
+                <div class="current-species-item-wrapper">
+                    <figure class="current-species-figure">
+                        <img
+                            src="https://placehold.co/150"
+                            alt=""
+                            class="current-species-img"
+                        />
+                    </figure>
+                    <div class="current-species-content">
+                        <h3 class="current-species-name">Name</h3>
+                        <div
+                            class="current-species-sub-heading"
+                            role="sub-heading"
+                        >
+                            Scientific Name
+                        </div>
+                    </div>
+                </div>
+                <p class="current-species-description">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Veniam, veritatis ipsa reprehenderit blanditiis hic eius
+                    quisquam quaerat iste, corporis asperiores, nemo amet omnis
+                    laudantium deserunt expedita aut maxime! Deleniti, ipsum.
+                </p>
+            </div>
+        </template>
         <template id="speciesDropdownList">
             <h4 class="species-category"></h4>
             <div class="species-grid">

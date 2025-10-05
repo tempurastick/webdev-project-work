@@ -1,0 +1,33 @@
+.current-species-menu {
+  height: 100vh;
+  overflow-y: scroll;
+  flex: 1;
+}
+
+.current-species-item {
+    @apply flex flex-col bg-indigo-100 border-indigo-500 border-4 rounded-md p-4 gap-4;
+}
+
+.current-species-item-wrapper {
+    @apply flex flex-row gap-2;
+}
+
+.current-species-figure {
+    @apply w-2/5;
+}
+
+.current-species-img {
+    @apply w-full;
+}
+
+.current-species-content {
+    @apply w-3/5;
+}
+
+.current-species-name {
+    @apply font-bold text-indigo-500 text-lg;
+}
+
+.current-species-sub-heading {
+    @apply font-bold italic text-indigo-500;
+}

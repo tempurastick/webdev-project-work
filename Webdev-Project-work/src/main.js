@@ -140,15 +140,19 @@ async function loadFinlandBoundaries() {
         },
     }).addTo(finland);
 
+    // testing data population with an observation
+
     let dummyData = await fetchTaxonObservations("Purple Heron");
     dummyData = dummyData.results;
-
+    dummyData.forEach((data) => renderCurrentSpeciesCard(data));
     let featureList = [];
     dummyData.forEach((data) => featureList.push(createGeoJsonFeature(data)));
 
     let observationGeoJson = L.geoJSON(featureList, {
         onEachFeature: onEachFeature,
     }).addTo(finland);
+
+    // testing end
 
     const Esri_WorldGrayCanvas = L.tileLayer(
         "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
@@ -172,6 +176,31 @@ async function loadFinlandBoundaries() {
     finland.fitBounds(geoJson.getBounds());
     const bounds = geoJson.getBounds();
     finland.setMaxBounds(bounds);
+}
+
+// currently this is fetching the observation, but later this should be on a species level, so a different data request.
+function renderCurrentSpeciesCard(observation) {
+    const parentContainer = document.getElementById(
+        "current-species-container"
+    );
+    const template = document.getElementById("currentSpeciesCard");
+    const speciesCardFragment = template.content.cloneNode(true);
+    const img = speciesCardFragment.querySelector(".current-species-img");
+    const name = speciesCardFragment.querySelector(".current-species-name");
+    const subHeading = speciesCardFragment.querySelector(
+        ".current-species-sub-heading"
+    );
+    const desc = speciesCardFragment.querySelector(
+        ".current-species-description"
+    );
+    img.src = observation.taxon?.default_photo?.square_url;
+    img.alt = observation.taxon?.default_photo?.attribution;
+    name.textContent = observation.taxon?.preferred_common_name;
+    subHeading.textContent = observation.taxon?.name;
+    console.log(observation.taxon);
+    // missing desc in current fetch
+    parentContainer.appendChild(speciesCardFragment);
+    // maybe should have an info about how many sightings there were etc too
 }
 
 function onEachFeature(feature, layer) {
