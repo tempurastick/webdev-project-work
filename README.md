@@ -44,3 +44,14 @@ https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221_fmdbZeVvfUuEg
 
 I had the scientific names toggle set in such a way that the text content on each dropdown item would change. While developing I thought to myself: Actually, wouldn't it make more sense to just have both values rendered inside the option? That way we don't have to trigger a re-render of the text content by toggling. We can just toggle what is displayed. 
 An issue with that is the fact that the option tag can not have html elements inside of it. So I would have to re-create the dropdown by myself. 
+
+
+### Code
+```js
+    // example query:
+    const heronQuery = dataHandler.buildObservationQuery("Purple Heron");
+    let heronData = await dataHandler.fetchData(heronQuery);
+    heronData = heronData.results;
+    // rendering
+    handleObservationData(heronData);
+```

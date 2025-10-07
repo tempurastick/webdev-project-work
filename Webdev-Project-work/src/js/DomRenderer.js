@@ -1,7 +1,8 @@
 import { CONFIG, SPECIES_GLOSSARY } from "./constants.js";
 export default class DomRenderer {
-    constructor(dataHandler) {
+    constructor(dataHandler, finlandMap) {
         this.dataHandler = dataHandler;
+        this.finlandMap = finlandMap;
         this.speciesGrid = document.querySelector("#speciesGrid");
         this.scientificNameToggle = document.querySelector(
             "#scientific-name-toggle"
@@ -10,17 +11,22 @@ export default class DomRenderer {
             ".species-selected-list"
         );
 
+        this.resetBtn = document.querySelector("#btn-filter-reset");
+        this.submitBtn = document.querySelector("#btn-filter-submit");
+
         this.currentSpeciesCardTemplate =
             document.getElementById("currentSpeciesCard");
 
         this.speciesClasses = {};
+        this.selectedValues = [];
 
-        this.#registerToggleEventListeners();
         this.init();
     }
 
     async init() {
         await this.populateSpecies();
+        this.renderAllSpeciesLists();
+        this._registerEventListeners();
     }
 
     #registerToggleEventListeners() {
@@ -29,12 +35,102 @@ export default class DomRenderer {
         });
     }
 
+    _registerEventListeners() {
+        this.#registerToggleEventListeners();
+        this._registerSelectEventListeners();
+        this._registerResetBtn();
+        this._registerSubmitBtn();
+    }
+
+    _registerResetBtn() {
+        this.resetBtn.addEventListener("click", () => {
+            this._resetSelectedValues();
+        });
+    }
+
+    _registerSubmitBtn() {
+        this.submitBtn.addEventListener("click", () => {
+            this._resolveSubmission();
+        });
+    }
+
+    // definitely need a debouncer on the button for the wait time
+    _resolveSubmission() {
+        const currentSelections = this._getCurrentSelections();
+        if (currentSelections.length == 0) {
+            return console.warn("No selection");
+            // do other stuff here, or maybe submit should just be disabled until currentSelection is filled
+        } else {
+            currentSelections.forEach(async (selection) => {
+                const selectionQuery =
+                    this.dataHandler.buildObservationQuery(selection);
+                let selectionData = await this.dataHandler.fetchDataThrottle(
+                    selectionQuery
+                );
+                selectionData = selectionData.results;
+
+                // I need something for when no observations are recorded
+                selectionData.forEach((result) => {
+                    this.finlandMap.addObservationLayer(result);
+                });
+            });
+        }
+    }
+
+    _getCurrentSelections() {
+        return this.selectedValues.slice(0);
+    }
+
+    _registerSelectEventListeners() {
+        const selectElements = document.querySelectorAll(
+            ".species-dropdown-item__checkbox"
+        );
+
+        selectElements.forEach((selectEl) => {
+            selectEl.addEventListener("input", () => {
+                this._resolveSelection(selectEl);
+                console.log(this.selectedValues);
+            });
+        });
+    }
+
+    _getSelectedValue(selected) {
+        return selected.id ?? null;
+    }
+
+    _resolveSelection(selectEl) {
+        const value = this._getSelectedValue(selectEl);
+
+        this._storeSelectedValues(value);
+    }
+
+    _checkSelectionvalue(value) {
+        if (this.selectedValues.includes(value) || value == null) {
+            return true;
+        }
+    }
+
+    _storeSelectedValues(value) {
+        if (this._checkSelectionvalue(value)) {
+            return;
+        }
+
+        this.selectedValues.push(value);
+    }
+
+    _resetSelectedValues() {
+        this.selectedValues = [];
+        console.log("current selections are empty:", this.selectedValues);
+    }
+
     async populateSpecies() {
-        SPECIES_GLOSSARY.forEach(async (speciesClass) => {
+        const fetchPromises = SPECIES_GLOSSARY.map(async (speciesClass) => {
             const data = await this.dataHandler.fetchData(speciesClass.file);
 
             this.speciesClasses[speciesClass.type] = data;
         });
+
+        await Promise.all(fetchPromises);
     }
 
     renderAllSpeciesLists() {

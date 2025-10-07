@@ -6,17 +6,8 @@ import FinlandMap from "./finlandMap.js";
 async function init() {
     const dataHandler = new DataHandler();
     const finlandMap = new FinlandMap("finlandMap", dataHandler);
-    const domRenderer = new DomRenderer(dataHandler);
+    const domRenderer = new DomRenderer(dataHandler, finlandMap);
     finlandMap.initializeMap();
-
-    // example query:
-    const heronQuery = dataHandler.buildObservationQuery("Purple Heron");
-    let heronData = await dataHandler.fetchData(heronQuery);
-    heronData = heronData.results;
-    // rendering
-    handleObservationData(heronData);
-
-    domRenderer.renderAllSpeciesLists();
 
     function handleObservationData(observation) {
         const taxonData = dataHandler.getTaxonData(observation);

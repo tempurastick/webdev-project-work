@@ -1,5 +1,5 @@
 import { CONFIG } from "./constants";
-import replaceWhiteSpace from "./helpers";
+import { replaceWhitespace, debounce } from "./helpers";
 
 export default class DataHandler {
     #finlandGeojson;
@@ -9,6 +9,13 @@ export default class DataHandler {
         this.#finlandGeojson =
             "/data/Finland_ADM0_simplified.simplified.geojson";
         this.#iNatApi = "https://api.inaturalist.org/v1/";
+
+        // simple debouncer to throttle requests
+        this.debouncer = debounce(this.fetchData.bind(this), 1000);
+    }
+
+    async fetchDataThrottle(source) {
+        return this.debouncer(source);
     }
 
     async fetchData(source) {
@@ -40,14 +47,14 @@ export default class DataHandler {
     }
 
     buildTaxonQuery(taxon) {
-        taxon = replaceWhiteSpace(taxon);
+        taxon = replaceWhitespace(taxon);
         return `${this.#iNatApi}taxa?q=${taxon}&per_page=1`;
     }
 
     // maybe it'd make sense to split the query into different types, because then the buildObs can be private
     // like pass { query = { type: observation, taxon: name }}
     buildObservationQuery(taxon) {
-        taxon = replaceWhiteSpace(taxon);
+        taxon = replaceWhitespace(taxon);
         return `${this.#iNatApi}observations?captive=false&geo=true&place_id=${
             CONFIG.FINLAND_PLACE_ID
         }&taxon_name=${taxon}&quality_grade=research&order=desc&order_by=created_at&per_page=200`;
