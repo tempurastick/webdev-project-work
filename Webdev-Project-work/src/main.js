@@ -15,22 +15,24 @@ const AMPHIBIANS_FILE = "/data/amphibians.json";
 const scientificNameToggle = document.querySelector("#scientific-name-toggle");
 const scientificNameToggleValue = scientificNameToggle.checked;
 
-scientificNameToggle.addEventListener("input", () => {
-    // grab all dropdowns and toggle the display
-    const speciesDropdownElements =
-        document.querySelectorAll(".species-dropdown");
-    speciesDropdownElements.forEach((el) => {
-        el.classList.toggle("--common");
-        el.classList.toggle("--scientific");
+function registerEventListeners() {
+    scientificNameToggle.addEventListener("input", () => {
+        // grab all dropdowns and toggle the display
+        const speciesDropdownElements =
+            document.querySelectorAll(".species-dropdown");
+        speciesDropdownElements.forEach((el) => {
+            el.classList.toggle("--common");
+            el.classList.toggle("--scientific");
+        });
+
+        const speciesSelectedListElement = document.querySelector(
+            ".species-selected-list"
+        );
+
+        speciesSelectedListElement.classList.toggle("--common");
+        speciesSelectedListElement.classList.toggle("--scientific");
     });
-
-    const speciesSelectedListElement = document.querySelector(
-        ".species-selected-list"
-    );
-
-    speciesSelectedListElement.classList.toggle("--common");
-    speciesSelectedListElement.classList.toggle("--scientific");
-});
+}
 
 // TODO search function inside dropdown
 // TODO display dropdowns of selected categories
@@ -51,7 +53,8 @@ async function populateSpecies() {
         populateDropdown(aves, "Birds", scientificNameToggleValue)
     );
 
-    createTaglist();
+    // Need to move this somewhere else for cleaner code
+    //createTaglist();
 }
 
 function createTaglist() {
@@ -123,8 +126,6 @@ function populateDropdown(list, category, scientific) {
 
     return dropdownFragment;
 }
-
-populateSpecies();
 
 async function loadFinlandBoundaries() {
     let finlandBoundaries = await fetch(
@@ -209,8 +210,6 @@ function onEachFeature(feature, layer) {
     }
 }
 
-loadFinlandBoundaries();
-
 function attachOSM() {
     const tile = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 15,
@@ -230,7 +229,7 @@ const viableCategories = [
     "Arachnida",
     "Insecta",
 ];
-
+// should rename this because local makes me think of local file structure
 //https://www.inaturalist.org/observations?place_id=7020&quality_grade=research&subview=map&iconic_taxa=Aves,Amphibia,Reptilia,Mammalia,Actinopterygii,Mollusca,Arachnida,Insecta
 async function fetchLocalObservations() {
     // i need to make this more reusable later on
@@ -253,6 +252,9 @@ async function fetchLocalObservations() {
 
 // need to clean this up too, but basic local storage
 function initialPage() {
+    loadFinlandBoundaries();
+
+    populateSpecies();
     if (!localStorage.getItem("Results")) {
         const results = populatePage();
         console.log("not cached", results);
@@ -260,6 +262,8 @@ function initialPage() {
         const results = JSON.parse(localStorage.getItem("Results"));
         console.log("cached", results);
     }
+
+    registerEventListeners();
 }
 
 async function populatePage() {
