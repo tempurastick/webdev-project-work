@@ -26,87 +26,182 @@
         <h1 class="text-3xl text-indigo-500 font-bold absolute z-900 right-2">
             Wildlife in Finland
         </h1>
-        <button class="btn-filter" id="btn-filter">
-            <span class="icon-[mage--filter] bga-indigo-500 icon-lg"></span>
-        </button>
+        <div class="btn_group">
+            <button class="btn-menu btn-filter" id="btn-filter">
+                <span class="icon-[mage--filter] bg-indigo-500 icon-lg"></span>
+            </button>
+            <button class="btn-menu btn-species" id="btn-species">
+                <span
+                    class="icon-[mage--message-information-fill] bg-indigo-500 icon-lg"
+                ></span>
+            </button>
+        </div>
+
         <div class="wrapper">
-            <div class="filter-menu flex flex-col p-4">
-                <!--
-          should be turned into a checkbox later 
-                -->
+            <div class="filter-menu menu_item hidden md:visible">
                 <h3 class="category-title text-indigo-500 font-bold text-xl">
                     Category
                 </h3>
                 <div class="category-grid">
                     <div class="category-item">
-                        <div class="category-img">
-                            <i
-                                class="fa-solid fa-crow fa-2xl text-indigo-500"
-                            ></i>
-                        </div>
+                        <input
+                            type="checkbox"
+                            id="category-item-aves"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Aves"
+                        />
+                        <label
+                            for="category-item-aves"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <i class="fa-solid fa-crow text-indigo-500"></i>
+                            </div>
+                            <span class="category-name">Aves</span>
+                        </label>
+                    </div>
+                    <div class="category-item">
+                        <input
+                            type="checkbox"
+                            id="category-item-amphibians"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Amphibians"
+                        />
+                        <label
+                            for="category-item-amphibians"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <i class="fa-solid fa-frog text-indigo-500"></i>
+                            </div>
+                            <span class="category-name">Amphibians</span>
+                        </label>
+                    </div>
+                    <div class="category-item">
+                        <input
+                            type="checkbox"
+                            id="category-item-reptiles"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Reptiles"
+                        />
+                        <label
+                            for="category-item-reptiles"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <span
+                                    class="icon-[mdi--reptile] bg-indigo-500 category-icon"
+                                ></span>
+                            </div>
 
-                        <span class="category-name">Birds</span>
+                            <span class="category-name">Reptiles</span>
+                        </label>
                     </div>
                     <div class="category-item">
-                        <div class="category-img">
-                            <i
-                                class="fa-solid fa-frog fa-2xl text-indigo-500"
-                            ></i>
-                        </div>
+                        <input
+                            type="checkbox"
+                            id="category-item-mammals"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Mammals"
+                        />
+                        <label
+                            for="category-item-mammals"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <i
+                                    class="fa-solid fa-dog text-indigo-500 category-icon"
+                                ></i>
+                            </div>
+                            <span class="category-name">Mammals</span>
+                        </label>
+                    </div>
+                    <div class="category-item">
+                        <input
+                            type="checkbox"
+                            id="category-item-fish"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Fish"
+                        />
+                        <label
+                            for="category-item-fish"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <i
+                                    class="fa-solid fa-fish-fins text-indigo-500 category-icon"
+                                ></i>
+                            </div>
 
-                        <span class="category-name">Amphibians</span>
+                            <span class="category-name">Fish</span>
+                        </label>
                     </div>
                     <div class="category-item">
-                        <div class="category-img">
-                            <span
-                                class="icon-[mdi--reptile] icon-lg bg-indigo-500"
-                            ></span>
-                        </div>
+                        <input
+                            type="checkbox"
+                            id="category-item-mollusks"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Mollusks"
+                        />
+                        <label
+                            for="category-item-mollusks"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <span
+                                    class="icon-[mdi--snail] bg-indigo-500 category-icon"
+                                ></span>
+                            </div>
+                            <span class="category-name">Mollusks</span>
+                        </label>
+                    </div>
+                    <div class="category-item">
+                        <input
+                            type="checkbox"
+                            id="category-item-arachnids"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Arachnids"
+                        />
+                        <label
+                            for="category-item-arachnids"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <i
+                                    class="fa-solid fa-spider text-indigo-500 category-icon"
+                                ></i>
+                            </div>
 
-                        <span class="category-name">Reptiles</span>
+                            <span class="category-name">Arachnids</span>
+                        </label>
                     </div>
                     <div class="category-item">
-                        <div class="category-img">
-                            <i
-                                class="fa-solid fa-dog fa-2xl text-indigo-500"
-                            ></i>
-                        </div>
-                        <span class="category-name">Mammals</span>
-                    </div>
-                    <div class="category-item">
-                        <div class="category-img">
-                            <i
-                                class="fa-solid fa-fish-fins fa-2xl text-indigo-500"
-                            ></i>
-                        </div>
+                        <input
+                            type="checkbox"
+                            id="category-item-insects"
+                            value=""
+                            class="sr-only peer category-item-selector"
+                            data-selector-for="species-dropdown-Insects"
+                        />
+                        <label
+                            for="category-item-insects"
+                            class="category-item__inner"
+                        >
+                            <div class="category-img">
+                                <i
+                                    class="fa-solid fa-bugs text-indigo-500 category-icon"
+                                ></i>
+                            </div>
 
-                        <span class="category-name">Fish</span>
-                    </div>
-                    <div class="category-item">
-                        <div class="category-img">
-                            <span
-                                class="icon-[mdi--snail] bg-indigo-500 icon-lg"
-                            ></span>
-                        </div>
-                        <span class="category-name">Mollusks</span>
-                    </div>
-                    <div class="category-item">
-                        <div class="category-img">
-                            <i
-                                class="fa-solid fa-spider fa-2xl text-indigo-500"
-                            ></i>
-                        </div>
-
-                        <span class="category-name">Arachnids</span>
-                    </div>
-                    <div class="category-item">
-                        <div class="category-img">
-                            <i
-                                class="fa-solid fa-bugs fa-2xl text-indigo-500"
-                            ></i>
-                        </div>
-
-                        <span class="category-name">Insects</span>
+                            <span class="category-name">Insects</span>
+                        </label>
                     </div>
                 </div>
 
@@ -140,10 +235,17 @@
                 -->
                 <ul class="species-selected-list --common"></ul>
                 <div class="species-grid" id="speciesGrid">
-                    <div class="species-search">
-                        <!--
-                  TODO: should be injected by api data, pre-filtered by categories 
-                  -->
+                    <div class="w-full max-w-sm min-w-[100%]">
+                        <div class="relative species-search">
+                            <input
+                                id="filterSpecies"
+                                class="search-input"
+                                placeholder="Filter species..."
+                            />
+                            <span
+                                class="icon-[mage--search] absolute top-2.5 left-2 p-2 icon text-indigo-500"
+                            ></span>
+                        </div>
                     </div>
                 </div>
 
@@ -194,7 +296,7 @@
                     </button>
                 </div>
             </div>
-            <div class="current-species-menu p-4">
+            <div class="current-species-menu menu_item hidden md:visible">
                 <h2 class="text-2xl text-indigo-500 font-bold">
                     Current Species
                 </h2>
@@ -231,11 +333,14 @@
             </div>
         </template>
         <template id="speciesDropdownList">
-            <h4 class="species-category"></h4>
-            <div class="species-grid">
-                <ul class="species-dropdown">
+            <div class="species-grid hidden">
+                <h4 class="species-category"></h4>
+                <ul class="species-dropdown --common">
                     <li class="species-dropdown-item">
-                        <label for="" class="species-dropdown-item__label">
+                        <label
+                            for=""
+                            class="species-dropdown-item__label relative"
+                        >
                             <span
                                 class="species-dropdown-item--scientific"
                             ></span>
@@ -245,6 +350,13 @@
                                 class="species-dropdown-item__checkbox"
                                 type="checkbox"
                             />
+                            <!-- on check: toggle icons -->
+                            <span
+                                class="species-dropdown-item__icon-wrapper text-xs absolute right-0"
+                            >
+                                <i class="fa-solid fa-plus icon-add"></i>
+                                <i class="fa-solid fa-minus icon-remove"></i>
+                            </span>
                         </label>
                     </li>
                 </ul>

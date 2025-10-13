@@ -29,6 +29,18 @@ export default class DataHandler {
         }
     }
 
+    buildHeatmapTileUrl(taxonId, options = {}) {
+        const baseUrl = `${CONFIG.API_URL}colored_heatmap`;
+        const params = new URLSearchParams({
+            taxon_id: taxonId,
+            verifiable: "true",
+            place_id: CONFIG.FINLAND_PLACE_ID,
+            ...options,
+        });
+
+        return `${baseUrl}/{z}/{x}/{y}.png?${params.toString()}`;
+    }
+
     async _loadFinlandBoundaries() {
         try {
             let finlandBoundaries = await fetch(this.#finlandGeojson).then(

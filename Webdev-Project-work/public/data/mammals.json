@@ -1,626 +1,618 @@
 ﻿[
-  {
-    "Vernacular name": "Man",
-    "Scientific name": "Homo sapiens",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Canadian beaver",
-    "Scientific name": "Castor canadensis",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "European Beaver",
-    "Scientific name": "Castor fiber",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "NT (2019)",
-    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex V; EU Habitats Directive Annex II, exception granted for Finnish populations; EU Habitats Directive Annex IV, exception granted for Finnish populations; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Northern birch mouse",
-    "Scientific name": "Sicista betulina",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Striped Field Mouse",
-    "Scientific name": "Apodemus agrarius",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Yellow-necked Field Mouse",
-    "Scientific name": "Apodemus flavicollis",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Eurasian Harvest Mouse",
-    "Scientific name": "Micromys minutus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "House Mouse",
-    "Scientific name": "Mus musculus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "House Rat",
-    "Scientific name": "Rattus rattus",
-    "Status in Finland": "Extinct",
-    "Red List category in Finland": "RE (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Brown Rat",
-    "Scientific name": "Rattus norvegicus",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Norway Lemming",
-    "Scientific name": "Lemmus lemmus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Field Vole",
-    "Scientific name": "Microtus agrestis",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Common Vole",
-    "Scientific name": "Microtus arvalis",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "NT (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Root Vole",
-    "Scientific name": "Microtus oeconomus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
-    "Synonyms": "Alexandromys oeconomus (Pallas, 1776)"
-  },
-  {
-    "Vernacular name": "Sibling Vole",
-    "Scientific name": "Microtus levis",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": "Microtus rossiaemeridionalis Ognev, 1923"
-  },
-  {
-    "Vernacular name": "Wood Lemming",
-    "Scientific name": "Myopus schisticolor",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Muskrat",
-    "Scientific name": "Ondatra zibethicus",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012)",
-    "Synonyms": "Ondatra zibethica"
-  },
-  {
-    "Vernacular name": "European Water Vole",
-    "Scientific name": "Arvicola amphibius",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
-    "Synonyms": "Arvicola terrestris (Linnaeus, 1758)"
-  },
-  {
-    "Vernacular name": "Bank Vole",
-    "Scientific name": "Myodes glareolus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
-    "Synonyms": "Clethrionomys glareolus (Schreber, 1780)"
-  },
-  {
-    "Vernacular name": "Grey-sided Vole",
-    "Scientific name": "Myodes rufocanus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": "Clethrionomys rufocanus (Sundevall, 1846); Craseomys rufocanus (Sundevall, 1846)"
-  },
-  {
-    "Vernacular name": "Red Vole",
-    "Scientific name": "Myodes rutilus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": "Clethrionomys rutilus (Pallas, 1779)"
-  },
-  {
-    "Vernacular name": "Garden dormouse",
-    "Scientific name": "Eliomys quercinus",
-    "Status in Finland": "Extinct",
-    "Red List category in Finland": "RE (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Eurasian Red Squirrel",
-    "Scientific name": "Sciurus vulgaris",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Siberian Flying Squirrel",
-    "Scientific name": "Pteromys volans",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "VU (2019)",
-    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Connectivity of forest conservation areas – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Western hedgehog",
-    "Scientific name": "Erinaceus europaeus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Water shrew",
-    "Scientific name": "Neomys fodiens",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Common Shrew",
-    "Scientific name": "Sorex araneus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Masked shrew",
-    "Scientific name": "Sorex caecutiens",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Taiga shrew",
-    "Scientific name": "Sorex isodon",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Least Shrew",
-    "Scientific name": "Sorex minutissimus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Pygmy Shrew",
-    "Scientific name": "Sorex minutus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Common mole",
-    "Scientific name": "Talpa europaea",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Northern Bat",
-    "Scientific name": "Eptesicus nilssonii",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": "Eptesicus nilssoni (Keyserling and Blasius, 1839)"
-  },
-  {
-    "Vernacular name": "Common Serotine",
-    "Scientific name": "Eptesicus serotinus",
-    "Status in Finland": "Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Common Noctule",
-    "Scientific name": "Nyctalus noctula",
-    "Status in Finland": "Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Brown Long-eared Bat",
-    "Scientific name": "Plecotus auritus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Particoloured Bat",
-    "Scientific name": "Vespertilio murinus",
-    "Status in Finland": "Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Pond Bat",
-    "Scientific name": "Myotis dasycneme",
-    "Status in Finland": "Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Daubenton's Bat",
-    "Scientific name": "Myotis daubentonii",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": "Myotis daubentoni (Kuhl, 1817)"
-  },
-  {
-    "Vernacular name": "Brandt's Bat",
-    "Scientific name": "Myotis brandtii",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": "Myotis brandti (Eversmann, 1845)"
-  },
-  {
-    "Vernacular name": "European Whiskered Bat",
-    "Scientific name": "Myotis mystacinus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Natterer's Bat",
-    "Scientific name": "Myotis nattereri",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "EN (2019)",
-    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Connectivity of forest conservation areas – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Nathusius' Pipistrelle",
-    "Scientific name": "Pipistrellus nathusii",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "VU (2019)",
-    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Common Pipistrelle",
-    "Scientific name": "Pipistrellus pipistrellus",
-    "Status in Finland": "Regular vagrant; Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "EU Habitats Directive Annex IV",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Soprano Pipistrelle",
-    "Scientific name": "Pipistrellus pygmaeus",
-    "Status in Finland": "Regular vagrant; Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Wolf",
-    "Scientific name": "Canis lupus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "EN (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex V; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, exception granted for Finnish populations; EU Habitats Directive Annex IV, exception granted for Finnish populations; EU Habitats Directive Annex V, exception granted for Finnish populations; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Raccoon dog",
-    "Scientific name": "Nyctereutes procyonoides",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Arctic fox",
-    "Scientific name": "Vulpes lagopus",
-    "Status in Finland": "",
-    "Red List category in Finland": "CR (2019)",
-    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Game mammal (Hunting law 1993/615; 2019/683); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
-    "Synonyms": "Alopex lagopus (Linnaeus, 1758)"
-  },
-  {
-    "Vernacular name": "Red Fox",
-    "Scientific name": "Vulpes vulpes",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Cat",
-    "Scientific name": "Felis catus",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "",
-    "Regulatory Status": "Unprotected animal (Hunting law 1993/615); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
-    "Synonyms": "Felis silvestris catus Linnaeus, 1758"
-  },
-  {
-    "Vernacular name": "European lynx",
-    "Scientific name": "Lynx lynx",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex II, exception granted for Finnish populations; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Otter",
-    "Scientific name": "Lutra lutra",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex II, Finland's Natura species; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix I; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Badger",
-    "Scientific name": "Meles meles",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Wolverine",
-    "Scientific name": "Gulo gulo",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "EN (2019)",
-    "Regulatory Status": "EU Habitats Directive Annex II; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Pine Marten",
-    "Scientific name": "Martes martes",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "EU Habitats Directive Annex V; Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Stoat",
-    "Scientific name": "Mustela erminea",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "European Mink",
-    "Scientific name": "Mustela lutreola",
-    "Status in Finland": "Extinct",
-    "Red List category in Finland": "RE (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Least Weasel",
-    "Scientific name": "Mustela nivalis",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Western Polecat",
-    "Scientific name": "Mustela putorius",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "VU (2019)",
-    "Regulatory Status": "EU Habitats Directive Annex V; Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "American Mink",
-    "Scientific name": "Neogale vison",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012); Government Decree on Managing the Risk Caused by Alien Species (704/2019, VN 912/2023)",
-    "Synonyms": "Mustela vison Schreber, 1777; Neovison vison (Schreber, 1777)"
-  },
-  {
-    "Vernacular name": "Walrus",
-    "Scientific name": "Odobenus rosmarus",
-    "Status in Finland": "Irregular vagrant",
-    "Red List category in Finland": "",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Gray Seal",
-    "Scientific name": "Halichoerus grypus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex V; EU Habitats Directive Annex II, Finland's Natura species; Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Common Seal",
-    "Scientific name": "Phoca vitulina",
-    "Status in Finland": "Regular vagrant; Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "ringed seal",
-    "Scientific name": "Pusa hispida",
-    "Status in Finland": "",
-    "Red List category in Finland": "EN (2000)",
-    "Regulatory Status": "",
-    "Synonyms": "Phoca hispida Schreber, 1775"
-  },
-  {
-    "Vernacular name": "Saimaa ringed seal",
-    "Scientific name": "Pusa saimensis",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "EN (2019)",
-    "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
-    "Synonyms": "Phoca hispida saimensis (Nordquist, 1899); Pusa hispida saimensis (Nordquist, 1899)"
-  },
-  {
-    "Vernacular name": "Brown Bear",
-    "Scientific name": "Ursus arctos",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "NT (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, exception granted for Finnish populations; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Red Deer (Elk)",
-    "Scientific name": "Cervus elaphus",
-    "Status in Finland": "",
-    "Red List category in Finland": "",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Fallow Deer",
-    "Scientific name": "Dama dama",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Other invasive species; Other invasive alien species of concern (not included on the national or EU list)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Elk",
-    "Scientific name": "Alces alces",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Roe Deer",
-    "Scientific name": "Capreolus capreolus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "White-tailed Deer",
-    "Scientific name": "Odocoileus virginianus",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Reindeer",
-    "Scientific name": "Rangifer tarandus",
-    "Status in Finland": "",
-    "Red List category in Finland": "",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "",
-    "Scientific name": "Ovis orientalis",
-    "Status in Finland": "",
-    "Red List category in Finland": "",
-    "Regulatory Status": "",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Wild Boar",
-    "Scientific name": "Sus scrofa",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Harbour Porpoise",
-    "Scientific name": "Phocoena phocoena",
-    "Status in Finland": "Irregular vagrant",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "European Rabbit",
-    "Scientific name": "Oryctolagus cuniculus",
-    "Status in Finland": "Anthropogenic",
-    "Red List category in Finland": "NA (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "European Hare",
-    "Scientific name": "Lepus europaeus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  },
-  {
-    "Vernacular name": "Mountain Hare",
-    "Scientific name": "Lepus timidus",
-    "Status in Finland": "Stable population",
-    "Red List category in Finland": "LC (2019)",
-    "Regulatory Status": "EU Habitats Directive Annex V; Game mammal (Hunting law 1993/615; 2019/683)",
-    "Synonyms": ""
-  }
+    {
+        "Vernacular name": "Canadian beaver",
+        "Scientific name": "Castor canadensis",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "European Beaver",
+        "Scientific name": "Castor fiber",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex V; EU Habitats Directive Annex II, exception granted for Finnish populations; EU Habitats Directive Annex IV, exception granted for Finnish populations; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Northern birch mouse",
+        "Scientific name": "Sicista betulina",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Striped Field Mouse",
+        "Scientific name": "Apodemus agrarius",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Yellow-necked Field Mouse",
+        "Scientific name": "Apodemus flavicollis",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Eurasian Harvest Mouse",
+        "Scientific name": "Micromys minutus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "House Mouse",
+        "Scientific name": "Mus musculus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "House Rat",
+        "Scientific name": "Rattus rattus",
+        "Status in Finland": "Extinct",
+        "Red List category in Finland": "RE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Brown Rat",
+        "Scientific name": "Rattus norvegicus",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Norway Lemming",
+        "Scientific name": "Lemmus lemmus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Field Vole",
+        "Scientific name": "Microtus agrestis",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Common Vole",
+        "Scientific name": "Microtus arvalis",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Root Vole",
+        "Scientific name": "Microtus oeconomus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+        "Synonyms": "Alexandromys oeconomus (Pallas, 1776)"
+    },
+    {
+        "Vernacular name": "Sibling Vole",
+        "Scientific name": "Microtus levis",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Microtus rossiaemeridionalis Ognev, 1923"
+    },
+    {
+        "Vernacular name": "Wood Lemming",
+        "Scientific name": "Myopus schisticolor",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Muskrat",
+        "Scientific name": "Ondatra zibethicus",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012)",
+        "Synonyms": "Ondatra zibethica"
+    },
+    {
+        "Vernacular name": "European Water Vole",
+        "Scientific name": "Arvicola amphibius",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+        "Synonyms": "Arvicola terrestris (Linnaeus, 1758)"
+    },
+    {
+        "Vernacular name": "Bank Vole",
+        "Scientific name": "Myodes glareolus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615)",
+        "Synonyms": "Clethrionomys glareolus (Schreber, 1780)"
+    },
+    {
+        "Vernacular name": "Grey-sided Vole",
+        "Scientific name": "Myodes rufocanus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Clethrionomys rufocanus (Sundevall, 1846); Craseomys rufocanus (Sundevall, 1846)"
+    },
+    {
+        "Vernacular name": "Red Vole",
+        "Scientific name": "Myodes rutilus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Clethrionomys rutilus (Pallas, 1779)"
+    },
+    {
+        "Vernacular name": "Garden dormouse",
+        "Scientific name": "Eliomys quercinus",
+        "Status in Finland": "Extinct",
+        "Red List category in Finland": "RE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Eurasian Red Squirrel",
+        "Scientific name": "Sciurus vulgaris",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Siberian Flying Squirrel",
+        "Scientific name": "Pteromys volans",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Connectivity of forest conservation areas – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Western hedgehog",
+        "Scientific name": "Erinaceus europaeus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Water shrew",
+        "Scientific name": "Neomys fodiens",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Common Shrew",
+        "Scientific name": "Sorex araneus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Masked shrew",
+        "Scientific name": "Sorex caecutiens",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Taiga shrew",
+        "Scientific name": "Sorex isodon",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Least Shrew",
+        "Scientific name": "Sorex minutissimus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Pygmy Shrew",
+        "Scientific name": "Sorex minutus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Common mole",
+        "Scientific name": "Talpa europaea",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Northern Bat",
+        "Scientific name": "Eptesicus nilssonii",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": "Eptesicus nilssoni (Keyserling and Blasius, 1839)"
+    },
+    {
+        "Vernacular name": "Common Serotine",
+        "Scientific name": "Eptesicus serotinus",
+        "Status in Finland": "Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Common Noctule",
+        "Scientific name": "Nyctalus noctula",
+        "Status in Finland": "Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Brown Long-eared Bat",
+        "Scientific name": "Plecotus auritus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Particoloured Bat",
+        "Scientific name": "Vespertilio murinus",
+        "Status in Finland": "Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Pond Bat",
+        "Scientific name": "Myotis dasycneme",
+        "Status in Finland": "Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Daubenton's Bat",
+        "Scientific name": "Myotis daubentonii",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": "Myotis daubentoni (Kuhl, 1817)"
+    },
+    {
+        "Vernacular name": "Brandt's Bat",
+        "Scientific name": "Myotis brandtii",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": "Myotis brandti (Eversmann, 1845)"
+    },
+    {
+        "Vernacular name": "European Whiskered Bat",
+        "Scientific name": "Myotis mystacinus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Natterer's Bat",
+        "Scientific name": "Myotis nattereri",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "EN (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Connectivity of forest conservation areas – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Nathusius' Pipistrelle",
+        "Scientific name": "Pipistrellus nathusii",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Common Pipistrelle",
+        "Scientific name": "Pipistrellus pipistrellus",
+        "Status in Finland": "Regular vagrant; Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "EU Habitats Directive Annex IV",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Soprano Pipistrelle",
+        "Scientific name": "Pipistrellus pygmaeus",
+        "Status in Finland": "Regular vagrant; Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Wolf",
+        "Scientific name": "Canis lupus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "EN (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex V; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, exception granted for Finnish populations; EU Habitats Directive Annex IV, exception granted for Finnish populations; EU Habitats Directive Annex V, exception granted for Finnish populations; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Raccoon dog",
+        "Scientific name": "Nyctereutes procyonoides",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Arctic fox",
+        "Scientific name": "Vulpes lagopus",
+        "Status in Finland": "",
+        "Red List category in Finland": "CR (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Game mammal (Hunting law 1993/615; 2019/683); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": "Alopex lagopus (Linnaeus, 1758)"
+    },
+    {
+        "Vernacular name": "Red Fox",
+        "Scientific name": "Vulpes vulpes",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Cat",
+        "Scientific name": "Felis catus",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "",
+        "Regulatory Status": "Unprotected animal (Hunting law 1993/615); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+        "Synonyms": "Felis silvestris catus Linnaeus, 1758"
+    },
+    {
+        "Vernacular name": "European lynx",
+        "Scientific name": "Lynx lynx",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex II, exception granted for Finnish populations; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Otter",
+        "Scientific name": "Lutra lutra",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; EU Habitats Directive Annex II, Finland's Natura species; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix I; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Badger",
+        "Scientific name": "Meles meles",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Wolverine",
+        "Scientific name": "Gulo gulo",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "EN (2019)",
+        "Regulatory Status": "EU Habitats Directive Annex II; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Pine Marten",
+        "Scientific name": "Martes martes",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "EU Habitats Directive Annex V; Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Stoat",
+        "Scientific name": "Mustela erminea",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "European Mink",
+        "Scientific name": "Mustela lutreola",
+        "Status in Finland": "Extinct",
+        "Red List category in Finland": "RE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Least Weasel",
+        "Scientific name": "Mustela nivalis",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Western Polecat",
+        "Scientific name": "Mustela putorius",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "EU Habitats Directive Annex V; Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "American Mink",
+        "Scientific name": "Neogale vison",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Invasive alien species of Union concern (EU 2016/1141; 2017/1263; 2019/1262; 2022/1203; 2025/1422); Finland’s National Strategy on Invasive Alien Species (GR 2012); Government Decree on Managing the Risk Caused by Alien Species (704/2019, VN 912/2023)",
+        "Synonyms": "Mustela vison Schreber, 1777; Neovison vison (Schreber, 1777)"
+    },
+    {
+        "Vernacular name": "Walrus",
+        "Scientific name": "Odobenus rosmarus",
+        "Status in Finland": "Irregular vagrant",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Gray Seal",
+        "Scientific name": "Halichoerus grypus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "EU Habitats Directive Annex II; EU Habitats Directive Annex V; EU Habitats Directive Annex II, Finland's Natura species; Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Common Seal",
+        "Scientific name": "Phoca vitulina",
+        "Status in Finland": "Regular vagrant; Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ringed seal",
+        "Scientific name": "Pusa hispida",
+        "Status in Finland": "",
+        "Red List category in Finland": "EN (2000)",
+        "Regulatory Status": "",
+        "Synonyms": "Phoca hispida Schreber, 1775"
+    },
+    {
+        "Vernacular name": "Saimaa ringed seal",
+        "Scientific name": "Pusa saimensis",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "EN (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, Finland's Natura species; Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": "Phoca hispida saimensis (Nordquist, 1899); Pusa hispida saimensis (Nordquist, 1899)"
+    },
+    {
+        "Vernacular name": "Brown Bear",
+        "Scientific name": "Ursus arctos",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Priority species (EU Habitats Directive, Appendix II); EU Habitats Directive Annex II, exception granted for Finnish populations; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A; Game mammal (Hunting law 1993/615; 2019/683); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Red Deer (Elk)",
+        "Scientific name": "Cervus elaphus",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Fallow Deer",
+        "Scientific name": "Dama dama",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Other invasive species; Other invasive alien species of concern (not included on the national or EU list)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Elk",
+        "Scientific name": "Alces alces",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Roe Deer",
+        "Scientific name": "Capreolus capreolus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "White-tailed Deer",
+        "Scientific name": "Odocoileus virginianus",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Reindeer",
+        "Scientific name": "Rangifer tarandus",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "",
+        "Scientific name": "Ovis orientalis",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Wild Boar",
+        "Scientific name": "Sus scrofa",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Harbour Porpoise",
+        "Scientific name": "Phocoena phocoena",
+        "Status in Finland": "Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex II; EU Habitats Directive Annex IV; Convention on International Trade in Endangered Species of Wild Flora and Fauna - CITES, Appendix II; EU regulation regarding CITES, Appendix A",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "European Rabbit",
+        "Scientific name": "Oryctolagus cuniculus",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683); Finland’s National Strategy on Invasive Alien Species (GR 2012); Other invasive alien species of concern (not included on the national or EU list)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "European Hare",
+        "Scientific name": "Lepus europaeus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "Mountain Hare",
+        "Scientific name": "Lepus timidus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "EU Habitats Directive Annex V; Game mammal (Hunting law 1993/615; 2019/683)",
+        "Synonyms": ""
+    }
 ]

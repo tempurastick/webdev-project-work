@@ -36,6 +36,7 @@ export default class FinlandMap {
         this.dataHandler = dataHandler;
         this.baseMap = null;
         this.overlayLayers = {};
+        this.heatmapLayers = {};
         this.layerControl = null;
         this.finlandBounds = null;
         this.#boundaryColour = "oklch(58.5% 0.233 277.117)"; // tailwind indigo-500
@@ -55,6 +56,7 @@ export default class FinlandMap {
         }
 
         this._setMapBounds();
+        this.map.on("moveend", this._updateHeatmapLayers.bind(this));
     }
 
     _addBaseMap() {
@@ -93,9 +95,53 @@ export default class FinlandMap {
                 this.overlayLayers[taxonName];
         }
 
+        for (const taxonId in this.heatmapLayers) {
+            currentOverlapMaps[`Heatmap: ${taxonId}`] =
+                this.heatmapLayers[taxonId];
+        }
+
         this.layerControl = L.control
             .layers(baseMaps, currentOverlapMaps)
             .addTo(this.map);
+    }
+
+    // Add heatmap layer for a taxon
+    addHeatmapLayer(taxonId, taxonName = null) {
+        // Remove existing heatmap layer if it exists
+        this.removeHeatmapLayer(taxonId);
+
+        // there's also:      `${CONFIG.API_URL}taxon_ranges/${taxonId}/{z}/{x}/{y}.png`, for taxon range
+        const heatmapLayer = L.tileLayer(
+            `${CONFIG.API_URL}heatmap/{z}/{x}/{y}.png?taxon_id=${taxonId}&verifiable=true&place_id=${CONFIG.FINLAND_PLACE_ID}`,
+            {
+                attribution: "© iNaturalist",
+                maxZoom: 18,
+                minZoom: 1,
+                opacity: 1,
+                zIndex: 500,
+            }
+        );
+
+        heatmapLayer.addTo(this.map);
+        this.heatmapLayers[taxonId] = heatmapLayer;
+
+        this._setMapLayerControl();
+        return heatmapLayer;
+    }
+
+    _updateHeatmapLayers() {
+        // If you need to dynamically update heatmap parameters based on viewport
+        // This is called on map moveend
+        const bounds = this.map.getBounds();
+        // You could update heatmap layers here if needed
+    }
+
+    removeHeatmapLayer(taxonId) {
+        if (this.heatmapLayers[taxonId]) {
+            this.map.removeLayer(this.heatmapLayers[taxonId]);
+            delete this.heatmapLayers[taxonId];
+            this._setMapLayerControl();
+        }
     }
 
     _setMapBounds() {
@@ -112,6 +158,9 @@ export default class FinlandMap {
                 name:
                     observation.taxon?.name ||
                     observation.taxon?.preferred_common_name,
+                occurence:
+                    observation.taxon?.establishment_means
+                        ?.occurrence_status_level,
 
                 popupContent: this._generatePopupContent(observation),
             },

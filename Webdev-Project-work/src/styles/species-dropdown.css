@@ -23,7 +23,7 @@
 }
 
 .species-dropdown-item__label {
-    @apply px-2 py-1 inline-block w-full hover:bg-indigo-100 text-indigo-500 has-checked:bg-indigo-50;
+    @apply px-2 py-1 pr-12 inline-block w-full hover:bg-indigo-100 text-indigo-500 has-checked:bg-indigo-50;
 }
 
 .species-dropdown-item__checkbox {

@@ -4,9 +4,7 @@ export default class DomRenderer {
         this.dataHandler = dataHandler;
         this.finlandMap = finlandMap;
         this.speciesGrid = document.querySelector("#speciesGrid");
-        this.scientificNameToggle = document.querySelector(
-            "#scientific-name-toggle"
-        );
+
         this.speciesSelectedListElement = document.querySelector(
             ".species-selected-list"
         );
@@ -29,14 +27,7 @@ export default class DomRenderer {
         this._registerEventListeners();
     }
 
-    #registerToggleEventListeners() {
-        this.scientificNameToggle.addEventListener("input", () => {
-            this.toggleSpeciesNameDisplay();
-        });
-    }
-
     _registerEventListeners() {
-        this.#registerToggleEventListeners();
         this._registerSelectEventListeners();
         this._registerResetBtn();
         this._registerSubmitBtn();
@@ -163,9 +154,14 @@ export default class DomRenderer {
         const optionNode = dropdownFragment.querySelector(
             ".species-dropdown-item"
         );
+
         speciesList.forEach((item) => {
             const scientificName = item["Scientific name"];
             const commonName = item["Vernacular name"];
+
+            // put these as variables later
+            optionNode.setAttribute("data-species-scientific", scientificName);
+            optionNode.setAttribute("data-species-common", commonName);
             const optionEl = optionNode.cloneNode(true);
             const scientificEl = optionEl.querySelector(
                 ".species-dropdown-item--scientific"
