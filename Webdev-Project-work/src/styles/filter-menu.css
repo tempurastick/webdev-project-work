@@ -28,3 +28,7 @@
 .btn-search {
     @apply absolute top-1 right-1 flex items-center rounded bg-indigo-500 py-1 px-2.5 border border-transparent text-center text-sm text-white transition-all shadow-sm hover:shadow focus:bg-indigo-700 focus:shadow-none active:bg-indigo-700 hover:bg-indigo-600 active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none;
 }
+
+    .--hide {
+        visibility: hidden;
+    }

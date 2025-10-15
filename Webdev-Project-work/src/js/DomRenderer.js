@@ -25,10 +25,11 @@ export default class DomRenderer {
         await this.populateSpecies();
         this.renderAllSpeciesLists();
         this._registerEventListeners();
+        this._emitSpeciesListsRenderedEvent();
     }
 
     _registerEventListeners() {
-        this._registerSelectEventListeners();
+        //this._registerSelectEventListeners();
         this._registerResetBtn();
         this._registerSubmitBtn();
     }
@@ -210,5 +211,14 @@ export default class DomRenderer {
         // missing desc in current fetch
         parentContainer.appendChild(speciesCardFragment);
         // maybe should have an info about how many sightings there were etc too
+    }
+
+    // send custom event once species list is rendered, so filter menu knows when to attach event listener
+    _emitSpeciesListsRenderedEvent() {
+        const event = new CustomEvent("speciesListsRendered", {
+            bubble: true,
+            detail: { timestamp: Date.now() },
+        });
+        document.dispatchEvent(event);
     }
 }
