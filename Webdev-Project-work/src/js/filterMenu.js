@@ -38,8 +38,34 @@ export default class FilterMenu {
             debounce(this._toggleSpeciesNameDisplay(), 300);
         });
 
+        this.resetBtn.addEventListener("click", () => {
+            this._resetSelection();
+        });
+
         document.addEventListener("speciesListsRendered", () => {
             this._registerSpeciesSelectors();
+        });
+    }
+
+    _resetSelection() {
+        // creating a copy of the array to prevent side effects like an item missing from the removal
+        const speciesToRemove = Array.from(this.selectedSpecies);
+        speciesToRemove.forEach((speciesId) => {
+            const el = document.querySelector(
+                `[data-species-scientific="${speciesId}"]`
+            );
+
+            const addIcon = el.querySelector(".icon-add");
+            const removeIcon = el.querySelector(".icon-remove");
+            const checkbox = el.querySelector(
+                ".species-dropdown-item__checkbox"
+            );
+
+            checkbox.checked = false;
+
+            const params = { speciesId, addIcon, removeIcon };
+
+            this._removeFromSelectedSpecies(params);
         });
     }
 
@@ -50,13 +76,12 @@ export default class FilterMenu {
 
         selectElements.forEach((selectEl) => {
             selectEl.addEventListener("input", () => {
-                this._handleSpeciesSelection(selectEl);
+                debounce(this._handleSpeciesSelection(selectEl), 300);
             });
         });
     }
 
     _handleSpeciesSelection(selected) {
-        //const speciesId = selected.id;
         const { id: speciesId, checked, parentElement: parent } = selected;
 
         if (!speciesId) {
