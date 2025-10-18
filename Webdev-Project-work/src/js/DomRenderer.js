@@ -1,4 +1,7 @@
-import { CONFIG, SPECIES_GLOSSARY } from "./constants.js";
+import { CONFIG, SPECIES_GLOSSARY, EVENTS } from "./constants.js";
+
+import { icons } from "./assets.js";
+
 export default class DomRenderer {
     constructor(dataHandler, finlandMap) {
         this.dataHandler = dataHandler;
@@ -9,68 +12,51 @@ export default class DomRenderer {
             ".species-selected-list"
         );
 
-        this.resetBtn = document.querySelector("#btn-filter-reset");
-        this.submitBtn = document.querySelector("#btn-filter-submit");
-
+        this.currentSpeciesContainer = document.getElementById(
+            "current-species-container"
+        );
         this.currentSpeciesCardTemplate =
             document.getElementById("currentSpeciesCard");
 
+        this.toastNotificationEl = document.getElementById("toastNotification");
+        this.toastText = this.toastNotificationEl.querySelector(
+            ".toast-notification__text"
+        );
+        this.toastDismissBtn = document.getElementById("toastDismissBtn");
         this.speciesClasses = {};
         this.selectedValues = [];
-
         this.init();
     }
 
     async init() {
         await this.populateSpecies();
         this.renderAllSpeciesLists();
-        this._registerEventListeners();
         this._emitSpeciesListsRenderedEvent();
-    }
-
-    _registerEventListeners() {
-        //this._registerSelectEventListeners();
-        this._registerResetBtn();
-        this._registerSubmitBtn();
-    }
-
-    _registerResetBtn() {
-        this.resetBtn.addEventListener("click", () => {
-            this._resetSelectedValues();
-        });
-    }
-
-    _registerSubmitBtn() {
-        this.submitBtn.addEventListener("click", () => {
-            this._resolveSubmission();
-        });
-    }
-
-    // definitely need a debouncer on the button for the wait time
-    _resolveSubmission() {
-        const currentSelections = this._getCurrentSelections();
-        if (currentSelections.length == 0) {
-            return console.warn("No selection");
-            // do other stuff here, or maybe submit should just be disabled until currentSelection is filled
-        } else {
-            currentSelections.forEach(async (selection) => {
-                const selectionQuery =
-                    this.dataHandler.buildObservationQuery(selection);
-                let selectionData = await this.dataHandler.fetchDataThrottle(
-                    selectionQuery
-                );
-                selectionData = selectionData.results;
-
-                // I need something for when no observations are recorded
-                selectionData.forEach((result) => {
-                    this.finlandMap.addObservationLayer(result);
-                });
-            });
-        }
+        this._registerEventListeners();
     }
 
     _getCurrentSelections() {
         return this.selectedValues.slice(0);
+    }
+
+    _registerEventListeners() {
+        document.addEventListener(EVENTS.SPECIES_DATA_READY, async (event) => {
+            const taxon = event.detail.results[0].taxon;
+            this.renderCurrentSpeciesCard(taxon);
+            this._renderToastSuccess("Successfuly fetched all info.");
+        });
+
+        document.addEventListener(EVENTS.CLEAR_DATA, async (event) => {
+            this._clearCurrentCards();
+        });
+
+        document.addEventListener(EVENTS.ERROR, async (event) => {
+            this._renderToastWarning(event.detail);
+        });
+
+        this.toastDismissBtn.addEventListener("click", () => {
+            this._clearToastNotification();
+        });
     }
 
     _registerSelectEventListeners() {
@@ -108,11 +94,6 @@ export default class DomRenderer {
         }
 
         this.selectedValues.push(value);
-    }
-
-    _resetSelectedValues() {
-        this.selectedValues = [];
-        console.log("current selections are empty:", this.selectedValues);
     }
 
     async populateSpecies() {
@@ -189,9 +170,8 @@ export default class DomRenderer {
     }
 
     renderCurrentSpeciesCard(taxon) {
-        const parentContainer = document.getElementById(
-            "current-species-container"
-        );
+        console.log("taxon card:", taxon);
+
         const template = document.getElementById("currentSpeciesCard");
         const speciesCardFragment = template.content.cloneNode(true);
         const img = speciesCardFragment.querySelector(".current-species-img");
@@ -199,26 +179,87 @@ export default class DomRenderer {
         const subHeading = speciesCardFragment.querySelector(
             ".current-species-sub-heading"
         );
-        const desc = speciesCardFragment.querySelector(
-            ".current-species-description"
+
+        const nativity = speciesCardFragment.querySelector(
+            ".current-species-nativity"
         );
+
+        const wikipedia = speciesCardFragment.querySelector(
+            ".current-species-wikipedia"
+        );
+
         img.src =
-            taxon?.default_photo?.square_url || CONFIG.PLACEHOLDER_IMAGE_URL;
+            taxon?.default_photo?.medium_url || CONFIG.PLACEHOLDER_IMAGE_URL;
         img.alt = taxon?.default_photo?.attribution || `No Image Found`;
         name.textContent = taxon?.preferred_common_name;
         subHeading.textContent = taxon?.name;
-        console.log(taxon);
+        nativity.textContent = taxon?.native ? "Native" : "Non-Native";
+
+        wikipedia.href = taxon?.wikipedia_url;
+
+        // destructuring args because it keeps things a little cleaner
+        this._conservationStatus({
+            conservationInfo: taxon.conservation_status ?? taxon.threatened,
+            conservationImg: speciesCardFragment.querySelector(
+                ".current-species-conservation-img"
+            ),
+            conservationLabel: speciesCardFragment.querySelector(
+                ".current-species-conservation-label"
+            ),
+        });
+
         // missing desc in current fetch
-        parentContainer.appendChild(speciesCardFragment);
+        this.currentSpeciesContainer.appendChild(speciesCardFragment);
         // maybe should have an info about how many sightings there were etc too
+    }
+
+    _conservationStatus({
+        conservationInfo,
+        conservationImg,
+        conservationLabel,
+    }) {
+        if (conservationInfo == false) {
+            conservationLabel.textContent = "Least Concern";
+            conservationImg.src = icons.lc;
+        } else {
+            conservationLabel.textContent = conservationInfo.status_name;
+            conservationImg.src = icons[conservationInfo.status]; // accessing correct icon by mapping the key to icon name
+        }
     }
 
     // send custom event once species list is rendered, so filter menu knows when to attach event listener
     _emitSpeciesListsRenderedEvent() {
-        const event = new CustomEvent("speciesListsRendered", {
+        const event = new CustomEvent(EVENTS.SPECIES_LIST_RENDERED, {
             bubble: true,
             detail: { timestamp: Date.now() },
         });
         document.dispatchEvent(event);
+    }
+
+    _clearCurrentCards() {
+        this.currentSpeciesContainer.textContent = "";
+    }
+
+    _renderToastWarning(warning) {
+        this.toastNotificationEl.classList.add("--warning");
+
+        this.toastText.textContent = warning;
+
+        this.toastNotificationEl.show();
+    }
+
+    _renderToastSuccess(message) {
+        this.toastNotificationEl.classList.add("--success");
+
+        this.toastText.textContent = message;
+        this.toastNotificationEl.show();
+    }
+
+    _clearToastNotification() {
+        this.toastNotificationEl.classList.remove("--warning");
+        this.toastNotificationEl.classList.remove("--error");
+        this.toastNotificationEl.classList.remove("--success");
+
+        this.toastText.textContent = "";
     }
 }

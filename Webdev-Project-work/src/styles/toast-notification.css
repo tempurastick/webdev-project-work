@@ -1,0 +1,37 @@
+.toast-notification__container {
+    @apply rounded-md relative w-[100%] p-4 mb-6 border-2 md:pr-8;
+}
+
+.toast-notification {
+    @apply flex flex-row gap-2  items-center;
+}
+
+.toast-notification__icon {
+    @apply p-2;
+
+    .icon {
+        display: none;
+    }
+}
+
+
+.toast-notification-dismiss {
+    @apply absolute top-0.5 right-0.5 p-2;
+}
+
+
+.--warning {
+    @apply bg-amber-50  border-amber-500 text-amber-700;
+
+    .icon-warning {
+        display: inline;
+    }
+}
+
+.--success {
+    @apply bg-lime-100 border-lime-500 text-lime-800;
+
+        .icon-success {
+        display: inline;
+    }
+}

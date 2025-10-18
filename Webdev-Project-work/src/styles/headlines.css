@@ -1,0 +1,7 @@
+.h1 {
+    @apply text-3xl text-indigo-500 font-bold absolute z-900 right-2;
+}
+
+.h2 {
+    @apply text-2xl text-indigo-500 font-bold mb-2;
+}

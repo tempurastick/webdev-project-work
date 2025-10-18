@@ -1,17 +1,14 @@
 .wrapper {
     @apply md:flex md:flex-row;
+}
 
-    .filter-menu {
-        flex: 1;
-    }
-
-    #finlandMap {
-        flex: 3;
-    }
+.current-species-menu {
+    @apply w-[100%];
 }
 
 .menu_item {
- @apply absolute bottom-0 md:static max-h-3/4  md:max-h-screen p-4 z-900 bg-white pb-16 rounded-t-2xl;
+
+ @apply absolute bottom-0 md:static max-h-3/4  md:max-h-screen p-4 z-900 bg-white pb-16 rounded-t-2xl h-[100vh] overflow-y-scroll flex-1 md:flex-1/2;
 }
 
 .filter-menu {
@@ -32,3 +29,12 @@
     .--hide {
         visibility: hidden;
     }
+
+
+.options-wrapper {
+    @apply mb-6;
+}
+
+.species-grid {
+    @apply mb-6;
+}

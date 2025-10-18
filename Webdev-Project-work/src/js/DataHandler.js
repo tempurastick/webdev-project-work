@@ -1,17 +1,24 @@
-import { CONFIG } from "./constants";
+import { CONFIG, EVENTS } from "./constants";
 import { replaceWhitespace, debounce } from "./helpers";
-
+import StorageHandler from "./StorageHandler";
 export default class DataHandler {
     #finlandGeojson;
     #iNatApi;
+    #storage;
 
     constructor() {
         this.#finlandGeojson =
             "/data/Finland_ADM0_simplified.simplified.geojson";
         this.#iNatApi = "https://api.inaturalist.org/v1/";
+        this.#storage = new StorageHandler();
 
         // simple debouncer to throttle requests
         this.debouncer = debounce(this.fetchData.bind(this), 1000);
+        // document.addEventListener("speciesSubmitted", (event) => {
+        //     console.log(event);
+        // });
+
+        this._registerEventListeners();
     }
 
     async fetchDataThrottle(source) {
@@ -29,16 +36,103 @@ export default class DataHandler {
         }
     }
 
-    buildHeatmapTileUrl(taxonId, options = {}) {
-        const baseUrl = `${CONFIG.API_URL}colored_heatmap`;
+    _registerEventListeners() {
+        document.addEventListener(
+            EVENTS.SUBMIT_SPECIES_SEARCH,
+            async (event) => {
+                this._handleSearchSubmission(event.detail);
+            }
+        );
+    }
+
+    _handleSearchSubmission(speciesList) {
+        debounce(this._fetchSpeciesBatch(speciesList, 1000));
+    }
+
+    async _fetchSpeciesBatch(speciesList) {
+        console.log("Fetching species batch:", speciesList);
+
+        const promises = speciesList.map(async (selection) => {
+            const taxon = replaceWhitespace(selection);
+            const cached = await this.#storage.getSpeciesData(taxon);
+
+            if (cached) {
+                console.log(`Using cached data for ${taxon}`);
+                this._sendObservationData(cached.results);
+                return cached;
+            }
+
+            const query = this.buildObservationQuery(selection);
+            const data = await this.fetchData(query);
+
+            if (data?.results?.length) {
+                const taxonData = data.results[0].taxon;
+                await this.#storage.saveSpeciesData(
+                    taxon,
+                    taxonData.id,
+                    data.results
+                );
+                this._sendObservationData(data.results);
+            } else {
+                this._createErrorEvent(`No results for ${selection}`);
+            }
+
+            return data;
+        });
+
+        return Promise.all(promises);
+
+        // const promises = speciesList.map(async (selection) => {
+        //     const selectionQuery = this.buildObservationQuery(selection);
+        //     console.log("Query:", selectionQuery);
+
+        //     const selectionData = await this.fetchData(selectionQuery);
+        //     if (selectionData?.results?.length) {
+        //         this._sendObservationData(selectionData.results);
+        //     } else {
+        //         console.warn(`No results for ${selection}`);
+        //     }
+
+        //     return selectionData;
+        // });
+
+        // const results = await Promise.all(promises);
+    }
+
+    _createErrorEvent(errorMessage) {
+        const errorEvent = new CustomEvent(EVENTS.ERROR, {
+            detail: errorMessage,
+        });
+
+        document.dispatchEvent(errorEvent);
+    }
+
+    _sendObservationData(results) {
+        const { id: taxonId, name: taxonName } = results[0].taxon;
+
+        const speciesDataEvent = new CustomEvent(EVENTS.SPECIES_DATA_READY, {
+            detail: {
+                taxonId,
+                taxonName,
+                results,
+            },
+        });
+
+        document.dispatchEvent(speciesDataEvent);
+    }
+
+    buildHeatmapTileUrl(taxon, options = {}) {
+        taxon = replaceWhitespace(taxon);
+
+        const baseUrl = `${this.#iNatApi}colored_heatmap/{z}/{x}/{y}.png`;
         const params = new URLSearchParams({
-            taxon_id: taxonId,
+            taxon_name: taxon,
             verifiable: "true",
             place_id: CONFIG.FINLAND_PLACE_ID,
             ...options,
         });
 
-        return `${baseUrl}/{z}/{x}/{y}.png?${params.toString()}`;
+        return `${baseUrl}?${params.toString()}`;
     }
 
     async _loadFinlandBoundaries() {

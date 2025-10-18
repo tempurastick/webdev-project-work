@@ -3,8 +3,12 @@ export const CONFIG = {
     FINLAND_PLACE_ID: 7020,
     SEARCH: "search?q=Finland&sources=places&include_taxon_ancestors=false&per_page=200",
     BGMAP: "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    SATELLITEMAP:
+        "https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}",
     FINLAND_MAP: "/data/Finland_ADM0_simplified.simplified.geojson",
-    PLACEHOLDER_IMAGE_URL: "https://via.placeholder.com/200x200?text=No+Image",
+    PLACEHOLDER_IMAGE_URL: "https://placehold.co/200x200?text=No+Image",
+    LOCALSTORAGE_ENTRIES_LIMIT: 5,
+    STORAGE_KEY_SPECIES_DATA: "speciesData_",
 };
 
 export const SPECIES_GLOSSARY = [
@@ -25,3 +29,11 @@ export const SPECIES_GLOSSARY = [
         file: "/data/amphibians.json",
     },
 ];
+
+export const EVENTS = {
+    SPECIES_LIST_RENDERED: "speciesListsRendered",
+    SUBMIT_SPECIES_SEARCH: "speciesSubmitted",
+    SPECIES_DATA_READY: "speciesDataFetched",
+    CLEAR_DATA: "clearData",
+    ERROR: "error",
+};

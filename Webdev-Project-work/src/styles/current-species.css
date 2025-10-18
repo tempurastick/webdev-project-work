@@ -1,11 +1,6 @@
-.current-species-menu {
-  height: 100vh;
-  overflow-y: scroll;
-  flex: 1;
-}
 
 .current-species-item {
-    @apply flex flex-col bg-indigo-100 border-indigo-500 border-4 rounded-md p-4 gap-4;
+    @apply flex flex-col bg-indigo-100 border-indigo-500 border-2 rounded-md p-4 gap-4;
 }
 
 .current-species-item-wrapper {
@@ -17,7 +12,7 @@
 }
 
 .current-species-img {
-    @apply w-full;
+    @apply w-full aspect-square object-cover;
 }
 
 .current-species-content {
@@ -31,3 +26,26 @@
 .current-species-sub-heading {
     @apply font-bold italic text-indigo-500;
 }
+
+.current-species-conservation {
+    @apply flex items-center gap-1;
+}
+
+
+.current-species-information__wrapper {
+    @apply flex gap-2 items-center text-sm text-indigo-500 font-bold;
+}
+
+.current-species-wikipedia__wrapper {
+    @apply text-indigo-500 font-bold text-sm;
+}
+
+.current-species-wikipedia {
+    @apply underline underline-offset-4;
+}
+
+#current-species-container {
+    @apply flex flex-col gap-2;
+}
+
+/* TODO: move leaflet layer control (or clone) to the current card so we can directly control it on the card */

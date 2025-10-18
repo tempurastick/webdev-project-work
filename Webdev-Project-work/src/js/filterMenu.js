@@ -1,8 +1,12 @@
 import { debounce } from "./helpers";
+import { EVENTS } from "./constants";
 export default class FilterMenu {
-    constructor() {
+    constructor(dataHandler, finlandMap) {
+        this.dataHandler = dataHandler;
+        this.finlandMap = finlandMap;
         this.submitBtn = document.querySelector("#btn-filter-submit");
         this.resetBtn = document.querySelector("#btn-filter-reset");
+        this.clearBtn = document.querySelector("#btn-filter-clear");
         this.categoryItems = document.querySelectorAll(".category-item");
         this.searchInput = document.querySelector("#filterSpecies");
         this.scientificNameToggle = document.querySelector(
@@ -42,14 +46,109 @@ export default class FilterMenu {
             this._resetSelection();
         });
 
-        document.addEventListener("speciesListsRendered", () => {
+        this._registerSubmitBtn();
+        this._registerClearBtn();
+
+        document.addEventListener(EVENTS.SPECIES_LIST_RENDERED, () => {
             this._registerSpeciesSelectors();
         });
+
+        document.addEventListener(EVENTS.ERROR, async () =>
+            this._removeLoaderFromBtn()
+        );
+
+        document.addEventListener(EVENTS.SPECIES_DATA_READY, async () => {
+            this._removeLoaderFromBtn();
+        });
+    }
+
+    _registerClearBtn() {
+        this.clearBtn.addEventListener("click", () => {
+            this._resetSelection();
+            this._createClearEvent();
+        });
+    }
+
+    _createClearEvent() {
+        const clearEvent = new CustomEvent(EVENTS.CLEAR_DATA, {
+            bubbles: true,
+            cancelable: true,
+        });
+
+        document.dispatchEvent(clearEvent);
+    }
+
+    _registerSubmitBtn() {
+        this.submitBtn.addEventListener("click", () => {
+            debounce(this._resolveSubmission(), 1000);
+        });
+    }
+
+    _createSubmitEvent(details) {
+        const submitSpecies = new CustomEvent(EVENTS.SUBMIT_SPECIES_SEARCH, {
+            bubbles: true,
+            cancelable: true,
+            detail: details,
+        });
+
+        document.dispatchEvent(submitSpecies);
+    }
+
+    _createLoaderIndicator() {
+        return `<i
+                    class="fa-solid fa-circle-notch animate-spin text-white"
+                ></i> Fetching...`;
+    }
+
+    _attachLoaderToBtn() {
+        this.submitBtn.classList.add("--loading");
+        this.submitBtn.innerHTML = this._createLoaderIndicator();
+    }
+
+    _removeLoaderFromBtn() {
+        this.submitBtn.classList.remove("--loading");
+        this.submitBtn.textContent = "Submit";
+    }
+
+    _resolveSubmission() {
+        this._attachLoaderToBtn();
+        const currentSelections = this._copySelectionList();
+
+        if (currentSelections.length == 0) {
+            return console.warn("No selection");
+            // do other stuff here, or maybe submit should just be disabled until currentSelection is filled
+        } else {
+            // clean this up, but use event emitters instead of constructor args
+
+            this._createSubmitEvent(currentSelections);
+            this._resetSelection();
+
+            // currentSelections.forEach(async (selection) => {
+            //     const selectionQuery =
+            //         this.dataHandler.buildObservationQuery(selection);
+            //     let selectionData = await this.dataHandler.fetchDataThrottle(
+            //         selectionQuery
+            //     );
+            //     selectionData = selectionData.results;
+
+            //     selectionData.forEach((result) => {
+            //         this.finlandMap.addObservationLayer(result);
+            //     });
+            // });
+        }
+        // missing current card
+
+        // close filter menu on mobile
+    }
+
+    _copySelectionList() {
+        return Array.from(this.selectedSpecies);
     }
 
     _resetSelection() {
         // creating a copy of the array to prevent side effects like an item missing from the removal
-        const speciesToRemove = Array.from(this.selectedSpecies);
+        const speciesToRemove = this._copySelectionList();
+
         speciesToRemove.forEach((speciesId) => {
             const el = document.querySelector(
                 `[data-species-scientific="${speciesId}"]`
@@ -67,6 +166,9 @@ export default class FilterMenu {
 
             this._removeFromSelectedSpecies(params);
         });
+
+        const currentList = this.selectedSpecies.length;
+        this._setSubmitBtnState(currentList);
     }
 
     _registerSpeciesSelectors() {
@@ -96,6 +198,17 @@ export default class FilterMenu {
         checked
             ? this._addToSelectedSpecies(params)
             : this._removeFromSelectedSpecies(params);
+
+        const currentList = this.selectedSpecies.length;
+        this._setSubmitBtnState(currentList);
+    }
+
+    _setSubmitBtnState(currentList) {
+        if (currentList == 0) {
+            this.submitBtn.disabled = true;
+        } else {
+            this.submitBtn.disabled = false;
+        }
     }
 
     _checkCurrentSelection(speciesId) {

@@ -1,0 +1,13 @@
+.scrollbar {
+        &::-webkit-scrollbar {
+        @apply w-3;
+    }
+
+    &::-webkit-scrollbar-track {
+        @apply rounded border-1 border-indigo-200;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        @apply rounded bg-indigo-200 border-4 border-transparent bg-clip-content;
+    }
+}

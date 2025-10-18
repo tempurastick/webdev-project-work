@@ -1,52 +1,34 @@
-import { CONFIG } from "./constants";
-
-// missing overlay map in this refactoring bc it's the dummy data
-function setMapLayerControl(baseMaps, overlayMaps) {
-    L.control.layers(baseMaps, overlayMaps).addTo(finland);
-}
-
-function createGeoJsonFeature(observation) {
-    const feature = {
-        type: "Feature",
-        properties: {
-            name:
-                observation.taxon?.name ||
-                observation.taxon?.preferred_commono_name,
-
-            popupContent: "This is where the Rockies play!",
-        },
-        geometry: {
-            type: observation.geojson?.type,
-            coordinates: observation.geojson?.coordinates,
-        },
-    };
-    return feature;
-}
+import { CONFIG, EVENTS } from "./constants";
 
 export default class FinlandMap {
     #baseMapSource;
+    #satelliteMapSource;
     #boundaryColour;
     #onEachFeatureHandler;
 
     constructor(container, dataHandler) {
         this.map = L.map(container, {
-            //zoomControl: false,
+            minZoom: 5,
+            maxZoom: 16,
         });
 
         this.dataHandler = dataHandler;
         this.baseMap = null;
+        this.satelliteMap = null;
         this.overlayLayers = {};
         this.heatmapLayers = {};
         this.layerControl = null;
         this.finlandBounds = null;
         this.#boundaryColour = "oklch(58.5% 0.233 277.117)"; // tailwind indigo-500
         this.#baseMapSource = CONFIG.BGMAP;
-
+        this.#satelliteMapSource = CONFIG.SATELLITEMAP;
         this.#onEachFeatureHandler = this._createOnEachFeatureHandler();
+        this._registerEventListeners();
     }
 
     async initializeMap() {
         this._addBaseMap();
+        this._addSatelliteMap();
 
         try {
             const boundariesData = await this.dataHandler.finlandBoundaries;
@@ -56,19 +38,46 @@ export default class FinlandMap {
         }
 
         this._setMapBounds();
-        this.map.on("moveend", this._updateHeatmapLayers.bind(this));
+        this._setMapLayerControl();
+    }
+
+    _registerEventListeners() {
+        document.addEventListener(EVENTS.SPECIES_DATA_READY, async (event) => {
+            this._handleNewObservations(event.detail);
+        });
+
+        document.addEventListener(EVENTS.CLEAR_DATA, async (event) => {
+            this._clearMapData();
+        });
+    }
+
+    _handleNewObservations(observations) {
+        const { taxonId, taxonName, results } = observations;
+        this.addHeatmapLayer(taxonId, taxonName);
     }
 
     _addBaseMap() {
         const bgLayer = L.tileLayer(this.#baseMapSource, {
             attribution: "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ",
-            maxZoom: 9,
+            maxZoom: 16,
             minZoom: 5,
-            zoomControl: false,
         });
 
         bgLayer.addTo(this.map);
         this.baseMap = bgLayer;
+    }
+
+    _addSatelliteMap() {
+        const sat = L.tileLayer(this.#satelliteMapSource, {
+            minZoom: 5,
+            maxZoom: 16,
+            attribution:
+                '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            ext: "jpg",
+        });
+
+        sat.addTo(this.map);
+        this.satelliteMap = sat;
     }
 
     _renderFinlandBoundaries(boundaries) {
@@ -86,18 +95,20 @@ export default class FinlandMap {
         }
 
         const baseMaps = {
-            bgMap: this.baseMap,
+            satellite: this.satelliteMap,
+            outline: this.baseMap,
         };
 
         const currentOverlapMaps = {};
+
         for (const taxonName in this.overlayLayers) {
             currentOverlapMaps[`Observations: ${taxonName}`] =
                 this.overlayLayers[taxonName];
         }
 
-        for (const taxonId in this.heatmapLayers) {
-            currentOverlapMaps[`Heatmap: ${taxonId}`] =
-                this.heatmapLayers[taxonId];
+        for (const taxonName in this.heatmapLayers) {
+            currentOverlapMaps[`Heatmap: ${taxonName}`] =
+                this.heatmapLayers[taxonName];
         }
 
         this.layerControl = L.control
@@ -106,11 +117,9 @@ export default class FinlandMap {
     }
 
     // Add heatmap layer for a taxon
-    addHeatmapLayer(taxonId, taxonName = null) {
-        // Remove existing heatmap layer if it exists
+    addHeatmapLayer(taxonId, taxonName) {
         this.removeHeatmapLayer(taxonId);
 
-        // there's also:      `${CONFIG.API_URL}taxon_ranges/${taxonId}/{z}/{x}/{y}.png`, for taxon range
         const heatmapLayer = L.tileLayer(
             `${CONFIG.API_URL}heatmap/{z}/{x}/{y}.png?taxon_id=${taxonId}&verifiable=true&place_id=${CONFIG.FINLAND_PLACE_ID}`,
             {
@@ -123,23 +132,16 @@ export default class FinlandMap {
         );
 
         heatmapLayer.addTo(this.map);
-        this.heatmapLayers[taxonId] = heatmapLayer;
+        this.heatmapLayers[taxonName] = heatmapLayer;
 
         this._setMapLayerControl();
         return heatmapLayer;
     }
 
-    _updateHeatmapLayers() {
-        // If you need to dynamically update heatmap parameters based on viewport
-        // This is called on map moveend
-        const bounds = this.map.getBounds();
-        // You could update heatmap layers here if needed
-    }
-
-    removeHeatmapLayer(taxonId) {
-        if (this.heatmapLayers[taxonId]) {
-            this.map.removeLayer(this.heatmapLayers[taxonId]);
-            delete this.heatmapLayers[taxonId];
+    removeHeatmapLayer(taxonName) {
+        if (this.heatmapLayers[taxonName]) {
+            this.map.removeLayer(this.heatmapLayers[taxonName]);
+            delete this.heatmapLayers[taxonName];
             this._setMapLayerControl();
         }
     }
@@ -147,7 +149,8 @@ export default class FinlandMap {
     _setMapBounds() {
         const bounds = this.finlandBounds.getBounds();
         this.map.fitBounds(bounds);
-        this.map.setMaxBounds(bounds);
+        // to force snap back to finland map: But I'm finding this kind of user unfriendly atm
+        // this.map.setMaxBounds(bounds);
     }
 
     _createGeoJsonFeature(observation) {
@@ -231,5 +234,15 @@ export default class FinlandMap {
                 layer.bindPopup(feature.properties.popupContent);
             }
         };
+    }
+
+    _clearMapData() {
+        for (const layer in this.heatmapLayers) {
+            this.removeHeatmapLayer(layer);
+        }
+
+        for (const layer in this.overlayLayers) {
+            this.removeLayer(layer);
+        }
     }
 }

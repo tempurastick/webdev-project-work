@@ -6,6 +6,10 @@
 @import "./styles/filter-menu";
 @import "./styles/species-dropdown";
 @import "./styles/current-species";
+@import "./styles/toast-notification";
+@import "./styles/headlines";
+@import "./styles/finlandmap";
+@import "./styles/scrollbar";
 
 @plugin "@iconify/tailwind4" {
   prefix: "iconify";
@@ -26,4 +30,3 @@ body {
   height: 100%;
   overflow: clip;
 }
-

@@ -23,10 +23,8 @@
         <title>webdev-project-work</title>
     </head>
     <body>
-        <h1 class="text-3xl text-indigo-500 font-bold absolute z-900 right-2">
-            Wildlife in Finland
-        </h1>
-        <div class="btn_group">
+        <h1 class="h1">Wildlife in Finland</h1>
+        <div class="btn_group flex md:hidden">
             <button class="btn-menu btn-filter" id="btn-filter">
                 <span class="icon-[mage--filter] bg-indigo-500 icon-lg"></span>
             </button>
@@ -38,10 +36,35 @@
         </div>
 
         <div class="wrapper">
-            <div class="filter-menu menu_item hidden md:visible">
-                <h3 class="category-title text-indigo-500 font-bold text-xl">
-                    Category
-                </h3>
+            <div class="filter-menu scrollbar menu_item hidden md:block">
+                <dialog
+                    class="toast-notification__container"
+                    id="toastNotification"
+                >
+                    <div class="toast-notification">
+                        <div class="toast-notification__icon">
+                            <i
+                                class="fa-solid fa-circle-exclamation icon icon-warning"
+                            ></i>
+                            <i
+                                class="fa-solid fa-circle-check icon icon-success"
+                            ></i>
+                        </div>
+
+                        <p class="toast-notification__text"></p>
+                    </div>
+
+                    <form method="dialog">
+                        <button
+                            class="toast-notification-dismiss"
+                            id="toastDismissBtn"
+                            autofocus
+                        >
+                            <i class="fa-solid fa-xmark"></i>
+                        </button>
+                    </form>
+                </dialog>
+                <h3 class="category-title">Category</h3>
                 <div class="category-grid">
                     <div class="category-item">
                         <input
@@ -206,11 +229,7 @@
                 </div>
 
                 <div class="options-wrapper">
-                    <h3
-                        class="category-title text-indigo-500 font-bold text-xl"
-                    >
-                        Options
-                    </h3>
+                    <h3 class="category-title">Options</h3>
 
                     <label class="option-toggle-label">
                         <input
@@ -226,13 +245,8 @@
                     </label>
                 </div>
 
-                <h3 class="category-title text-indigo-500 font-bold text-xl">
-                    Species
-                </h3>
-                <h4>Selected:</h4>
-                <!--
-                style this 
-                -->
+                <h3 class="category-title">Species</h3>
+
                 <ul class="species-selected-list --common"></ul>
                 <div class="species-grid" id="speciesGrid">
                     <div class="w-full max-w-sm min-w-[100%]">
@@ -249,58 +263,32 @@
                     </div>
                 </div>
 
-                <h3 class="category-title text-indigo-500 font-bold text-xl">
-                    Season
-                </h3>
-
-                <div class="season-grid flex">
-                    <!--
-              not sure if this should be a season picker or more of a
-                slider
-       
-                    <div class="items-center me-4">
-                        <input
-                            type="radio"
-                            value=""
-                            id="season-spring"
-                            name="inline-radio-group"
-                            class="w-4 h-4 focus:ring-indigo-500 focus:ring-2"
-                        />
-                        <label
-                            for="season-spring"
-                            class="ms-2 font-bold text-indigo-500"
-                            >Spring</label
-                        >
-                    </div>
-                    <div class="items-center me-4">
-                        <input
-                            type="radio"
-                            value=""
-                            id="season-summer"
-                            name="inline-radio-group"
-                            class="w-4 h-4"
-                        />
-                        <label
-                            for="season-summer"
-                            class="ms-2 font-bold text-indigo-500"
-                            >Summer</label
-                        >
-                    </div>
-                             -->
-                </div>
-                <div class="button-group">
-                    <button class="btn btn-reset" id="btn-filter-reset">
+                <div class="btn-actions__wrapper mt-2">
+                    <button
+                        class="btn btn-outline btn-reset"
+                        id="btn-filter-reset"
+                    >
                         Reset
                     </button>
-                    <button class="btn btn-submit" id="btn-filter-submit">
+                    <button
+                        class="btn btn-outline btn-clear"
+                        id="btn-filter-clear"
+                    >
+                        Clear Map
+                    </button>
+                    <button
+                        class="btn btn-primary btn-submit"
+                        id="btn-filter-submit"
+                        disabled
+                    >
                         Submit
                     </button>
                 </div>
             </div>
-            <div class="current-species-menu menu_item hidden md:visible">
-                <h2 class="text-2xl text-indigo-500 font-bold">
-                    Current Species
-                </h2>
+            <div
+                class="current-species-menu scrollbar menu_item hidden md:block"
+            >
+                <h2 class="h2 current-species-title">Current Species</h2>
                 <div id="current-species-container"></div>
             </div>
             <div id="finlandMap"></div>
@@ -312,6 +300,8 @@
                         <img
                             src="https://placehold.co/150"
                             alt=""
+                            width="150"
+                            height="150"
                             class="current-species-img"
                         />
                     </figure>
@@ -323,20 +313,42 @@
                         >
                             Scientific Name
                         </div>
+                        <div class="current-species-wikipedia__wrapper mt-1">
+                            <a
+                                href=""
+                                class="current-species-wikipedia"
+                                target="_blank"
+                            >
+                                Wikipedia Entry<i
+                                    class="fa-solid fa-arrow-up-right-from-square pl-1"
+                                ></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
-                <p class="current-species-description">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Veniam, veritatis ipsa reprehenderit blanditiis hic eius
-                    quisquam quaerat iste, corporis asperiores, nemo amet omnis
-                    laudantium deserunt expedita aut maxime! Deleniti, ipsum.
-                </p>
+                <div class="current-species-information__wrapper">
+                    <div class="current-species-conservation">
+                        <img
+                            src="https://placehold.co/40"
+                            alt=""
+                            class="current-species-conservation-img"
+                        />
+                        <span class="current-species-conservation-label"
+                            >Conservation Status</span
+                        >
+                    </div>
+
+                    <p class="current-species-nativity__wrapper">
+                        <i class="fa-solid fa-map-location-dot"></i>
+                        <span class="current-species-nativity"></span>
+                    </p>
+                </div>
             </div>
         </template>
         <template id="speciesDropdownList">
             <div class="species-grid hidden">
                 <h4 class="species-category"></h4>
-                <ul class="species-dropdown --common">
+                <ul class="species-dropdown --common scrollbar">
                     <li class="species-dropdown-item">
                         <label
                             for=""
