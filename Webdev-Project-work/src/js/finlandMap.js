@@ -31,7 +31,9 @@ export default class FinlandMap {
 
     async initializeMap() {
         this._addBaseMap();
-        this._addSatelliteMap();
+        if (import.meta.env.DEV) {
+            this._addSatelliteMap();
+        }
 
         try {
             const boundariesData = await this.dataHandler.finlandBoundaries;
