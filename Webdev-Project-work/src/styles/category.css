@@ -1,9 +1,5 @@
-.category-item {
-
-}
-
 .category-item__inner {
-    @apply w-22 h-16 md:w-24 md:h-24 border-2 gap-1 rounded-sm border-indigo-200 flex flex-col flex-wrap content-center justify-center peer-checked:border-indigo-500 peer-checked:bg-indigo-100;
+    @apply w-22 h-16 md:w-24 md:h-24 border-2 gap-1 rounded-sm border-indigo-200 flex flex-col flex-wrap content-center justify-center peer-checked:border-indigo-500 peer-checked:bg-indigo-100  transition duration-200 hover:inset-shadow-sm  inset-shadow-indigo-200/50;
 }
 
 .category-grid {

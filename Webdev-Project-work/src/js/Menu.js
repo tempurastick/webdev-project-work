@@ -8,10 +8,10 @@ export default class Menu {
             ".current-species-menu"
         );
 
-        this.registerEventListeners();
+        this._registerEventListeners();
     }
 
-    registerEventListeners() {
+    _registerEventListeners() {
         this.filterBtn.addEventListener("click", (event) => {
             event.stopPropagation();
             this._openFilterMenu();

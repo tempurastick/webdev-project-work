@@ -28,6 +28,22 @@ export const SPECIES_GLOSSARY = [
         type: "Amphibians",
         file: "/data/amphibians.json",
     },
+    {
+        type: "Insects",
+        file: "/data/insects.json",
+    },
+    {
+        type: "Mollusks",
+        file: "/data/mollusks.json",
+    },
+    {
+        type: "Reptiles",
+        file: "/data/reptiles.json",
+    },
+    {
+        type: "Arachnids",
+        file: "/data/arachnids.json",
+    },
 ];
 
 export const EVENTS = {

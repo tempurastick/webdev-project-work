@@ -3,9 +3,9 @@ import { CONFIG, SPECIES_GLOSSARY, EVENTS } from "./constants.js";
 import { icons } from "./assets.js";
 
 export default class DomRenderer {
-    constructor(dataHandler, finlandMap) {
+    constructor(dataHandler) {
         this.dataHandler = dataHandler;
-        this.finlandMap = finlandMap;
+
         this.speciesGrid = document.querySelector("#speciesGrid");
 
         this.speciesSelectedListElement = document.querySelector(
@@ -48,6 +48,7 @@ export default class DomRenderer {
 
         document.addEventListener(EVENTS.CLEAR_DATA, async (event) => {
             this._clearCurrentCards();
+            this._renderToastSuccess("Map cleared successfully.");
         });
 
         document.addEventListener(EVENTS.ERROR, async (event) => {
@@ -169,9 +170,8 @@ export default class DomRenderer {
         return dropdownFragment;
     }
 
+    // TODO: split into sub functions later
     renderCurrentSpeciesCard(taxon) {
-        console.log("taxon card:", taxon);
-
         const template = document.getElementById("currentSpeciesCard");
         const speciesCardFragment = template.content.cloneNode(true);
         const img = speciesCardFragment.querySelector(".current-species-img");
@@ -208,7 +208,6 @@ export default class DomRenderer {
             ),
         });
 
-        // missing desc in current fetch
         this.currentSpeciesContainer.appendChild(speciesCardFragment);
         // maybe should have an info about how many sightings there were etc too
     }
@@ -240,17 +239,17 @@ export default class DomRenderer {
         this.currentSpeciesContainer.textContent = "";
     }
 
+    // toast could probably be its own class in the future
     _renderToastWarning(warning) {
+        this._clearToastNotification();
         this.toastNotificationEl.classList.add("--warning");
-
         this.toastText.textContent = warning;
-
         this.toastNotificationEl.show();
     }
 
     _renderToastSuccess(message) {
+        this._clearToastNotification();
         this.toastNotificationEl.classList.add("--success");
-
         this.toastText.textContent = message;
         this.toastNotificationEl.show();
     }
@@ -259,7 +258,6 @@ export default class DomRenderer {
         this.toastNotificationEl.classList.remove("--warning");
         this.toastNotificationEl.classList.remove("--error");
         this.toastNotificationEl.classList.remove("--success");
-
         this.toastText.textContent = "";
     }
 }

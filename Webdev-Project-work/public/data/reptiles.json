@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Vernacular name": "Smooth snake",
+    "Scientific name": "Coronella austriaca",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "VU (2019)",
+    "Regulatory Status": "Species requiring strict protection within the European Union (NVF 2023/1066, Appendix 7); EU Habitats Directive Annex IV",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Grass Snake",
+    "Scientific name": "Natrix natrix",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Adder",
+    "Scientific name": "Vipera berus",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Slow worm",
+    "Scientific name": "Anguis colchica",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Sand lizard",
+    "Scientific name": "Lacerta agilis",
+    "Status in Finland": "Anthropogenic; Regular vagrant",
+    "Red List category in Finland": "NA (2019)",
+    "Regulatory Status": "Government Decree on Invasive Alien Species of National Concern (1725/2015); Government Decree on Managing the Risk Caused by Alien Species (704/2019, VN 912/2023)",
+    "Synonyms": ""
+  },
+  {
+    "Vernacular name": "Common lizard",
+    "Scientific name": "Zootoca vivipara",
+    "Status in Finland": "Stable population",
+    "Red List category in Finland": "LC (2019)",
+    "Regulatory Status": "",
+    "Synonyms": "Lacerta vivipara"
+  }
+]

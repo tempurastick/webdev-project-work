@@ -31,12 +31,13 @@
 }
 
 .species-dropdown-item__label {
-    @apply px-2 py-1 pr-12 inline-block w-full hover:bg-indigo-100 text-indigo-500 has-checked:bg-indigo-50;
+    @apply px-2 py-1 pr-12 inline-block w-full hover:bg-indigo-100 text-indigo-500 has-checked:bg-indigo-50 transition duration-200;
 }
 
 .species-dropdown-item__checkbox {
     display: none;
 }
+
 /* 
 conditional styling for what name to display 
 */

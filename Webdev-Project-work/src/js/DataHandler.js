@@ -11,18 +11,7 @@ export default class DataHandler {
             "/data/Finland_ADM0_simplified.simplified.geojson";
         this.#iNatApi = "https://api.inaturalist.org/v1/";
         this.#storage = new StorageHandler();
-
-        // simple debouncer to throttle requests
-        this.debouncer = debounce(this.fetchData.bind(this), 1000);
-        // document.addEventListener("speciesSubmitted", (event) => {
-        //     console.log(event);
-        // });
-
         this._registerEventListeners();
-    }
-
-    async fetchDataThrottle(source) {
-        return this.debouncer(source);
     }
 
     async fetchData(source) {
@@ -32,7 +21,7 @@ export default class DataHandler {
             );
             return await data;
         } catch (error) {
-            console.error(error);
+            this._createErrorEvent(error);
         }
     }
 
@@ -50,14 +39,11 @@ export default class DataHandler {
     }
 
     async _fetchSpeciesBatch(speciesList) {
-        console.log("Fetching species batch:", speciesList);
-
         const promises = speciesList.map(async (selection) => {
             const taxon = replaceWhitespace(selection);
             const cached = await this.#storage.getSpeciesData(taxon);
 
             if (cached) {
-                console.log(`Using cached data for ${taxon}`);
                 this._sendObservationData(cached.results);
                 return cached;
             }
@@ -81,22 +67,6 @@ export default class DataHandler {
         });
 
         return Promise.all(promises);
-
-        // const promises = speciesList.map(async (selection) => {
-        //     const selectionQuery = this.buildObservationQuery(selection);
-        //     console.log("Query:", selectionQuery);
-
-        //     const selectionData = await this.fetchData(selectionQuery);
-        //     if (selectionData?.results?.length) {
-        //         this._sendObservationData(selectionData.results);
-        //     } else {
-        //         console.warn(`No results for ${selection}`);
-        //     }
-
-        //     return selectionData;
-        // });
-
-        // const results = await Promise.all(promises);
     }
 
     _createErrorEvent(errorMessage) {

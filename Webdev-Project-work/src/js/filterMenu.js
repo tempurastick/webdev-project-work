@@ -1,9 +1,7 @@
 import { debounce } from "./helpers";
 import { EVENTS } from "./constants";
 export default class FilterMenu {
-    constructor(dataHandler, finlandMap) {
-        this.dataHandler = dataHandler;
-        this.finlandMap = finlandMap;
+    constructor() {
         this.submitBtn = document.querySelector("#btn-filter-submit");
         this.resetBtn = document.querySelector("#btn-filter-reset");
         this.clearBtn = document.querySelector("#btn-filter-clear");
@@ -18,7 +16,6 @@ export default class FilterMenu {
     }
 
     _init() {
-        console.log("current selection", this.currentCategories);
         this._registerEventListeners();
     }
 
@@ -116,29 +113,11 @@ export default class FilterMenu {
 
         if (currentSelections.length == 0) {
             return console.warn("No selection");
-            // do other stuff here, or maybe submit should just be disabled until currentSelection is filled
+            // for now just leaving the submit button disabled
         } else {
-            // clean this up, but use event emitters instead of constructor args
-
             this._createSubmitEvent(currentSelections);
             this._resetSelection();
-
-            // currentSelections.forEach(async (selection) => {
-            //     const selectionQuery =
-            //         this.dataHandler.buildObservationQuery(selection);
-            //     let selectionData = await this.dataHandler.fetchDataThrottle(
-            //         selectionQuery
-            //     );
-            //     selectionData = selectionData.results;
-
-            //     selectionData.forEach((result) => {
-            //         this.finlandMap.addObservationLayer(result);
-            //     });
-            // });
         }
-        // missing current card
-
-        // close filter menu on mobile
     }
 
     _copySelectionList() {

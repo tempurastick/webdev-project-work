@@ -1,0 +1,5338 @@
+﻿[
+    {
+        "Vernacular name": "niittysopikki",
+        "Scientific name": "Agelena labyrinthica",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "varastosopikki",
+        "Scientific name": "Eratigena atrica",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Tegenaria atrica (C. L. Koch, 1843); Tegenaria gigantea"
+    },
+    {
+        "Vernacular name": "jättisopikki",
+        "Scientific name": "Eratigena duellica",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": "Tegenaria duellica"
+    },
+    {
+        "Vernacular name": "huonesopikki",
+        "Scientific name": "Tegenaria domestica",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "seinäsopikki",
+        "Scientific name": "Tegenaria parietina",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ikkunapimikki",
+        "Scientific name": "Amaurobius fenestralis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isopimikki",
+        "Scientific name": "Amaurobius ferox",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjanpimikki",
+        "Scientific name": "Arctobius agelenoides",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rummukki",
+        "Scientific name": "Anyphaena accentuata",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rämetammikki",
+        "Scientific name": "Aculepeira ceropegia",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lapintammikki",
+        "Scientific name": "Aculepeira lapponica",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pörrökki",
+        "Scientific name": "Agalenatea redii",
+        "Status in Finland": "Not established",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "punaristikki",
+        "Scientific name": "Araneus alsine",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kyhmyristikki",
+        "Scientific name": "Araneus angulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Connectivity of forest conservation areas – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "aitoristikki",
+        "Scientific name": "Araneus diadematus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "marmoristikki",
+        "Scientific name": "Araneus marmoreus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "taigaristikki",
+        "Scientific name": "Araneus nordmanni",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suoristikki",
+        "Scientific name": "Araneus quadratus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isoristikki",
+        "Scientific name": "Araneus saevus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "siroristikki",
+        "Scientific name": "Araneus sturmi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havukurkukki",
+        "Scientific name": "Araniella alpica",
+        "Status in Finland": "",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pilkkukurkukki",
+        "Scientific name": "Araniella cucurbitina",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kirjokurkukki",
+        "Scientific name": "Araniella displicata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "etelänkurkukki",
+        "Scientific name": "Araniella opisthographa",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjankurkukki",
+        "Scientific name": "Araniella proxima",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "keltavyöampikki",
+        "Scientific name": "Argiope bruennichi",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "parrakki",
+        "Scientific name": "Cercidia prominens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäkeilakki",
+        "Scientific name": "Cyclosa conica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pensaskyhmykki",
+        "Scientific name": "Gibbaranea bituberculata",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viherkyhmykki",
+        "Scientific name": "Gibbaranea gibbosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kuusikyhmykki",
+        "Scientific name": "Gibbaranea omoeda",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "valkopaidakki",
+        "Scientific name": "Hypsosinga albovittata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suopaidakki",
+        "Scientific name": "Hypsosinga heri",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkupaidakki",
+        "Scientific name": "Hypsosinga pygmaea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "punapaidakki",
+        "Scientific name": "Hypsosinga sanguinea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruokokiilakki",
+        "Scientific name": "Larinioides cornutus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "puistokiilakki",
+        "Scientific name": "Larinioides ixobolus",
+        "Status in Finland": "",
+        "Red List category in Finland": "RE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kaunokiilakki",
+        "Scientific name": "Larinioides patagiatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "siltakiilakki",
+        "Scientific name": "Larinioides sclopetarius",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rukinlavakki",
+        "Scientific name": "Mangora acalypha",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "soikkosanikki",
+        "Scientific name": "Neoscona adianta",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rämekaarnakki",
+        "Scientific name": "Nuctenea silvicultrix",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "varjokaarnakki",
+        "Scientific name": "Nuctenea umbratica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "poikkiraidakki",
+        "Scientific name": "Singa hamata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kiiltoraidakki",
+        "Scientific name": "Singa nitidula",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "seinäkaistakki",
+        "Scientific name": "Leviellus stroemi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Stroemiellus stroemi"
+    },
+    {
+        "Vernacular name": "hopeakaistakki",
+        "Scientific name": "Zygiella atrica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nauhapihdikki",
+        "Scientific name": "Cheiracanthium erraticum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mutkapihdikki",
+        "Scientific name": "Cheiracanthium oncognathum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "piikkipihdikki",
+        "Scientific name": "Cheiracanthium punctorium",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viherpihdikki",
+        "Scientific name": "Cheiracanthium virescens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kiiltopussikki",
+        "Scientific name": "Clubiona caerulescens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kirjopussikki",
+        "Scientific name": "Clubiona comta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "vaaleapussikki",
+        "Scientific name": "Clubiona diversa",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lehtipussikki",
+        "Scientific name": "Clubiona frutetorum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pensaspussikki",
+        "Scientific name": "Clubiona germanica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "dyynipussikki",
+        "Scientific name": "Clubiona juvenis",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjanpussikki",
+        "Scientific name": "Clubiona kulczynskii",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "keltapussikki",
+        "Scientific name": "Clubiona lutescens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruohopussikki",
+        "Scientific name": "Clubiona neglecta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkapussikki",
+        "Scientific name": "Clubiona norvegica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "puupussikki",
+        "Scientific name": "Clubiona pallidula",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruokopussikki",
+        "Scientific name": "Clubiona phragmitis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittypussikki",
+        "Scientific name": "Clubiona reclusa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "etelänpussikki",
+        "Scientific name": "Clubiona similis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suopussikki",
+        "Scientific name": "Clubiona stagnatilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havupussikki",
+        "Scientific name": "Clubiona subsultans",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkupussikki",
+        "Scientific name": "Clubiona subtilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammalpussikki",
+        "Scientific name": "Clubiona trivialis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäpiilokki",
+        "Scientific name": "Cryphoeca silvicola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tundravarvukki",
+        "Scientific name": "Archaeodictyna consecuta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lapinvarvukki",
+        "Scientific name": "Arctella lapponica",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantavarvukki",
+        "Scientific name": "Argenna patula",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rannikkovarvukki",
+        "Scientific name": "Argenna subnigra",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mustavarvukki",
+        "Scientific name": "Brigittea latens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Dictyna latens"
+    },
+    {
+        "Vernacular name": "rinnevarvukki",
+        "Scientific name": "Brommella falcigera",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kannusvarvukki",
+        "Scientific name": "Dictyna alaskae",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kanervavarvukki",
+        "Scientific name": "Dictyna arundinacea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietavarvukki",
+        "Scientific name": "Dictyna major",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "taigavarvukki",
+        "Scientific name": "Dictyna palmgreni",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkuvarvukki",
+        "Scientific name": "Dictyna pusilla",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pensasvarvukki",
+        "Scientific name": "Dictyna uncinata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitavarvukki",
+        "Scientific name": "Emblyna mitis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kosteikkovarvukki",
+        "Scientific name": "Emblyna brevidens",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturivarvukki",
+        "Scientific name": "Hackmania prominula",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mantuvarvikki",
+        "Scientific name": "Lathys heterophthalma",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Lathys nielseni; Lathys humilis"
+    },
+    {
+        "Vernacular name": "vesikki",
+        "Scientific name": "Argyroneta aquatica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietaharjakki",
+        "Scientific name": "Berlandina cinerea",
+        "Status in Finland": "",
+        "Red List category in Finland": "EN (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Species to be protected urgently (Finnish Environment Institute 2020); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muurahaiskivikki",
+        "Scientific name": "Callilepis nocturna",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kuparihiirikki",
+        "Scientific name": "Drassodes cupreus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "samettihiirikki",
+        "Scientific name": "Drassodes pubescens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mäntyhiirikki",
+        "Scientific name": "Drassodes villosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtaviuhukki",
+        "Scientific name": "Drassyllus lutetianus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ketoviuhukki",
+        "Scientific name": "Drassyllus praeficus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paahdeviuhukki",
+        "Scientific name": "Drassyllus pumilus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietaviuhukki",
+        "Scientific name": "Drassyllus pusillus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "punaharjakki",
+        "Scientific name": "Gnaphosa bicolor",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suoharjakki",
+        "Scientific name": "Gnaphosa lapponum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummiharjakki",
+        "Scientific name": "Gnaphosa leporina",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tihruharjakki",
+        "Scientific name": "Gnaphosa microps",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havuharjakki",
+        "Scientific name": "Gnaphosa montana",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paahdeharjakki",
+        "Scientific name": "Gnaphosa muscorum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtaharjakki",
+        "Scientific name": "Gnaphosa nigerrima",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tundraharjakki",
+        "Scientific name": "Gnaphosa orites",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturiharjakki",
+        "Scientific name": "Gnaphosa sticta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kaarnamyyräkki",
+        "Scientific name": "Haplodrassus cognatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suomyyräkki",
+        "Scientific name": "Haplodrassus moderatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangasmyyräkki",
+        "Scientific name": "Haplodrassus signifer",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lehtomyyräkki",
+        "Scientific name": "Haplodrassus silvestris",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsämyyräkki",
+        "Scientific name": "Haplodrassus soerenseni",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietamyyräkki",
+        "Scientific name": "Haplodrassus umbratilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pronssikiillokki",
+        "Scientific name": "Micaria aenea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturikiillokki",
+        "Scientific name": "Micaria alpina",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muurahaiskiillokki",
+        "Scientific name": "Micaria formicaria",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rinnekiillokki",
+        "Scientific name": "Micaria fulgens",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "dyynikiillokki",
+        "Scientific name": "Micaria lenzi",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kirjokiillokki",
+        "Scientific name": "Micaria nivosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "",
+        "Scientific name": "Micaria palmgreni",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metallikiillokki",
+        "Scientific name": "Micaria pulicaria",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietakiillokki",
+        "Scientific name": "Micaria silesiaca",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "runkokiillokki",
+        "Scientific name": "Micaria subopaca",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Arboricaria subopaca (Westring, 1861)"
+    },
+    {
+        "Vernacular name": "lapinkiillokki",
+        "Scientific name": "Micaria tripunctata",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "täpläkivikki",
+        "Scientific name": "Phaeocedus braccatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kirjokivikki",
+        "Scientific name": "Poecilochroa variana",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kotikivikki",
+        "Scientific name": "Scotophaeus quadripunctatus",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hiivikki",
+        "Scientific name": "Sosticus loricatus",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "varpuviuhukki",
+        "Scientific name": "Zelotes clivicola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "punaviuhukki",
+        "Scientific name": "Zelotes electus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalkkiviuhukki",
+        "Scientific name": "Zelotes exiguus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittyviuhukki",
+        "Scientific name": "Zelotes latreillei",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummiviuhukki",
+        "Scientific name": "Zelotes longipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kiviviuhukki",
+        "Scientific name": "Zelotes petrensis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "maaviuhukki",
+        "Scientific name": "Zelotes subterraneus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtamannukki",
+        "Scientific name": "Antistea elegans",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalvaskonnukki",
+        "Scientific name": "Cicurina cicur",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummimannukki",
+        "Scientific name": "Hahnia nava",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangasmannukki",
+        "Scientific name": "Hahnia ononidum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkumannukki",
+        "Scientific name": "Hahnia pusilla",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muurahaispesäkki",
+        "Scientific name": "Mastigusa arietina",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "salominikki",
+        "Scientific name": "Abacoproeces saltuum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "louhipoimukki",
+        "Scientific name": "Abiskoa abiskoensis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muurahaishassukki",
+        "Scientific name": "Acartauchenius scurrilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "oksapoimukki",
+        "Scientific name": "Agnyphantes expunctus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruohohuivikki",
+        "Scientific name": "Agyneta affinis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "aapahuivikki",
+        "Scientific name": "Agyneta breviceps",
+        "Status in Finland": "",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rämehuivikki",
+        "Scientific name": "Agyneta cauta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "satulahuivikki",
+        "Scientific name": "Agyneta conigera",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "koruhuivikki",
+        "Scientific name": "Agyneta decora",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "aukiohuivikki",
+        "Scientific name": "Agyneta gulosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kaarnahuivikki",
+        "Scientific name": "Agyneta innotabilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittyhuivikki",
+        "Scientific name": "Agyneta mollis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkahuivikki",
+        "Scientific name": "Agyneta mossica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturihuivikki",
+        "Scientific name": "Agyneta nigripes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "oliivihuivikki",
+        "Scientific name": "Agyneta olivacea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "korpihuivikki",
+        "Scientific name": "Agyneta ramosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kylähuivikki",
+        "Scientific name": "Agyneta rurestris",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ahohuivikki",
+        "Scientific name": "Agyneta saxatilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tundrahuivikki",
+        "Scientific name": "Agyneta similis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsähuivikki",
+        "Scientific name": "Agyneta subtilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjanhuivikki",
+        "Scientific name": "Agyneta suecica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "atrainhuivikki",
+        "Scientific name": "Agyneta trifurcata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "",
+        "Scientific name": "Agyneta aquila",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sutiallikki",
+        "Scientific name": "Allomengea scopigera",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pensseliallikki",
+        "Scientific name": "Allomengea vidua",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kulmapoimukki",
+        "Scientific name": "Anguliphantes angulipalpis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkakurjakki",
+        "Scientific name": "Aphileta misera",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "leveämyyrikki",
+        "Scientific name": "Araeoncus crassiceps",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pyörömyyrikki",
+        "Scientific name": "Araeoncus humilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalvaskoukukki",
+        "Scientific name": "Asthenargus paganus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rimpiryhmykki",
+        "Scientific name": "Baryphyma gowerense",
+        "Status in Finland": "",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mallanryhmykki",
+        "Scientific name": "Baryphyma insigne",
+        "Status in Finland": "",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturiryhmykki",
+        "Scientific name": "Baryphyma trifrons",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtaviirukki",
+        "Scientific name": "Bathyphantes approximatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lapinviirukki",
+        "Scientific name": "Bathyphantes eumenis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jokaviirukki",
+        "Scientific name": "Bathyphantes gracilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viitaviirukki",
+        "Scientific name": "Bathyphantes nigrinus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kosteikkoviirukki",
+        "Scientific name": "Bathyphantes parvulus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kätköviirukki",
+        "Scientific name": "Bathyphantes reprobus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantaviirukki",
+        "Scientific name": "Bathyphantes setiger",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lumipoimukki",
+        "Scientific name": "Bolephthyphantes index",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Bolyphantes index; Bolepthyphantes index"
+    },
+    {
+        "Vernacular name": "kartiopoimukki",
+        "Scientific name": "Bolyphantes alticeps",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kilpispoimukki",
+        "Scientific name": "Bolyphantes kilpisjaerviensis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "taigapoimukki",
+        "Scientific name": "Bolyphantes luteolus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturipoimukki",
+        "Scientific name": "Bolyphantes punctulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "vedenneidokki",
+        "Scientific name": "Carorita limnaea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isohapsukki",
+        "Scientific name": "Centromerita bicolor",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkuhapsukki",
+        "Scientific name": "Centromerita concinna",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammalsentrikki",
+        "Scientific name": "Centromerus arcanus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mustikkasentrikki",
+        "Scientific name": "Centromerus brevipalpus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Centromerus brevivulvatus; Centromerus aequalis"
+    },
+    {
+        "Vernacular name": "onkalosentrikki",
+        "Scientific name": "Centromerus cavernarum",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ketosentrikki",
+        "Scientific name": "Centromerus incilium",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nevasentrikki",
+        "Scientific name": "Centromerus levitarsis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalvassentrikki",
+        "Scientific name": "Centromerus persimilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hetesentrikki",
+        "Scientific name": "Centromerus semiater",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kenttäsentrikki",
+        "Scientific name": "Centromerus sylvaticus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lettorusokki",
+        "Scientific name": "Ceraticelus bulbosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Aapamire species – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "säärikilvikki",
+        "Scientific name": "Ceratinella brevipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töpökilvikki",
+        "Scientific name": "Ceratinella brevis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "karheakilvikki",
+        "Scientific name": "Ceratinella scabrosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjankilvikki",
+        "Scientific name": "Ceratinella wideri",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tummasahakki",
+        "Scientific name": "Cnephalocotes obscurus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rakkanoidakki",
+        "Scientific name": "Collinsia holmgreni",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ansapoimukki",
+        "Scientific name": "Decipiphantes decipiens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mustapyörökki",
+        "Scientific name": "Dicymbium nigrum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sääripyörökki",
+        "Scientific name": "Dicymbium tibiale",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paritöpökki",
+        "Scientific name": "Diplocentria bidentata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kolmitöpökki",
+        "Scientific name": "Diplocentria rectangulata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töyhtötuplakki",
+        "Scientific name": "Diplocephalus cristatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "leveätuplakki",
+        "Scientific name": "Diplocephalus latifrons",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "karvatuplakki",
+        "Scientific name": "Diplocephalus permixtus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mustatuplakki",
+        "Scientific name": "Diplocephalus picinus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sauvaviirukki",
+        "Scientific name": "Diplostyla concolor",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tuplamaljakki",
+        "Scientific name": "Dismodicus bifrons",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tornimaljakki",
+        "Scientific name": "Dismodicus elevatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalvasruovikki",
+        "Scientific name": "Donacochara speciosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kaarnakätkökki",
+        "Scientific name": "Drapetisca socialis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjansirpikki",
+        "Scientific name": "Drepanotylus borealis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suosirpikki",
+        "Scientific name": "Drepanotylus uncatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suippokourakki",
+        "Scientific name": "Entelecara acuminata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pallopääkourakki",
+        "Scientific name": "Entelecara congenera",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammalkourakki",
+        "Scientific name": "Entelecara errata",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lattapääkourakki",
+        "Scientific name": "Entelecara erythropus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "keltajalkakourakki",
+        "Scientific name": "Entelecara flavipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantaliidokki",
+        "Scientific name": "Erigone arctica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mustaliidokki",
+        "Scientific name": "Erigone atra",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hammasliidokki",
+        "Scientific name": "Erigone dentigera",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "toraliidokki",
+        "Scientific name": "Erigone dentipalpis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "palppiliidokki",
+        "Scientific name": "Erigone longipalpis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tirolinliidokki",
+        "Scientific name": "Erigone tirolensis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "irlanninliidokki",
+        "Scientific name": "Erigone welchi",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittyleijukki",
+        "Scientific name": "Erigonella hiemalis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtaleijukki",
+        "Scientific name": "Erigonella ignobilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkavähäkki",
+        "Scientific name": "Erigonoplus foveatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": "Mecynargus foveatus (Dahl, 1912)"
+    },
+    {
+        "Vernacular name": "lapinriipukki",
+        "Scientific name": "Estrandia grandaeva",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muurahaispummikki",
+        "Scientific name": "Evansia merens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "siimapoimukki",
+        "Scientific name": "Flagelliphantes bergstromi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kameleonttipoimukki",
+        "Scientific name": "Floronia bucculenta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "minikääpiökki",
+        "Scientific name": "Glyphesis cottonae",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jäkälähampikki",
+        "Scientific name": "Gnathonarium dentatum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tummapunakki",
+        "Scientific name": "Gonatium paradoxum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pallopunakki",
+        "Scientific name": "Gonatium rubellum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "okapunakki",
+        "Scientific name": "Gonatium rubens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pitkäsormikki",
+        "Scientific name": "Gongylidiellum latebricola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paksusormikki",
+        "Scientific name": "Gongylidiellum murcidum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rusokoivikki",
+        "Scientific name": "Gongylidium rufipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "oranssiaisakki",
+        "Scientific name": "Helophora insignis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kyssäköyrykki",
+        "Scientific name": "Hilaira herniosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pahkaköyrykki",
+        "Scientific name": "Hilaira nubigena",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kulmaköyrykki",
+        "Scientific name": "Hilaira pervicax",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturiripsikki",
+        "Scientific name": "Horcotes strandi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kärsäkaviokki",
+        "Scientific name": "Hybauchenidium ferrumequinum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruohoruuvikki",
+        "Scientific name": "Hylyphantes graminicola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kyhmypatikki",
+        "Scientific name": "Hypomma bituberculatum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sarvipatikki",
+        "Scientific name": "Hypomma cornutum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruokopatikki",
+        "Scientific name": "Hypomma fulvum",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "syyläketukki",
+        "Scientific name": "Hypselistes jacksoni",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "vuoripoimukki",
+        "Scientific name": "Improphantes complicatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "seeprapoimukki",
+        "Scientific name": "Improphantes decolor",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittypoimukki",
+        "Scientific name": "Improphantes holmi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ristipoimukki",
+        "Scientific name": "Incestophantes crucifer",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tikaspoimukki",
+        "Scientific name": "Incestophantes kochiellus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pilkkudyynikki",
+        "Scientific name": "Ipa keyserlingi",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": "Lepthyphantes keyserlingi (Ausserer, 1867)"
+    },
+    {
+        "Vernacular name": "hammasmillikki",
+        "Scientific name": "Jacksonella falconeri",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lyhytkielikki",
+        "Scientific name": "Kaestneria dorsalis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pitkäkielikki",
+        "Scientific name": "Kaestneria pullata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "palsakki",
+        "Scientific name": "Kikimora palustris",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "varjolaikukki",
+        "Scientific name": "Labulla thoracica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "karvaturkikki",
+        "Scientific name": "Lasiargus hirsutus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "huonepoimukki",
+        "Scientific name": "Lepthyphantes leprosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "runkopoimukki",
+        "Scientific name": "Lepthyphantes minutus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pistokki",
+        "Scientific name": "Leptorhoptrum robustum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tupeekki",
+        "Scientific name": "Leptothrix hardyi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "puistoriipukki",
+        "Scientific name": "Linyphia hortensis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikaririipukki",
+        "Scientific name": "Linyphia tenuipalpis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kolmioriipukki",
+        "Scientific name": "Linyphia triangularis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kuopakki",
+        "Scientific name": "Lophomma punctatum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "taigakuntakki",
+        "Scientific name": "Macrargus boreus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mäntykuntakki",
+        "Scientific name": "Macrargus carpenteri",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjankuntakki",
+        "Scientific name": "Macrargus multesimus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäkuntakki",
+        "Scientific name": "Macrargus rufus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsämurukki",
+        "Scientific name": "Maro lehtineni",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "korpimurukki",
+        "Scientific name": "Maro lepidus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rämemurukki",
+        "Scientific name": "Maro minutus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammalmurukki",
+        "Scientific name": "Maro sublestus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "okaminikki",
+        "Scientific name": "Maso sundevalli",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tundravähäkki",
+        "Scientific name": "Mecynargus borealis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "palsavähäkki",
+        "Scientific name": "Mecynargus monticola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "alppivähäkki",
+        "Scientific name": "Mecynargus morulus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paljakkavähäkki",
+        "Scientific name": "Mecynargus paetulus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suovähäkki",
+        "Scientific name": "Mecynargus sphagnicola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "täpläpoimukki",
+        "Scientific name": "Megalepthyphantes nebulosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isopoimukki",
+        "Scientific name": "Megalepthyphantes pseudocollinus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jäkäläkeijukki",
+        "Scientific name": "Metapanamomops kaestneri",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietanorpakki",
+        "Scientific name": "Metopobactrus prominulus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suippokeijukki",
+        "Scientific name": "Micrargus apertus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tylppäkeijukki",
+        "Scientific name": "Micrargus herbigradus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittykeijukki",
+        "Scientific name": "Micrargus subaequalis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lampiriipukki",
+        "Scientific name": "Microlinyphia impigra",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "piiskariipukki",
+        "Scientific name": "Microlinyphia pusilla",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kariketupsukki",
+        "Scientific name": "Microneta viaria",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "myssyminikki",
+        "Scientific name": "Minicia marginella",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkunaamakki",
+        "Scientific name": "Minyriolus pusillus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalkkisirokki",
+        "Scientific name": "Mioxena blanda",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "runkosudikki",
+        "Scientific name": "Moebelia penicillata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sarvipoimukki",
+        "Scientific name": "Mughiphantes cornutus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruostepoimukki",
+        "Scientific name": "Mughiphantes suffusus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "haltinpoimukki",
+        "Scientific name": "Mughiphantes whymperi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Lepthyphantes whymbergi"
+    },
+    {
+        "Vernacular name": "poimuriipukki",
+        "Scientific name": "Neriene clathrata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "korosteriipukki",
+        "Scientific name": "Neriene emphana",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isoriipukki",
+        "Scientific name": "Neriene montana",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kilpiriipukki",
+        "Scientific name": "Neriene peltata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitariipukki",
+        "Scientific name": "Neriene radiata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkarepukki",
+        "Scientific name": "Notioscopus sarcinatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nenäkki",
+        "Scientific name": "Nusoncus nasutus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Troxochrus nasutus"
+    },
+    {
+        "Vernacular name": "tikaripoimukki",
+        "Scientific name": "Obscuriphantes obscurus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantakytrykki",
+        "Scientific name": "Oedothorax agrestis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "syyläkytrykki",
+        "Scientific name": "Oedothorax apicatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruskokytrykki",
+        "Scientific name": "Oedothorax fuscus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kamelikytrykki",
+        "Scientific name": "Oedothorax gibbosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "haurukytrykki",
+        "Scientific name": "Oedothorax retusus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suomenvuorikki",
+        "Scientific name": "Oreoneta fennica",
+        "Status in Finland": "",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturivuorikki",
+        "Scientific name": "Oreoneta punctata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jäävuorikki",
+        "Scientific name": "Oreoneta sinuosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tuppilängikki",
+        "Scientific name": "Oreonetides vaginatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammalpoimukki",
+        "Scientific name": "Oryphantes angulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mustapepukki",
+        "Scientific name": "Ostearius melanopygius",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "risupoimukki",
+        "Scientific name": "Palliduphantes antroniensis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kanervapoimukki",
+        "Scientific name": "Palliduphantes ericaeus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sirppipoimukki",
+        "Scientific name": "Palliduphantes insignis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalvaspoimukki",
+        "Scientific name": "Palliduphantes pallidus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "korvahäräkki",
+        "Scientific name": "Panamomops mengei",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "notkokummukki",
+        "Scientific name": "Pelecopsis elongata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pystykummukki",
+        "Scientific name": "Pelecopsis mengei",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "matalakummukki",
+        "Scientific name": "Pelecopsis parallela",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangastelkäkki",
+        "Scientific name": "Peponocranium ludicrum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "karjalantelkäkki",
+        "Scientific name": "Peponocranium praeceps",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havuriipukki",
+        "Scientific name": "Pityohyphantes phrygianus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummisiimakki",
+        "Scientific name": "Pocadicnemis pumila",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kirjopoimukki",
+        "Scientific name": "Poeciloneta variegata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "piilohiisikki",
+        "Scientific name": "Porrhomma campbelli",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "maahiisikki",
+        "Scientific name": "Porrhomma convexum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "",
+        "Scientific name": "Porrhomma egeria",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "peltohiisikki",
+        "Scientific name": "Porrhomma microphthalmum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittyhiisikki",
+        "Scientific name": "Porrhomma montanum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tulvahiisikki",
+        "Scientific name": "Porrhomma oblitum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangashiisikki",
+        "Scientific name": "Porrhomma pallidum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtahiisikki",
+        "Scientific name": "Porrhomma pygmaeum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kärsäryhmykki",
+        "Scientific name": "Praestigia pini",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Baryphyma pini"
+    },
+    {
+        "Vernacular name": "kilpihertakki",
+        "Scientific name": "Saaristoa abnormis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lettominikki",
+        "Scientific name": "Satilatlas britteni",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Species under strict protection (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471); OUTDATED Species under strict protection (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töyhtökuonokki",
+        "Scientific name": "Savignia frontata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pahtakuonokki",
+        "Scientific name": "Savignia producta",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "skandikki",
+        "Scientific name": "Scandichrestus tenuis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturikuhmukki",
+        "Scientific name": "Scotinotylus alpigena",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kenttäkuhmukki",
+        "Scientific name": "Scotinotylus evansi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturisaamikki",
+        "Scientific name": "Semljicola alticola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantasaamikki",
+        "Scientific name": "Semljicola angulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "partasaamikki",
+        "Scientific name": "Semljicola barbiger",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkasaamikki",
+        "Scientific name": "Semljicola faustus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Latithorax faustus (O.Pickard-Cambridge, 1900)"
+    },
+    {
+        "Vernacular name": "lapinsaamikki",
+        "Scientific name": "Semljicola lapponicus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "korpisaamikki",
+        "Scientific name": "Semljicola latus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Latithorax latus (Holm, 1939)"
+    },
+    {
+        "Vernacular name": "sironilvikki",
+        "Scientific name": "Silometopus ambiguus",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "koukkunilvikki",
+        "Scientific name": "Silometopus elegans",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "saaristonilvikki",
+        "Scientific name": "Silometopus acutus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sirppinilvikki",
+        "Scientific name": "Silometopus reussi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sarvipalpikki",
+        "Scientific name": "Sintula corniger",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "herttamasukki",
+        "Scientific name": "Sisicus apertus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nauhatilkukki",
+        "Scientific name": "Stemonyphantes lineatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kenttämustakki",
+        "Scientific name": "Styloctetor compar",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Styloctetor stativus (Simon, 1881)"
+    },
+    {
+        "Vernacular name": "niittyviirikki",
+        "Scientific name": "Tallusia experta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lehtolatakki",
+        "Scientific name": "Tapinocyba biscissa",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsälatakki",
+        "Scientific name": "Tapinocyba insecta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammallatakki",
+        "Scientific name": "Tapinocyba pallens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkulatikki",
+        "Scientific name": "Tapinocyboides pygmaeus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hammashuovakki",
+        "Scientific name": "Tapinopa longidens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtaviiksikki",
+        "Scientific name": "Taranucnus setosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "varjopoimukki",
+        "Scientific name": "Tenuiphantes alacris",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töyhtöpoimukki",
+        "Scientific name": "Tenuiphantes cristatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "peltopoimukki",
+        "Scientific name": "Tenuiphantes mengei",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pensaspoimukki",
+        "Scientific name": "Tenuiphantes nigriventris",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "maapoimukki",
+        "Scientific name": "Tenuiphantes tenebricola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ankkuripoimukki",
+        "Scientific name": "Tenuiphantes tenuis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lännenpoimukki",
+        "Scientific name": "Tenuiphantes zimmermanni",
+        "Status in Finland": "",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muurahaiskeokki",
+        "Scientific name": "Thyreosthenius biovatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lahokeokki",
+        "Scientific name": "Thyreosthenius parasiticus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töpöasekki",
+        "Scientific name": "Tibioploides arcuatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "teräasekki",
+        "Scientific name": "Tibioplus diversus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "vuoritisokki",
+        "Scientific name": "Tiso aestivus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "samotisokki",
+        "Scientific name": "Tiso vagans",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "leukanirhakki",
+        "Scientific name": "Tmeticus affinis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantakoprakki",
+        "Scientific name": "Trichoncus hackmani",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietasorsakki",
+        "Scientific name": "Trichopterna cito",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "puskusorsakki",
+        "Scientific name": "Trichopternoides thorelli",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Aapamire species – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": "Trichopterna thorelli"
+    },
+    {
+        "Vernacular name": "pöllökki",
+        "Scientific name": "Troxochrota scabra",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "karvapannakki",
+        "Scientific name": "Troxochrus scabriculus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummisolmikki",
+        "Scientific name": "Typhochrestus digitatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjantöpökki",
+        "Scientific name": "Wabasso replicatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mastosarvikki",
+        "Scientific name": "Walckenaeria acuminata",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töyhtösarvikki",
+        "Scientific name": "Walckenaeria alticeps",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sulkasarvikki",
+        "Scientific name": "Walckenaeria antica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "satulasarvikki",
+        "Scientific name": "Walckenaeria atrotibialis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tuplasarvikki",
+        "Scientific name": "Walckenaeria capito",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nuijasarvikki",
+        "Scientific name": "Walckenaeria clavicornis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lovisarvikki",
+        "Scientific name": "Walckenaeria cucullata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suipposarvikki",
+        "Scientific name": "Walckenaeria cuspidata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lattasarvikki",
+        "Scientific name": "Walckenaeria dysderoides",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "haarusarvikki",
+        "Scientific name": "Walckenaeria furcillata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kolkkasarvikki",
+        "Scientific name": "Walckenaeria karpinskii",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hanasarvikki",
+        "Scientific name": "Walckenaeria kochi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kyhmysarvikki",
+        "Scientific name": "Walckenaeria lepida",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pallosarvikki",
+        "Scientific name": "Walckenaeria mitrata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tupsusarvikki",
+        "Scientific name": "Walckenaeria monoceros",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pahkasarvikki",
+        "Scientific name": "Walckenaeria nodosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kohosarvikki",
+        "Scientific name": "Walckenaeria nudipalpis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töpösarvikki",
+        "Scientific name": "Walckenaeria obtusa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "korpisarvikki",
+        "Scientific name": "Walckenaeria picetorum",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nystysarvikki",
+        "Scientific name": "Walckenaeria unicornis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tasasarvikki",
+        "Scientific name": "Walckenaeria vigilax",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "",
+        "Scientific name": "Walckenaeria vilbasteae",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjanveitsikki",
+        "Scientific name": "Zornella cultrigera",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruskolyhdykki",
+        "Scientific name": "Agroeca brunnea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kuparilyhdykki",
+        "Scientific name": "Agroeca cuprea",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkalyhdykki",
+        "Scientific name": "Agroeca dentigera",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Aapamire species – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangaslyhdykki",
+        "Scientific name": "Agroeca proxima",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lehtolyhdykki",
+        "Scientific name": "Apostenus fuscus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitalyhdykki",
+        "Scientific name": "Liocranoeca striata",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummilyhdykki",
+        "Scientific name": "Scotina gracilipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rämelyhdykki",
+        "Scientific name": "Scotina palliardii",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "louhipantrikki",
+        "Scientific name": "Acantholycosa lignaria",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rakkapantrikki",
+        "Scientific name": "Acantholycosa norvegica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangasleokki",
+        "Scientific name": "Alopecosa aculeata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummileokki",
+        "Scientific name": "Alopecosa barbipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjeleokki",
+        "Scientific name": "Alopecosa cuneata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietaleokki",
+        "Scientific name": "Alopecosa cursor",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isoleokki",
+        "Scientific name": "Alopecosa fabrilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pilkkuleokki",
+        "Scientific name": "Alopecosa inquilina",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mäntyleokki",
+        "Scientific name": "Alopecosa pinetorum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitaleokki",
+        "Scientific name": "Alopecosa pulverulenta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäleokki",
+        "Scientific name": "Alopecosa taeniata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittyleokki",
+        "Scientific name": "Alopecosa trabalis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suo-otsokki",
+        "Scientific name": "Arctosa alpigena",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jättiotsokki",
+        "Scientific name": "Arctosa cinerea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummiotsokki",
+        "Scientific name": "Arctosa figurata",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantaotsokki",
+        "Scientific name": "Arctosa leopardus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "dyyniotsokki",
+        "Scientific name": "Arctosa perita",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kärpäkki",
+        "Scientific name": "Aulonia albimana",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rumpalirevokki",
+        "Scientific name": "Hygrolycosa rubrofasciata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "peltosusikki",
+        "Scientific name": "Pardosa agrestis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantasusikki",
+        "Scientific name": "Pardosa agricola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittysusikki",
+        "Scientific name": "Pardosa amentata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nokisusikki",
+        "Scientific name": "Pardosa atrata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jäkäläsusikki",
+        "Scientific name": "Pardosa eiseni",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "keltajalkasusikki",
+        "Scientific name": "Pardosa fulvipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjansusikki",
+        "Scientific name": "Pardosa hyperborea",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lapinsusikki",
+        "Scientific name": "Pardosa lapponica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "taigasusikki",
+        "Scientific name": "Pardosa lasciva",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kenttäsusikki",
+        "Scientific name": "Pardosa lugubris",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "aapasusikki",
+        "Scientific name": "Pardosa maisa",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Aapamire species – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kalliosusikki",
+        "Scientific name": "Pardosa monticola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kanervasusikki",
+        "Scientific name": "Pardosa nigriceps",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mustasusikki",
+        "Scientific name": "Pardosa paludicola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suosusikki",
+        "Scientific name": "Pardosa palustris",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sulkasusikki",
+        "Scientific name": "Pardosa plumipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "törmäsusikki",
+        "Scientific name": "Pardosa prativaga",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kosteikkosusikki",
+        "Scientific name": "Pardosa pullata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ahosusikki",
+        "Scientific name": "Pardosa riparia",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paahdesusikki",
+        "Scientific name": "Pardosa schenkeli",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkasusikki",
+        "Scientific name": "Pardosa sphagnicola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lampirosvokki",
+        "Scientific name": "Pirata piraticus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isorosvokki",
+        "Scientific name": "Pirata piscatorius",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suorosvokki",
+        "Scientific name": "Piratula uliginosa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Pirata uliginosus"
+    },
+    {
+        "Vernacular name": "luhtarosvokki",
+        "Scientific name": "Piratula hygrophila",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Pirata hygrophilus"
+    },
+    {
+        "Vernacular name": "pikkurosvokki",
+        "Scientific name": "Piratula insularis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Pirata insularis"
+    },
+    {
+        "Vernacular name": "peltokarhukki",
+        "Scientific name": "Trochosa ruricola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suokarhukki",
+        "Scientific name": "Trochosa spinipalpis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "maakarhukki",
+        "Scientific name": "Trochosa terricola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietahukakki",
+        "Scientific name": "Xerolycosa miniata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nummihukakki",
+        "Scientific name": "Xerolycosa nemoralis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "soikkopedokki",
+        "Scientific name": "Ero cambridgei",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pallopedokki",
+        "Scientific name": "Ero furcata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kyhmypedokki",
+        "Scientific name": "Ero tuberculata",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtaodakki",
+        "Scientific name": "Zora armillata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lehto-odakki",
+        "Scientific name": "Zora nemoralis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lapinodakki",
+        "Scientific name": "Zora palmgreni",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Zora nemoralis palmgreni"
+    },
+    {
+        "Vernacular name": "letto-odakki",
+        "Scientific name": "Zora parallela",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäodakki",
+        "Scientific name": "Zora silvestris",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangasodakki",
+        "Scientific name": "Zora spinimana",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "euroluolakki",
+        "Scientific name": "Nesticus cellulanus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hyrrätalokki",
+        "Scientific name": "Oecobius navus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ilvespompukki",
+        "Scientific name": "Oxyopes ramosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kultanopsakki",
+        "Scientific name": "Philodromus aureolus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jokanopsakki",
+        "Scientific name": "Philodromus cespitum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viirunopsakki",
+        "Scientific name": "Philodromus collinus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "harmonopsakki",
+        "Scientific name": "Philodromus emarginatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havunopsakki",
+        "Scientific name": "Philodromus fuscomarginatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tuohinopsakki",
+        "Scientific name": "Philodromus margaritatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jäkälänopsakki",
+        "Scientific name": "Philodromus poecilus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturitanakki",
+        "Scientific name": "Thanatus arcticus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietatanakki",
+        "Scientific name": "Thanatus arenarius",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sukkulatanakki",
+        "Scientific name": "Thanatus formicinus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitatanakki",
+        "Scientific name": "Thanatus striatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantakorsikki",
+        "Scientific name": "Tibellus maritimus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viirukorsikki",
+        "Scientific name": "Tibellus oblongus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hietanopsakki",
+        "Scientific name": "Rhysodromus fallax",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": "Philodromus fallax Sundevall, 1833"
+    },
+    {
+        "Vernacular name": "kanervanopsakki",
+        "Scientific name": "Rhysodromus histrio",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Philodromus histrio (Latreille, 1819)"
+    },
+    {
+        "Vernacular name": "isovaaksikki",
+        "Scientific name": "Pholcus phalangioides",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sinivaaksikki",
+        "Scientific name": "Psilochorus simoni",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lapiomaurikki",
+        "Scientific name": "Phrurolithus festivus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitarannakki",
+        "Scientific name": "Dolomedes fimbriatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isorannakki",
+        "Scientific name": "Dolomedes plantarius",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kanervakiidokki",
+        "Scientific name": "Pisaura mirabilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "merkkihypykki",
+        "Scientific name": "Aelurillus v-insignitus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkatäplähypykki",
+        "Scientific name": "Attulus caricis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Sitticus caricis (Westring, 1861); Sittiflor caricis (Westring, 1861)"
+    },
+    {
+        "Vernacular name": "dyynitäplähypykki",
+        "Scientific name": "Attulus distinguendus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Sitticus distinguendus (Simon, 1868)"
+    },
+    {
+        "Vernacular name": "ruokotäplähypykki",
+        "Scientific name": "Attulus floricola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Sitticus floricola (C. L. Koch, 1837); Sittiflor floricola (C. L. Koch, 1837)"
+    },
+    {
+        "Vernacular name": "karvatäplähypykki",
+        "Scientific name": "Attulus pubescens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Sitticus pubescens (Fabricius, 1775)"
+    },
+    {
+        "Vernacular name": "hietatäplähypykki",
+        "Scientific name": "Attulus saltator",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Sitticus saltator (O. P.-Cambridge, 1868)"
+    },
+    {
+        "Vernacular name": "seinätäplähypykki",
+        "Scientific name": "Attulus terebratus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Sitticus terebratus (Clerck, 1757)"
+    },
+    {
+        "Vernacular name": "soratäplähypykki",
+        "Scientific name": "Attulus zimmermanni",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": "Sitticus zimmermanni (Simon, 1877); Sittiflor zimmermanni (Simon, 1877)"
+    },
+    {
+        "Vernacular name": "keihäsmäntyhypykki",
+        "Scientific name": "Dendryphantes hastatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nauhamäntyhypykki",
+        "Scientific name": "Dendryphantes rudis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viiksihypykki",
+        "Scientific name": "Euophrys frontalis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sankasirppihypykki",
+        "Scientific name": "Evarcha arcuata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangassirppihypykki",
+        "Scientific name": "Evarcha falcata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suosirppihypykki",
+        "Scientific name": "Evarcha laetabunda",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pronssikiiltohypykki",
+        "Scientific name": "Heliophanus aeneus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kultakiiltohypykki",
+        "Scientific name": "Heliophanus auratus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rämekiiltohypykki",
+        "Scientific name": "Heliophanus camtschadalicus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kuparikiiltohypykki",
+        "Scientific name": "Heliophanus cupreus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "laikkukiiltohypykki",
+        "Scientific name": "Heliophanus dubius",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ketokiiltohypykki",
+        "Scientific name": "Heliophanus flavipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruokohypykki",
+        "Scientific name": "Marpissa radiata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muurahaishypykki",
+        "Scientific name": "Myrmarachne formicaria",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paahdepikkuhypykki",
+        "Scientific name": "Neon levis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "karikepikkuhypykki",
+        "Scientific name": "Neon reticulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paasipikkuhypykki",
+        "Scientific name": "Neon robustus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkapikkuhypykki",
+        "Scientific name": "Neon valentulus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjanhypykki",
+        "Scientific name": "Pellenes lapponicus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ristihypykki",
+        "Scientific name": "Pellenes tripunctatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitahypykki",
+        "Scientific name": "Phlegra fasciata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "runkohypykki",
+        "Scientific name": "Pseudeuophrys erratica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luotohypykki",
+        "Scientific name": "Pseudicius encarpatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "runkoseeprahypykki",
+        "Scientific name": "Salticus cingulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kiviseeprahypykki",
+        "Scientific name": "Salticus scenicus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "muskelihypykki",
+        "Scientific name": "Sibianor larae",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viholaishypykki",
+        "Scientific name": "Synageles venator",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "linssijäkälähypykki",
+        "Scientific name": "Talavera aequipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paahdejäkälähypykki",
+        "Scientific name": "Talavera esyunini",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suojäkälähypykki",
+        "Scientific name": "Talavera parvistyla",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kinnasjäkälähypykki",
+        "Scientific name": "Talavera petrensis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ketojäkälähypykki",
+        "Scientific name": "Talavera thorelli",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturitäplähypykki",
+        "Scientific name": "Sittisax ranieri",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Sitticus ranieri (Peckham & Peckham, 1909); Attulus ranieri (Peckham & Peckham, 1909)"
+    },
+    {
+        "Vernacular name": "pahtatorvikki",
+        "Scientific name": "Segestria senoculata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "museoruskokki",
+        "Scientific name": "Loxosceles laeta",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viherjahdikki",
+        "Scientific name": "Micrommata virescens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luola-aukokki",
+        "Scientific name": "Meta menardi",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kevätaukokki",
+        "Scientific name": "Metellina mengei",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "onkaloaukokki",
+        "Scientific name": "Metellina merianae",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "syysaukokki",
+        "Scientific name": "Metellina segmentata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantaleuakki",
+        "Scientific name": "Pachygnatha clercki",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittyleuakki",
+        "Scientific name": "Pachygnatha degeeri",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäleuakki",
+        "Scientific name": "Pachygnatha listeri",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtasauvakki",
+        "Scientific name": "Tetragnatha dearmata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantasauvakki",
+        "Scientific name": "Tetragnatha extensa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "etelänsauvakki",
+        "Scientific name": "Tetragnatha montana",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tummasauvakki",
+        "Scientific name": "Tetragnatha nigrita",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tylppäsauvakki",
+        "Scientific name": "Tetragnatha obtusa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havusauvakki",
+        "Scientific name": "Tetragnatha pinicola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitasauvakki",
+        "Scientific name": "Tetragnatha striata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangaspavukki",
+        "Scientific name": "Asagena phalerata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Steatoda phalerata"
+    },
+    {
+        "Vernacular name": "kuusipallokki",
+        "Scientific name": "Canalidion montanum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Theridion montanum"
+    },
+    {
+        "Vernacular name": "täplänupikki",
+        "Scientific name": "Crustulina guttata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kivikkonupikki",
+        "Scientific name": "Crustulina sticta",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "törmäpisarakki",
+        "Scientific name": "Cryptachaea riparia",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Achaearanea riparia"
+    },
+    {
+        "Vernacular name": "",
+        "Scientific name": "Dipoena erythropus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsämurkukki",
+        "Scientific name": "Dipoena torva",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "valkohelmikki",
+        "Scientific name": "Enoplognatha ovata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tummahelmikki",
+        "Scientific name": "Enoplognatha thoracica",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kulmalangakki",
+        "Scientific name": "Episinus angulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "täpläköytökki",
+        "Scientific name": "Euryopis flavomaculata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "töpököytökki",
+        "Scientific name": "Euryopis laeta",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sukkamurkukki",
+        "Scientific name": "Lasaeola coracina",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Dipoena coracina"
+    },
+    {
+        "Vernacular name": "nokkamurkukki",
+        "Scientific name": "Lasaeola prona",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Dipoena prona"
+    },
+    {
+        "Vernacular name": "mustamurkukki",
+        "Scientific name": "Lasaeola tristis",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nauhapallokki",
+        "Scientific name": "Neottiura bimaculata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havupallokki",
+        "Scientific name": "Ohlertidion ohlerti",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Theridion ohlerti; Achaearanea ohlerti"
+    },
+    {
+        "Vernacular name": "kalvaspallokki",
+        "Scientific name": "Paidiscura pallens",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "loistopisarakki",
+        "Scientific name": "Parasteatoda lunata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Achaearanea lunata"
+    },
+    {
+        "Vernacular name": "vaaleapisarakki",
+        "Scientific name": "Parasteatoda simulans",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": "Achaearanea simulans"
+    },
+    {
+        "Vernacular name": "ansaripisarakki",
+        "Scientific name": "Parasteatoda tepidariorum",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Achaearanea tepidariorum"
+    },
+    {
+        "Vernacular name": "haarnikki",
+        "Scientific name": "Pholcomma gibbum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "okamurkukki",
+        "Scientific name": "Phycosoma inornatum",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viirupallokki",
+        "Scientific name": "Phylloneta impressa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Theridion impressum"
+    },
+    {
+        "Vernacular name": "naamiopallokki",
+        "Scientific name": "Phylloneta sisyphia",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Theridion sisyphium"
+    },
+    {
+        "Vernacular name": "kirjopallokki",
+        "Scientific name": "Platnickina tincta",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Keijia tincta (Walckenaer, 1802)"
+    },
+    {
+        "Vernacular name": "suoroopekki",
+        "Scientific name": "Robertus arundineti",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäroopekki",
+        "Scientific name": "Robertus lividus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pohjanroopekki",
+        "Scientific name": "Robertus lyrifer",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "laideroopekki",
+        "Scientific name": "Robertus neglectus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mätäsroopekki",
+        "Scientific name": "Robertus scoticus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkaroopekki",
+        "Scientific name": "Robertus ungulatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "louhipallokki",
+        "Scientific name": "Rugathodes bellicosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtapallokki",
+        "Scientific name": "Rugathodes instabilis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kanervapallokki",
+        "Scientific name": "Simitidion simile",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "täpläpavukki",
+        "Scientific name": "Steatoda albomaculata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pilkkupavukki",
+        "Scientific name": "Steatoda bipunctata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruskopavukki",
+        "Scientific name": "Steatoda castanea",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "isopavukki",
+        "Scientific name": "Steatoda grossa",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkumaahikki",
+        "Scientific name": "Theonoe minutissima",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tummapallokki",
+        "Scientific name": "Theridion melanurum",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hämypallokki",
+        "Scientific name": "Theridion mystaceum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "keihäspallokki",
+        "Scientific name": "Theridion pictum",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "mäntypallokki",
+        "Scientific name": "Theridion pinastri",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "harmopallokki",
+        "Scientific name": "Theridion varians",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kaunopallokki",
+        "Scientific name": "Thymoites bellissimus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "taigapallokki",
+        "Scientific name": "Yunohamella palmgreni",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Theridion palmgreni Marusik & Cellarius, 1986"
+    },
+    {
+        "Vernacular name": "viitapallokki",
+        "Scientific name": "Yunohamella serpatusa",
+        "Status in Finland": "",
+        "Red List category in Finland": "",
+        "Regulatory Status": "",
+        "Synonyms": "Theridion tigrae Esyunin & Efimik, 1996"
+    },
+    {
+        "Vernacular name": "lattaravukki",
+        "Scientific name": "Coriarachne depressa",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "viherravukki",
+        "Scientific name": "Diaea dorsata",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kukkaravukki",
+        "Scientific name": "Misumena vatia",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tundraravukki",
+        "Scientific name": "Ozyptila arctica",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammalravukki",
+        "Scientific name": "Ozyptila atomaria",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kosteikkoravukki",
+        "Scientific name": "Ozyptila brevipes",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "nuijaravukki",
+        "Scientific name": "Ozyptila claveata",
+        "Status in Finland": "Irregular vagrant",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lettoravukki",
+        "Scientific name": "Ozyptila gertschi",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Species to be protected urgently (Finnish Environment Institute 2010-2011); Aapamire species – SUMI Project 2020; Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "niittyravukki",
+        "Scientific name": "Ozyptila praticola",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paahderavukki",
+        "Scientific name": "Ozyptila scabricula",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ruohoravukki",
+        "Scientific name": "Ozyptila trux",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "meriravukki",
+        "Scientific name": "Ozyptila westringi",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tummaravukki",
+        "Scientific name": "Xysticus acerbus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NE (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kaksosravukki",
+        "Scientific name": "Xysticus audax",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "raitaravukki",
+        "Scientific name": "Xysticus bifasciatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sararavukki",
+        "Scientific name": "Xysticus chippewa",
+        "Status in Finland": "",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "samoravukki",
+        "Scientific name": "Xysticus cristatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kangasravukki",
+        "Scientific name": "Xysticus erraticus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "soraravukki",
+        "Scientific name": "Xysticus kochi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "punaravukki",
+        "Scientific name": "Xysticus lanio",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "luhtaravukki",
+        "Scientific name": "Xysticus lineatus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "lehtoravukki",
+        "Scientific name": "Xysticus luctator",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021; Species used in the automatic procedure for forest use notifications (MKI-OHKE 2023); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "metsäravukki",
+        "Scientific name": "Xysticus luctuosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "havuravukki",
+        "Scientific name": "Xysticus obscurus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "suoravukki",
+        "Scientific name": "Xysticus ulmi",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "jokiravukki",
+        "Scientific name": "Xysticus viduus",
+        "Status in Finland": "",
+        "Red List category in Finland": "VU (2019)",
+        "Regulatory Status": "Threatened species (NCD 2023/1066, Appendix 6); OUTDATED Threatened species (NCD 1997/160, Appendix 4 2013/471)",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "tunturiravukki",
+        "Scientific name": "Psammitis albidus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Xysticus albidus Grese, 1909"
+    },
+    {
+        "Vernacular name": "hietaravukki",
+        "Scientific name": "Psammitis sabulosus",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Xysticus sabulosus (Hahn, 1832)"
+    },
+    {
+        "Vernacular name": "lumilouhikki",
+        "Scientific name": "Titanoeca nivalis",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "paahdelouhikki",
+        "Scientific name": "Titanoeca spominima",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Titanoeca psammophila"
+    },
+    {
+        "Vernacular name": "sektorikki",
+        "Scientific name": "Hyptiotes paradoxus",
+        "Status in Finland": "",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ansarikolmikki",
+        "Scientific name": "Uloborus plumipes",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "hituvaleskorpioni",
+        "Scientific name": "Apocheiridium rossicum",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pikkuvaleskorpioni",
+        "Scientific name": "Cheiridium museorum",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kirjavaleskorpioni",
+        "Scientific name": "Chelifer cancroides",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rantavaleskorpioni",
+        "Scientific name": "Dactylochelifer latreillii",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": "Dactylochelifer latreillei (Leach, 1817)"
+    },
+    {
+        "Vernacular name": "lahovaleskorpioni",
+        "Scientific name": "Allochernes wideri",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kennovaleskorpioni",
+        "Scientific name": "Chernes cimicoides",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "honkavaleskorpioni",
+        "Scientific name": "Chernes nigrimanus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kaarnavaleskorpioni",
+        "Scientific name": "Dendrochernes cyrneus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "NT (2019)",
+        "Regulatory Status": "Safeguarding Endangered Species in Forestry – Lajiturva Project 2019–2021",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "pesävaleskorpioni",
+        "Scientific name": "Dinocheirus panzeri",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kulmavaleskorpioni",
+        "Scientific name": "Lamprochernes chyzeri",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kyhmyvaleskorpioni",
+        "Scientific name": "Lamprochernes nodosus",
+        "Status in Finland": "Import",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "multavaleskorpioni",
+        "Scientific name": "Pselaphochernes dubius",
+        "Status in Finland": "",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "puistovaleskorpioni",
+        "Scientific name": "Pselaphochernes scorpioides",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "saaristovaleskorpioni",
+        "Scientific name": "Chthonius tetrachelatus",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "ansarivaleskorpioni",
+        "Scientific name": "Chthonius ischnocheles",
+        "Status in Finland": "Anthropogenic",
+        "Red List category in Finland": "NA (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "rahkavaleskorpioni",
+        "Scientific name": "Microbisium brevifemoratum",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "kivikkovaleskorpioni",
+        "Scientific name": "Microbisium suecicum",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "DD (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    },
+    {
+        "Vernacular name": "sammalvaleskorpioni",
+        "Scientific name": "Neobisium carcinoides",
+        "Status in Finland": "Stable population",
+        "Red List category in Finland": "LC (2019)",
+        "Regulatory Status": "",
+        "Synonyms": ""
+    }
+]

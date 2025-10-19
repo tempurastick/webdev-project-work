@@ -1,13 +1,17 @@
 .btn {
-    @apply font-bold py-2 px-5 rounded focus:outline-2 focus:outline-offset-2; 
+    @apply font-bold py-2 px-5 rounded focus:outline-2 focus:outline-offset-2 transition duration-200; 
 }
 
 .btn-primary {
-    @apply  bg-indigo-500 border-2 border-indigo-500 hover:border-indigo-700 hover:bg-indigo-700 text-white hover:text-neutral-50 focus:outline-indigo-500 disabled:bg-gray-400 disabled:border-gray-400;
+    @apply bg-indigo-500 border-2 border-indigo-500 hover:border-indigo-700 hover:bg-indigo-700 text-white hover:text-neutral-50 focus:outline-indigo-500 disabled:bg-indigo-300 disabled:border-indigo-300 hover:shadow-lg shadow-indigo-500/50;
+
+    &.--loading {
+        @apply animate-pulse bg-indigo-300 border-indigo-300;
+    }
 }
 
 .btn-outline {
-    @apply text-indigo-500 border-2 hover:border-indigo-700 hover:text-indigo-700;
+    @apply text-indigo-500 border-2 hover:border-indigo-700 hover:text-indigo-700 hover:shadow-lg shadow-indigo-200/50;
 }
 
 .btn-reset {
@@ -30,3 +34,4 @@
     gap: 6px;
     justify-content: center;
 }
+
