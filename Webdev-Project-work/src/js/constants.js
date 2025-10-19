@@ -52,4 +52,6 @@ export const EVENTS = {
     SPECIES_DATA_READY: "speciesDataFetched",
     CLEAR_DATA: "clearData",
     ERROR: "error",
+    PRINT_HEATMAP: "prinHeatMap",
+    TOGGLE_HEATMAP: "toggleHeatMap",
 };

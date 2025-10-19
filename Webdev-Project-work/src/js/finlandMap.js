@@ -1,5 +1,7 @@
 import { CONFIG, EVENTS } from "./constants";
-
+import "leaflet/dist/leaflet.css";
+import L from "leaflet";
+import "leaflet-easyprint";
 export default class FinlandMap {
     #baseMapSource;
     #satelliteMapSource;
@@ -19,6 +21,7 @@ export default class FinlandMap {
         this.heatmapLayers = {};
         this.layerControl = null;
         this.finlandBounds = null;
+        this.printControl = null;
         this.#boundaryColour = "oklch(58.5% 0.233 277.117)"; // tailwind indigo-500
         this.#baseMapSource = CONFIG.BGMAP;
         this.#satelliteMapSource = CONFIG.SATELLITEMAP;
@@ -39,6 +42,17 @@ export default class FinlandMap {
 
         this._setMapBounds();
         this._setMapLayerControl();
+        this._setPrintPlugin();
+    }
+
+    _setPrintPlugin() {
+        this.printControl = L.easyPrint({
+            title: "Download map image",
+            position: "topleft",
+            filename: "finland_species_map",
+            exportOnly: true,
+            sizeModes: ["Current", "A4Portrait"],
+        }).addTo(this.map);
     }
 
     _registerEventListeners() {
@@ -49,6 +63,53 @@ export default class FinlandMap {
         document.addEventListener(EVENTS.CLEAR_DATA, async (event) => {
             this._clearMapData();
         });
+
+        document.addEventListener(EVENTS.PRINT_HEATMAP, async (event) => {
+            this._triggerPrint(event.detail);
+        });
+
+        document.addEventListener(EVENTS.TOGGLE_HEATMAP, async (event) => {
+            this._toggleHeatmap(event.detail);
+        });
+    }
+
+    _triggerPrint(taxon) {
+        const taxonName = taxon.taxonName;
+
+        Object.entries(this.heatmapLayers).forEach(([name, layer]) => {
+            if (name !== taxonName && this.map.hasLayer(layer)) {
+                this.map.removeLayer(layer);
+            }
+        });
+
+        this.printControl.printMap(
+            "CurrentSize",
+            `finland_species_map_${taxonName}`
+        );
+
+        setTimeout(() => {
+            Object.entries(this.heatmapLayers).forEach(([name, layer]) => {
+                if (!this.map.hasLayer(layer)) {
+                    layer.addTo(this.map);
+                }
+            });
+        }, 1200);
+    }
+
+    _toggleHeatmap(taxon) {
+        const taxonName = taxon.taxonName;
+        const layer = this.heatmapLayers[taxonName];
+
+        if (!layer) {
+            console.warn(`No heatmap found for ${taxonName}`);
+            return;
+        }
+        // toggle display
+        if (this.map.hasLayer(layer)) {
+            this.map.removeLayer(layer);
+        } else {
+            layer.addTo(this.map);
+        }
     }
 
     _handleNewObservations(observations) {

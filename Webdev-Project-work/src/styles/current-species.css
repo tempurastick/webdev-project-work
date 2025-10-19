@@ -48,4 +48,18 @@
     @apply flex flex-col gap-2;
 }
 
+.current-species-toggle-heatmap-btn {
+    &.--visible {
+        .fa-eye-slash {
+            display: none;
+        }
+    }
+
+    &.--hidden {
+        .fa-eye {
+            display: none;
+        }
+    }
+}
+
 /* TODO: move leaflet layer control (or clone) to the current card so we can directly control it on the card */

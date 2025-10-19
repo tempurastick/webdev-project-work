@@ -1,6 +1,7 @@
 import { CONFIG, SPECIES_GLOSSARY, EVENTS } from "./constants.js";
 
 import { icons } from "./assets.js";
+import { debounce } from "./helpers.js";
 
 export default class DomRenderer {
     constructor(dataHandler) {
@@ -208,8 +209,53 @@ export default class DomRenderer {
             ),
         });
 
+        this._registerCurrentSpeciesEventListeners({
+            printBtn: speciesCardFragment.querySelector(
+                ".current-species-print-heatmap-btn"
+            ),
+            toggleBtn: speciesCardFragment.querySelector(
+                ".current-species-toggle-heatmap-btn"
+            ),
+            taxonName: taxon?.name,
+        });
+
         this.currentSpeciesContainer.appendChild(speciesCardFragment);
+
         // maybe should have an info about how many sightings there were etc too
+    }
+
+    _registerCurrentSpeciesEventListeners({ printBtn, toggleBtn, taxonName }) {
+        printBtn.addEventListener("click", () => {
+            debounce(this._sendPrintHeatmapEvent(taxonName), 100);
+        });
+
+        toggleBtn.addEventListener("click", () => {
+            this._sendToggleHeatmapEvent(taxonName);
+            const isVisible = toggleBtn.classList.toggle("--hidden");
+            const textEl = toggleBtn.querySelector(
+                ".current-species-toggle-heatmap-btn__text"
+            );
+            textEl.textContent = isVisible ? "Show" : "Hide";
+
+            toggleBtn.classList.toggle("--visible");
+            //toggleBtn.classList.toggle("--hidden");
+        });
+    }
+
+    _sendPrintHeatmapEvent(taxon) {
+        const printEvent = new CustomEvent(EVENTS.PRINT_HEATMAP, {
+            detail: { taxonName: taxon },
+        });
+
+        document.dispatchEvent(printEvent);
+    }
+
+    _sendToggleHeatmapEvent(taxon) {
+        const hideEvent = new CustomEvent(EVENTS.TOGGLE_HEATMAP, {
+            detail: { taxonName: taxon },
+        });
+
+        document.dispatchEvent(hideEvent);
     }
 
     _conservationStatus({
