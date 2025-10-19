@@ -158,9 +158,12 @@ export default class FinlandMap {
         }
 
         const baseMaps = {
-            satellite: this.satelliteMap,
             outline: this.baseMap,
         };
+
+        if (import.meta.env.DEV) {
+            baseMaps.satellite = this.satelliteMap;
+        }
 
         const currentOverlapMaps = {};
 
